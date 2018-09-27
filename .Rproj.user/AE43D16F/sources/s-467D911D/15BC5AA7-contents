@@ -1,7 +1,7 @@
 name: "Markus List"
 output_dir: "."
 navbar:
-  title: "Junior Research Group on Big Data in Biomedicine"
+  title: "Big Data in Biomedicine"
   left:
     - text: "News"
       href: index.html
