@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4235844577",
+    "hash" : "0",
     "id" : "15BC5AA7",
-    "lastKnownWriteTime" : 1538042393,
-    "last_content_update" : 1538042393870,
+    "lastKnownWriteTime" : 1538057155,
+    "last_content_update" : 1538057156002,
     "path" : "/repos/biomedical-big-data/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {
-        "cursorPosition" : "6,17",
+        "cursorPosition" : "14,21",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },

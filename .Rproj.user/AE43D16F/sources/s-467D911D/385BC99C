@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538052956980.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1313621955",
+    "id" : "385BC99C",
+    "lastKnownWriteTime" : 1538058613,
+    "last_content_update" : 1538058613968,
+    "path" : "/repos/biomedical-big-data/head.Rmd",
+    "project_path" : "head.Rmd",
+    "properties" : {
+        "cursorPosition" : "12,3",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

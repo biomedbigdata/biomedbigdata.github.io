@@ -5,9 +5,9 @@ navbar:
   left:
     - text: "News"
       href: index.html
-    - text: "Projects"
-      href: projects.html
-    - text: "Software"
+    - text: "Members"
+      href: people.html
+    - text: "Software Tools"
       href: software.html
     - text: "Publications"
       href: publications.html
