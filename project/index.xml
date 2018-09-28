@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Big Data in Biomedicine</title>
-    <link>https://big-data-biomedicine.de/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 28 Sep 2018 19:39:58 +0200</lastBuildDate>
     
-	<atom:link href="https://big-data-biomedicine.de/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SPONGE</title>
-      <link>https://big-data-biomedicine.de/project/sponge/</link>
+      <link>/project/sponge/</link>
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/project/sponge/</guid>
+      <guid>/project/sponge/</guid>
       <description></description>
     </item>
     

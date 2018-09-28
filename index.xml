@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Big Data in Biomedicine on Big Data in Biomedicine</title>
-    <link>https://big-data-biomedicine.de/</link>
+    <link>/</link>
     <description>Recent content in Big Data in Biomedicine on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,28 +12,28 @@
     
     <item>
       <title>SPONGE</title>
-      <link>https://big-data-biomedicine.de/project/sponge/</link>
+      <link>/project/sponge/</link>
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/project/sponge/</guid>
+      <guid>/project/sponge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guest Lecture at CeMM</title>
-      <link>https://big-data-biomedicine.de/talk/cemm/</link>
+      <link>/talk/cemm/</link>
       <pubDate>Fri, 28 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/talk/cemm/</guid>
+      <guid>/talk/cemm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An ontology-based method for assessing batch effect adjustment approaches in heterogeneous datasets</title>
-      <link>https://big-data-biomedicine.de/publication/ontology_eval/</link>
+      <link>/publication/ontology_eval/</link>
       <pubDate>Sat, 08 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/ontology_eval/</guid>
+      <guid>/publication/ontology_eval/</guid>
       <description></description>
     </item>
     

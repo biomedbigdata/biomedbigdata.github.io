@@ -13,10 +13,10 @@
   
   
   
-  <meta name="description" content="Head of the Research Group">
+  <meta name="description" content="Head of the Research Group Big Data in Biomedicine">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://big-data-biomedicine.de/talk/">
+  <link rel="alternate" hreflang="en-us" href="/talk/">
 
   
 
@@ -47,6 +47,8 @@
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
 
     
 
@@ -65,15 +67,15 @@
   
 
   
-  <link rel="alternate" href="https://big-data-biomedicine.de/talk/index.xml" type="application/rss+xml" title="Big Data in Biomedicine">
-  <link rel="feed" href="https://big-data-biomedicine.de/talk/index.xml" type="application/rss+xml" title="Big Data in Biomedicine">
+  <link rel="alternate" href="/talk/index.xml" type="application/rss+xml" title="Big Data in Biomedicine">
+  <link rel="feed" href="/talk/index.xml" type="application/rss+xml" title="Big Data in Biomedicine">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://big-data-biomedicine.de/talk/">
+  <link rel="canonical" href="/talk/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -81,9 +83,9 @@
   <meta property="twitter:creator" content="@itisalist">
   
   <meta property="og:site_name" content="Big Data in Biomedicine">
-  <meta property="og:url" content="https://big-data-biomedicine.de/talk/">
+  <meta property="og:url" content="/talk/">
   <meta property="og:title" content="Recent &amp; Upcoming Talks | Big Data in Biomedicine">
-  <meta property="og:description" content="Head of the Research Group">
+  <meta property="og:description" content="Head of the Research Group Big Data in Biomedicine">
   <meta property="og:locale" content="en-us">
   
   <meta property="og:updated_time" content="2017-01-01T00:00:00&#43;01:00">
@@ -135,6 +137,25 @@
           <a href="/#about">
             
             <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#group">
+            
+            <span>Group</span>
             
           </a>
         </li>
@@ -208,6 +229,25 @@
         
 
         <li class="nav-item">
+          <a href="/#teaching">
+            
+            <span>Teaching</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
           <a href="/#contact">
             
             <span>Contact</span>
@@ -248,7 +288,7 @@
             
               <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/Event">
   <i class="fas fa-calendar-alt pub-icon" aria-hidden="true"></i>
-  <span itemprop="name"><a href="https://big-data-biomedicine.de/talk/cemm/">Guest Lecture at CeMM</a></span>
+  <span itemprop="name"><a href="/talk/cemm/">Guest Lecture at CeMM</a></span>
   <div itemprop="startDate">
     
     28. Sep 2018
@@ -271,7 +311,7 @@
 
 
   
-  <a class="btn btn-primary btn-outline btn-xs" href="https://big-data-biomedicine.de/project/sponge/">
+  <a class="btn btn-primary btn-outline btn-xs" href="/project/sponge/">
     Project
   </a>
   
@@ -366,17 +406,38 @@
 
     
     
-
-    
-    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
     
 
     
     
-
     
 
     
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    <script src="/js/search.js"></script>
     
 
     
