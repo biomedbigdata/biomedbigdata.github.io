@@ -1,6 +1,0 @@
----
-  title: "Publications"
-  bibliography: biomedbigdata.bib
-  nocite: '@*'
-  csl: apa.csl
----

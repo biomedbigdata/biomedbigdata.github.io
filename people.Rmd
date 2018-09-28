@@ -1,5 +1,0 @@
----
-  title: "Junior Research Group on Biomedical Big Data"
----
-  
-This is the website of the junior research group on biomedical big data

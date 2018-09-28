@@ -1,9 +1,0 @@
----
-  title: "Research"
----
-  
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:justify; vertical-align: middle; padding:20px; margin-top:30px">
-Our research is focused on better utilizing big heterogeneous data in biomedical research. To this end, we develop novel statistical and network learning methods that allow us to integrate molecular profiling data across different layers. In particular we integrate genomic, transcriptomic and epigenomic data by mapping them to molecular interaction networks. We further use these networks together with clinical patient data to build predictive methods for important clinical outcomes such as treatment success. 
-
-Our goal is to empower biomedical researchers and clinicans to interact with big heterogeneous data sets and prediction models. To achieve this, we develop user-friendly software tools. Most of our tools perform computations server-side and thus allow users to perform research even without access to extensive computing infrastructure. Our long-term vision is to achieve that big data that will be routinely collected in the near future is used effectively for diagnosis and therapy choise. To achieve this, we will need to overcome roadblocks in data integration, model tracability, explainability and privacy protection.
- </div><br/>
