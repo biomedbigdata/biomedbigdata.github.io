@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>multi-omics integration on Big Data in Biomedicine</title>
-    <link>https://big-data-biomedicine.de/tags/multi-omics-integration/</link>
+    <link>https://biomedical-big-data.de/tags/multi-omics-integration/</link>
     <description>Recent content in multi-omics integration on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://big-data-biomedicine.de/tags/multi-omics-integration/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://biomedical-big-data.de/tags/multi-omics-integration/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>KeyPathwayMinerWeb: online multi-omics network enrichment</title>
-      <link>https://big-data-biomedicine.de/publication/list-2016-nj/</link>
+      <link>https://biomedical-big-data.de/publication/list-2016-nj/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/list-2016-nj/</guid>
+      <guid>https://biomedical-big-data.de/publication/list-2016-nj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust de novo pathway enrichment with KeyPathwayMiner 5</title>
-      <link>https://big-data-biomedicine.de/publication/alcaraz-2016-by/</link>
+      <link>https://biomedical-big-data.de/publication/alcaraz-2016-by/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/alcaraz-2016-by/</guid>
+      <guid>https://biomedical-big-data.de/publication/alcaraz-2016-by/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Classification of Breast Cancer Subtypes by combining GeneExpression and DNA Methylation Data</title>
-      <link>https://big-data-biomedicine.de/publication/list-2014-ae/</link>
+      <link>https://biomedical-big-data.de/publication/list-2014-ae/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/list-2014-ae/</guid>
+      <guid>https://biomedical-big-data.de/publication/list-2014-ae/</guid>
       <description></description>
     </item>
     

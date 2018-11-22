@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bioconductor on Big Data in Biomedicine</title>
-    <link>https://big-data-biomedicine.de/tags/bioconductor/</link>
+    <link>https://biomedical-big-data.de/tags/bioconductor/</link>
     <description>Recent content in bioconductor on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://big-data-biomedicine.de/tags/bioconductor/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://biomedical-big-data.de/tags/bioconductor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DeepBlueR: large-scale epigenomic analysis in R</title>
-      <link>https://big-data-biomedicine.de/publication/albrecht-2017-oa/</link>
+      <link>https://biomedical-big-data.de/publication/albrecht-2017-oa/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/albrecht-2017-oa/</guid>
+      <guid>https://biomedical-big-data.de/publication/albrecht-2017-oa/</guid>
       <description></description>
     </item>
     

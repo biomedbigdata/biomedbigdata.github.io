@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Big Data in Biomedicine</title>
-    <link>https://big-data-biomedicine.de/talk/</link>
+    <link>https://biomedical-big-data.de/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://big-data-biomedicine.de/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://biomedical-big-data.de/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Guest Lecture at CeMM</title>
-      <link>https://big-data-biomedicine.de/talk/cemm/</link>
+      <link>https://biomedical-big-data.de/talk/cemm/</link>
       <pubDate>Fri, 28 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/talk/cemm/</guid>
+      <guid>https://biomedical-big-data.de/talk/cemm/</guid>
       <description></description>
     </item>
     

@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>functional genomics on Big Data in Biomedicine</title>
-    <link>https://big-data-biomedicine.de/tags/functional-genomics/</link>
+    <link>https://biomedical-big-data.de/tags/functional-genomics/</link>
     <description>Recent content in functional genomics on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://big-data-biomedicine.de/tags/functional-genomics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://biomedical-big-data.de/tags/functional-genomics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Systematic screening of isogenic cancer cells identifies DUSP6 as context-specific synthetic lethal target in melanoma</title>
-      <link>https://big-data-biomedicine.de/publication/wittig-blaich-2017-ds/</link>
+      <link>https://biomedical-big-data.de/publication/wittig-blaich-2017-ds/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/wittig-blaich-2017-ds/</guid>
+      <guid>https://biomedical-big-data.de/publication/wittig-blaich-2017-ds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protein-based nanotoxicology assessment strategy</title>
-      <link>https://big-data-biomedicine.de/publication/elnegaard-2017-hj/</link>
+      <link>https://biomedical-big-data.de/publication/elnegaard-2017-hj/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/elnegaard-2017-hj/</guid>
+      <guid>https://biomedical-big-data.de/publication/elnegaard-2017-hj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Management of High-Throughput Screening Libraries with SAVANAH</title>
-      <link>https://big-data-biomedicine.de/publication/list-2016-kj/</link>
+      <link>https://biomedical-big-data.de/publication/list-2016-kj/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/list-2016-kj/</guid>
+      <guid>https://biomedical-big-data.de/publication/list-2016-kj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comprehensive analysis of high-throughput screens with HiTSeekR</title>
-      <link>https://big-data-biomedicine.de/publication/list-2016-is/</link>
+      <link>https://biomedical-big-data.de/publication/list-2016-is/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/list-2016-is/</guid>
+      <guid>https://biomedical-big-data.de/publication/list-2016-is/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenLabNotes - An Electronic Laboratory Notebook Extension for OpenLabFramework</title>
-      <link>https://big-data-biomedicine.de/publication/list-2015-pq/</link>
+      <link>https://biomedical-big-data.de/publication/list-2015-pq/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/list-2015-pq/</guid>
+      <guid>https://biomedical-big-data.de/publication/list-2015-pq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microarray R-based analysis of complex lysate experiments with MIRACLE</title>
-      <link>https://big-data-biomedicine.de/publication/list-2014-qf/</link>
+      <link>https://biomedical-big-data.de/publication/list-2014-qf/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/list-2014-qf/</guid>
+      <guid>https://biomedical-big-data.de/publication/list-2014-qf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Sample Tracking With OpenLabFramework</title>
-      <link>https://big-data-biomedicine.de/publication/list-2014-dd/</link>
+      <link>https://biomedical-big-data.de/publication/list-2014-dd/</link>
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/list-2014-dd/</guid>
+      <guid>https://biomedical-big-data.de/publication/list-2014-dd/</guid>
       <description></description>
     </item>
     

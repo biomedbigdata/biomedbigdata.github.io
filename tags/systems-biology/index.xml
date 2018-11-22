@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>systems biology on Big Data in Biomedicine</title>
-    <link>https://big-data-biomedicine.de/tags/systems-biology/</link>
+    <link>https://biomedical-big-data.de/tags/systems-biology/</link>
     <description>Recent content in systems biology on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://big-data-biomedicine.de/tags/systems-biology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://biomedical-big-data.de/tags/systems-biology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>De novo pathway-based biomarker identification</title>
-      <link>https://big-data-biomedicine.de/publication/alcaraz-2017-zg/</link>
+      <link>https://biomedical-big-data.de/publication/alcaraz-2017-zg/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/alcaraz-2017-zg/</guid>
+      <guid>https://biomedical-big-data.de/publication/alcaraz-2017-zg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comprehensive analysis of high-throughput screens with HiTSeekR</title>
-      <link>https://big-data-biomedicine.de/publication/list-2016-is/</link>
+      <link>https://biomedical-big-data.de/publication/list-2016-is/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/list-2016-is/</guid>
+      <guid>https://biomedical-big-data.de/publication/list-2016-is/</guid>
       <description></description>
     </item>
     

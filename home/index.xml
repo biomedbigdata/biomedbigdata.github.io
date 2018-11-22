@@ -2,131 +2,131 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Big Data in Biomedicine</title>
-    <link>https://big-data-biomedicine.de/home/</link>
+    <link>https://biomedical-big-data.de/home/</link>
     <description>Recent content in Homes on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://big-data-biomedicine.de/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://biomedical-big-data.de/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://big-data-biomedicine.de/home/hero_carousel/</link>
+      <link>https://biomedical-big-data.de/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/home/hero_carousel/</guid>
+      <guid>https://biomedical-big-data.de/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://big-data-biomedicine.de/home/about/</link>
+      <link>https://biomedical-big-data.de/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/home/about/</guid>
+      <guid>https://biomedical-big-data.de/home/about/</guid>
       <description>Biography Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.
 We develop predictive models and software tools that integrate big heterogeneous (OMICS) data. Our long term vision is that our research finds application in clinical practice. Towards this goal, we also address challenges in data privacy as well as in explainability and continuity in modelling.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://big-data-biomedicine.de/home/publications_selected/</link>
+      <link>https://biomedical-big-data.de/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/home/publications_selected/</guid>
+      <guid>https://biomedical-big-data.de/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://big-data-biomedicine.de/home/skills/</link>
+      <link>https://biomedical-big-data.de/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/home/skills/</guid>
+      <guid>https://biomedical-big-data.de/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://big-data-biomedicine.de/home/publications/</link>
+      <link>https://biomedical-big-data.de/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/home/publications/</guid>
+      <guid>https://biomedical-big-data.de/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>https://big-data-biomedicine.de/home/talks_selected/</link>
+      <link>https://biomedical-big-data.de/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/home/talks_selected/</guid>
+      <guid>https://biomedical-big-data.de/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://big-data-biomedicine.de/home/talks/</link>
+      <link>https://biomedical-big-data.de/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/home/talks/</guid>
+      <guid>https://biomedical-big-data.de/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://big-data-biomedicine.de/home/posts/</link>
+      <link>https://biomedical-big-data.de/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/home/posts/</guid>
+      <guid>https://biomedical-big-data.de/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://big-data-biomedicine.de/home/projects/</link>
+      <link>https://biomedical-big-data.de/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/home/projects/</guid>
+      <guid>https://biomedical-big-data.de/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://big-data-biomedicine.de/home/teaching/</link>
+      <link>https://biomedical-big-data.de/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/home/teaching/</guid>
+      <guid>https://biomedical-big-data.de/home/teaching/</guid>
       <description> SS 2018  Einführung in die Bioinformatik II / Introduction to Bioinformatics II  WS 2018&amp;frasl;2019  Einführung in die Bioinformatik I Journal Club Bioinformatics  </description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://big-data-biomedicine.de/home/tags/</link>
+      <link>https://biomedical-big-data.de/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/home/tags/</guid>
+      <guid>https://biomedical-big-data.de/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://big-data-biomedicine.de/home/search/</link>
+      <link>https://biomedical-big-data.de/home/search/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/home/search/</guid>
+      <guid>https://biomedical-big-data.de/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://big-data-biomedicine.de/home/contact/</link>
+      <link>https://biomedical-big-data.de/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/home/contact/</guid>
+      <guid>https://biomedical-big-data.de/home/contact/</guid>
       <description></description>
     </item>
     

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cancer on Big Data in Biomedicine</title>
-    <link>https://big-data-biomedicine.de/tags/cancer/</link>
+    <link>https://biomedical-big-data.de/tags/cancer/</link>
     <description>Recent content in cancer on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 01 May 2018 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://big-data-biomedicine.de/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://biomedical-big-data.de/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MiRNA-181d Expression Significantly Affects Treatment Responsesto Carmustine Wafer Implantation</title>
-      <link>https://big-data-biomedicine.de/publication/sippl-2018-rr/</link>
+      <link>https://biomedical-big-data.de/publication/sippl-2018-rr/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/sippl-2018-rr/</guid>
+      <guid>https://biomedical-big-data.de/publication/sippl-2018-rr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The long non-coding RNA H19 suppresses carcinogenesis and chemoresistance in hepatocellular carcinoma</title>
-      <link>https://big-data-biomedicine.de/publication/schultheiss-2017-ia/</link>
+      <link>https://biomedical-big-data.de/publication/schultheiss-2017-ia/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/schultheiss-2017-ia/</guid>
+      <guid>https://biomedical-big-data.de/publication/schultheiss-2017-ia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systematic screening of isogenic cancer cells identifies DUSP6 as context-specific synthetic lethal target in melanoma</title>
-      <link>https://big-data-biomedicine.de/publication/wittig-blaich-2017-ds/</link>
+      <link>https://biomedical-big-data.de/publication/wittig-blaich-2017-ds/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://big-data-biomedicine.de/publication/wittig-blaich-2017-ds/</guid>
+      <guid>https://biomedical-big-data.de/publication/wittig-blaich-2017-ds/</guid>
       <description></description>
     </item>
     
