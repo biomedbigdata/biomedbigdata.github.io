@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Sep 2018 19:39:58 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/ihec/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Large-scale epigenomics data analysis</title>
+      <link>https://biomedical-big-data.de/project/deepblue/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/project/deepblue/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An ontology-based method for assessing batch effect adjustmentapproaches in heterogeneous datasets</title>

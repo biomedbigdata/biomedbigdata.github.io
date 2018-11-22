@@ -24,7 +24,7 @@
     <item>
       <title>IHEC</title>
       <link>https://biomedical-big-data.de/tags/ihec/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/ihec/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>bioconductor</title>
       <link>https://biomedical-big-data.de/tags/bioconductor/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/bioconductor/</guid>
       <description></description>
@@ -213,7 +213,7 @@
     <item>
       <title>epigenomics</title>
       <link>https://biomedical-big-data.de/tags/epigenomics/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/epigenomics/</guid>
       <description></description>
@@ -279,6 +279,15 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/microbiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-omics</title>
+      <link>https://biomedical-big-data.de/tags/multi-omics/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/multi-omics/</guid>
       <description></description>
     </item>
     

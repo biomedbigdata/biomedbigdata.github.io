@@ -20,7 +20,16 @@
     </item>
     
     <item>
-      <title>SPONGE</title>
+      <title>Analysing large-scale epigenomic data with DeepBlue</title>
+      <link>https://biomedical-big-data.de/talk/bioc2018/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/bioc2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competing endogenous RNA network inference</title>
       <link>https://biomedical-big-data.de/project/sponge/</link>
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
@@ -29,7 +38,16 @@
     </item>
     
     <item>
-      <title>Guest Lecture at CeMM</title>
+      <title>Large-scale epigenomics data analysis</title>
+      <link>https://biomedical-big-data.de/project/deepblue/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/project/deepblue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide endogenous RNA networks highlight novel biomarkers in cancer</title>
       <link>https://biomedical-big-data.de/talk/cemm/</link>
       <pubDate>Fri, 28 Sep 2018 00:00:00 +0200</pubDate>
       
@@ -124,24 +142,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/batra-2017-dt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Protein-based nanotoxicology assessment strategy</title>
-      <link>https://biomedical-big-data.de/publication/elnegaard-2017-hj/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/elnegaard-2017-hj/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ten Simple Rules for Developing Usable Software in Computational Biology</title>
-      <link>https://biomedical-big-data.de/publication/list-2017-vg/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/list-2017-vg/</guid>
       <description></description>
     </item>
     

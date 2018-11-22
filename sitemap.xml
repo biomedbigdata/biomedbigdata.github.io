@@ -12,7 +12,23 @@
     
     <url>
     
+      <loc>https://biomedical-big-data.de/talk/bioc2018/</loc>
+      <lastmod>2018-11-06T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://biomedical-big-data.de/project/sponge/</loc>
+      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/project/deepblue/</loc>
       <lastmod>2018-09-28T19:39:58+02:00</lastmod>
     </url>
     
@@ -281,7 +297,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/ihec/</loc>
-      <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -362,7 +378,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/bioconductor/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-06T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -497,7 +513,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/epigenomics/</loc>
-      <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+      <lastmod>2018-11-06T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -561,6 +577,15 @@
     
       <loc>https://biomedical-big-data.de/tags/microbiome/</loc>
       <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/tags/multi-omics/</loc>
+      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
       <priority>0</priority>
     </url>
     

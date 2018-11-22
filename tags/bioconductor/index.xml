@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/bioconductor/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analysing large-scale epigenomic data with DeepBlue</title>
+      <link>https://biomedical-big-data.de/talk/bioc2018/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/bioc2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DeepBlueR: large-scale epigenomic analysis in R</title>
