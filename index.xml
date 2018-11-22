@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Big Data in Biomedicine on Big Data in Biomedicine</title>
-    <link>/</link>
+    <link>https://big-data-biomedicine.de/</link>
     <description>Recent content in Big Data in Biomedicine on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,29 +11,137 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Comprehensive evaluation of cell-type quantification methods for immuno-oncology</title>
+      <link>https://big-data-biomedicine.de/publication/cell_type_deconvolution/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/cell_type_deconvolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SPONGE</title>
-      <link>/project/sponge/</link>
+      <link>https://big-data-biomedicine.de/project/sponge/</link>
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
-      <guid>/project/sponge/</guid>
+      <guid>https://big-data-biomedicine.de/project/sponge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guest Lecture at CeMM</title>
-      <link>/talk/cemm/</link>
+      <link>https://big-data-biomedicine.de/talk/cemm/</link>
       <pubDate>Fri, 28 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>/talk/cemm/</guid>
+      <guid>https://big-data-biomedicine.de/talk/cemm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An ontology-based method for assessing batch effect adjustment approaches in heterogeneous datasets</title>
-      <link>/publication/ontology_eval/</link>
-      <pubDate>Sat, 08 Sep 2018 00:00:00 +0200</pubDate>
+      <title>An ontology-based method for assessing batch effect adjustmentapproaches in heterogeneous datasets</title>
+      <link>https://big-data-biomedicine.de/publication/schmidt-2018-fv/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publication/ontology_eval/</guid>
+      <guid>https://big-data-biomedicine.de/publication/schmidt-2018-fv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MiRNA-181d Expression Significantly Affects Treatment Responsesto Carmustine Wafer Implantation</title>
+      <link>https://big-data-biomedicine.de/publication/sippl-2018-rr/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/sippl-2018-rr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JAMI - Fast computation of Conditional Mutual Information forceRNA network analysis</title>
+      <link>https://big-data-biomedicine.de/publication/hornakova-2018-lz/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/hornakova-2018-lz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The long non-coding RNA H19 suppresses carcinogenesis and chemoresistance in hepatocellular carcinoma</title>
+      <link>https://big-data-biomedicine.de/publication/schultheiss-2017-ia/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/schultheiss-2017-ia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De novo pathway-based biomarker identification</title>
+      <link>https://big-data-biomedicine.de/publication/alcaraz-2017-zg/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/alcaraz-2017-zg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive microbial distribution analysis using BioAtlas</title>
+      <link>https://big-data-biomedicine.de/publication/lund-2017-ly/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/lund-2017-ly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Docker Compose for the Simple Deployment of an Integrated Drug Target Screening Platform</title>
+      <link>https://big-data-biomedicine.de/publication/list-2017-ue/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/list-2017-ue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic screening of isogenic cancer cells identifies DUSP6 as context-specific synthetic lethal target in melanoma</title>
+      <link>https://big-data-biomedicine.de/publication/wittig-blaich-2017-ds/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/wittig-blaich-2017-ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepBlueR: large-scale epigenomic analysis in R</title>
+      <link>https://big-data-biomedicine.de/publication/albrecht-2017-oa/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/albrecht-2017-oa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the performance of de novo pathway enrichment</title>
+      <link>https://big-data-biomedicine.de/publication/batra-2017-dt/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/batra-2017-dt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein-based nanotoxicology assessment strategy</title>
+      <link>https://big-data-biomedicine.de/publication/elnegaard-2017-hj/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/elnegaard-2017-hj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ten Simple Rules for Developing Usable Software in Computational Biology</title>
+      <link>https://big-data-biomedicine.de/publication/list-2017-vg/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/list-2017-vg/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>epigenomics on Big Data in Biomedicine</title>
+    <link>https://big-data-biomedicine.de/tags/epigenomics/</link>
+    <description>Recent content in epigenomics on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://big-data-biomedicine.de/tags/epigenomics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An ontology-based method for assessing batch effect adjustmentapproaches in heterogeneous datasets</title>
+      <link>https://big-data-biomedicine.de/publication/schmidt-2018-fv/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/schmidt-2018-fv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepBlueR: large-scale epigenomic analysis in R</title>
+      <link>https://big-data-biomedicine.de/publication/albrecht-2017-oa/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/albrecht-2017-oa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepBlue epigenomic data server: programmatic data retrieval and analysis of epigenome region sets</title>
+      <link>https://big-data-biomedicine.de/publication/albrecht-2016-bm/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/albrecht-2016-bm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

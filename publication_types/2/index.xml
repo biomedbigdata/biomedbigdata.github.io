@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Big Data in Biomedicine</title>
+    <link>https://big-data-biomedicine.de/publication_types/2/</link>
+    <description>Recent content in 2 on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://big-data-biomedicine.de/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An ontology-based method for assessing batch effect adjustmentapproaches in heterogeneous datasets</title>
+      <link>https://big-data-biomedicine.de/publication/schmidt-2018-fv/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/schmidt-2018-fv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MiRNA-181d Expression Significantly Affects Treatment Responsesto Carmustine Wafer Implantation</title>
+      <link>https://big-data-biomedicine.de/publication/sippl-2018-rr/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/sippl-2018-rr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JAMI - Fast computation of Conditional Mutual Information forceRNA network analysis</title>
+      <link>https://big-data-biomedicine.de/publication/hornakova-2018-lz/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/hornakova-2018-lz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The long non-coding RNA H19 suppresses carcinogenesis and chemoresistance in hepatocellular carcinoma</title>
+      <link>https://big-data-biomedicine.de/publication/schultheiss-2017-ia/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/schultheiss-2017-ia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De novo pathway-based biomarker identification</title>
+      <link>https://big-data-biomedicine.de/publication/alcaraz-2017-zg/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/alcaraz-2017-zg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive microbial distribution analysis using BioAtlas</title>
+      <link>https://big-data-biomedicine.de/publication/lund-2017-ly/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/lund-2017-ly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Docker Compose for the Simple Deployment of an Integrated Drug Target Screening Platform</title>
+      <link>https://big-data-biomedicine.de/publication/list-2017-ue/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/list-2017-ue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic screening of isogenic cancer cells identifies DUSP6 as context-specific synthetic lethal target in melanoma</title>
+      <link>https://big-data-biomedicine.de/publication/wittig-blaich-2017-ds/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/wittig-blaich-2017-ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepBlueR: large-scale epigenomic analysis in R</title>
+      <link>https://big-data-biomedicine.de/publication/albrecht-2017-oa/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/albrecht-2017-oa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the performance of de novo pathway enrichment</title>
+      <link>https://big-data-biomedicine.de/publication/batra-2017-dt/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/batra-2017-dt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein-based nanotoxicology assessment strategy</title>
+      <link>https://big-data-biomedicine.de/publication/elnegaard-2017-hj/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/elnegaard-2017-hj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ten Simple Rules for Developing Usable Software in Computational Biology</title>
+      <link>https://big-data-biomedicine.de/publication/list-2017-vg/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/list-2017-vg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Management of High-Throughput Screening Libraries with SAVANAH</title>
+      <link>https://big-data-biomedicine.de/publication/list-2016-kj/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/list-2016-kj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive analysis of high-throughput screens with HiTSeekR</title>
+      <link>https://big-data-biomedicine.de/publication/list-2016-is/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/list-2016-is/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepBlue epigenomic data server: programmatic data retrieval and analysis of epigenome region sets</title>
+      <link>https://big-data-biomedicine.de/publication/albrecht-2016-bm/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/albrecht-2016-bm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KeyPathwayMinerWeb: online multi-omics network enrichment</title>
+      <link>https://big-data-biomedicine.de/publication/list-2016-nj/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/list-2016-nj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust de novo pathway enrichment with KeyPathwayMiner 5</title>
+      <link>https://big-data-biomedicine.de/publication/alcaraz-2016-by/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/alcaraz-2016-by/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenLabNotes - An Electronic Laboratory Notebook Extension for OpenLabFramework</title>
+      <link>https://big-data-biomedicine.de/publication/list-2015-pq/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/list-2015-pq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microarray R-based analysis of complex lysate experiments with MIRACLE</title>
+      <link>https://big-data-biomedicine.de/publication/list-2014-qf/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/list-2014-qf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Sample Tracking With OpenLabFramework</title>
+      <link>https://big-data-biomedicine.de/publication/list-2014-dd/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/list-2014-dd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of Breast Cancer Subtypes by combining GeneExpression and DNA Methylation Data</title>
+      <link>https://big-data-biomedicine.de/publication/list-2014-ae/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://big-data-biomedicine.de/publication/list-2014-ae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
