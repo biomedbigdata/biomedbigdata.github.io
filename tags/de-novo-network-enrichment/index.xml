@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Sep 2018 19:39:58 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/de-novo-network-enrichment/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>De novo network enrichment</title>
+      <link>https://biomedical-big-data.de/project/kpm/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/project/kpm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>De novo pathway-based biomarker identification</title>

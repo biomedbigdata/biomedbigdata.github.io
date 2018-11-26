@@ -12,10 +12,10 @@
     
     <item>
       <title>Comprehensive evaluation of cell-type quantification methods for immuno-oncology</title>
-      <link>https://biomedical-big-data.de/publication/cell_type_deconvolution/</link>
+      <link>https://biomedical-big-data.de/publication/sturm-2018-bx/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://biomedical-big-data.de/publication/cell_type_deconvolution/</guid>
+      <guid>https://biomedical-big-data.de/publication/sturm-2018-bx/</guid>
       <description></description>
     </item>
     
@@ -38,11 +38,47 @@
     </item>
     
     <item>
+      <title>De novo network enrichment</title>
+      <link>https://biomedical-big-data.de/project/kpm/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/project/kpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FeatureCloud</title>
+      <link>https://biomedical-big-data.de/project/featurecloud/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/project/featurecloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Throughput Screening</title>
+      <link>https://biomedical-big-data.de/project/hts/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/project/hts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Large-scale epigenomics data analysis</title>
       <link>https://biomedical-big-data.de/project/deepblue/</link>
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/project/deepblue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REPO-TRIAL</title>
+      <link>https://biomedical-big-data.de/project/repo-trial/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/project/repo-trial/</guid>
       <description></description>
     </item>
     
@@ -106,42 +142,6 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/lund-2017-ly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Docker Compose for the Simple Deployment of an Integrated Drug Target Screening Platform</title>
-      <link>https://biomedical-big-data.de/publication/list-2017-ue/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/list-2017-ue/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Systematic screening of isogenic cancer cells identifies DUSP6 as context-specific synthetic lethal target in melanoma</title>
-      <link>https://biomedical-big-data.de/publication/wittig-blaich-2017-ds/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/wittig-blaich-2017-ds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DeepBlueR: large-scale epigenomic analysis in R</title>
-      <link>https://biomedical-big-data.de/publication/albrecht-2017-oa/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/albrecht-2017-oa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the performance of de novo pathway enrichment</title>
-      <link>https://biomedical-big-data.de/publication/batra-2017-dt/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/batra-2017-dt/</guid>
       <description></description>
     </item>
     
