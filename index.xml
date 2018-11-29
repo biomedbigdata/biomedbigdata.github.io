@@ -11,6 +11,44 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>PostDoc Position in Network Epigenomics</title>
+      <link>https://biomedical-big-data.de/post/job-announcement-nov18/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/post/job-announcement-nov18/</guid>
+      <description>
+
+&lt;p&gt;Full time position for a PostDoc to fill in the newly established group for Big Data in Biomedicine at the Chair of Experimental Bioinformatics, Technical University of Munich, Freising, Germany.&lt;/p&gt;
+
+&lt;h3 id=&#34;project-description&#34;&gt;Project description&lt;/h3&gt;
+
+&lt;p&gt;A major research barrier in systems biomedicine is that most of the currently used gene-gene interaction networks are not cell type-specific and neglect much of our current understanding of cellular regulation (i.e. enhancers and repressors). The EpiMap project of the International Human Epigenome Consortium currently integrates and harmonizes multi-omics data from 1000 epigenomes, offering a unique chance to overcome this barrier. The aim of this research project is to use state-of-the-art machine learning techniques for multitask and transfer learning to construct robust cell-type-specific molecular interaction networks. Such networks will allow researchers to put their experimental results in a cell type-specific context and thus pave the way towards adding an epigenetic perspective to biomedical research in general and to systems medicine in particular.&lt;/p&gt;
+
+&lt;h3 id=&#34;your-qualifications&#34;&gt;Your qualifications&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Recent PhD in Computational Biology, Bioinformatics, Genomics, Epigenetics or a related field.&lt;/li&gt;
+&lt;li&gt;Strong experience with handling RNA-seq, small RNA-seq, WGBS, RRBS, ChiP-seq data&lt;/li&gt;
+&lt;li&gt;Strong experience with systems biology and network analysis techniques&lt;/li&gt;
+&lt;li&gt;Strong experience with advanced machine learning techniques, e.g. SVNs, RF, CNN&lt;/li&gt;
+&lt;li&gt;Strong experience in R, Python or Java&lt;/li&gt;
+&lt;li&gt;Good experience in using compute clusters / HPC environments and Docker / Singularity&lt;/li&gt;
+&lt;li&gt;Solid understanding of molecular biology in general and epigenetic mechanisms in particular&lt;/li&gt;
+&lt;li&gt;Ability to independently carry out a challenging research project in an international collaboration&lt;/li&gt;
+&lt;li&gt;Fluency in English in written and spoken language.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h3&gt;
+
+&lt;p&gt;At the Chair of Experimental Bioinformatics you will find a supportive and productive research environment with a young, dynamic team of more than 20 international researchers at different stages in their career and education. Find us online at: &lt;a href=&#34;https://www.exbio.de&#34; target=&#34;_blank&#34;&gt;https://www.exbio.de&lt;/a&gt; and &lt;a href=&#34;https://biomedical-big-data.de&#34; target=&#34;_blank&#34;&gt;https://biomedical-big-data.de&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The position is available starting immediately and initially limited for 3 year with a gross salary calculated according to A13 TV-L.&lt;/p&gt;
+
+&lt;p&gt;Interested? Send your application including your CV, the most relevant publications and two reference letters to markus.list@wzw.tum.de.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Comprehensive evaluation of cell-type quantification methods for immuno-oncology</title>
       <link>https://biomedical-big-data.de/publication/sturm-2018-bx/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
@@ -133,15 +171,6 @@
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/alcaraz-2017-zg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interactive microbial distribution analysis using BioAtlas</title>
-      <link>https://biomedical-big-data.de/publication/lund-2017-ly/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/lund-2017-ly/</guid>
       <description></description>
     </item>
     

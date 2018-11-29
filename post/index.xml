@@ -12,5 +12,15 @@
 	<atom:link href="https://biomedical-big-data.de/post/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>PostDoc Position in Network Epigenomics</title>
+      <link>https://biomedical-big-data.de/post/job-announcement-nov18/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/post/job-announcement-nov18/</guid>
+      <description>Full time position for a PostDoc to fill in the newly established group for Big Data in Biomedicine at the Chair of Experimental Bioinformatics, Technical University of Munich, Freising, Germany.
+Project description A major research barrier in systems biomedicine is that most of the currently used gene-gene interaction networks are not cell type-specific and neglect much of our current understanding of cellular regulation (i.e. enhancers and repressors). The EpiMap project of the International Human Epigenome Consortium currently integrates and harmonizes multi-omics data from 1000 epigenomes, offering a unique chance to overcome this barrier.</description>
+    </item>
+    
   </channel>
 </rss>
