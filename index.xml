@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Genome-wide endogenous RNA networks highlight novel biomarkers in cancer</title>
+      <link>https://biomedical-big-data.de/talk/imm/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/imm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PostDoc Position in Network Epigenomics</title>
       <link>https://biomedical-big-data.de/post/job-announcement-nov18/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
@@ -162,15 +171,6 @@
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/schultheiss-2017-ia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>De novo pathway-based biomarker identification</title>
-      <link>https://biomedical-big-data.de/publication/alcaraz-2017-zg/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/alcaraz-2017-zg/</guid>
       <description></description>
     </item>
     
