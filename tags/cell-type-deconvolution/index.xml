@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cell-type deconvolution on Big Data in Biomedicine</title>
+    <title>cell type deconvolution on Big Data in Biomedicine</title>
     <link>https://biomedical-big-data.de/tags/cell-type-deconvolution/</link>
-    <description>Recent content in cell-type deconvolution on Big Data in Biomedicine</description>
+    <description>Recent content in cell type deconvolution on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 07 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/cell-type-deconvolution/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Comprehensive evaluation of cell-type quantification methods for immuno-oncology</title>
-      <link>https://biomedical-big-data.de/publication/sturm-2018-bx/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
+      <title>Gregor Sturm</title>
+      <link>https://biomedical-big-data.de/group/gsturm/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://biomedical-big-data.de/publication/sturm-2018-bx/</guid>
-      <description></description>
+      <guid>https://biomedical-big-data.de/group/gsturm/</guid>
+      <description>I am a master student in Bioinformatics with a research interest in Epigenetics and Immuno-Oncology. In my master thesis I am collaborating with Pieris Pharmaceuticals in Freising and Prof. Zlatko Trajanoski&amp;rsquo;s Lab in Innsbruck to better understand the functional orientation of immune cells in the tumor micro-environment. In a previous project, I co-developed BioQC, a method for assessing gene expression data for tissue heterogeneity.</description>
     </item>
     
   </channel>
