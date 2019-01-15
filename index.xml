@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Big Data als Wegbereiter der Präzisionsmedizin</title>
+      <link>https://biomedical-big-data.de/talk/igld/igld/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/igld/igld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcoming challenges in the integrative analysis of epigenomic data</title>
+      <link>https://biomedical-big-data.de/talk/icb/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/icb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Genome-wide endogenous RNA networks highlight novel biomarkers in cancer</title>
       <link>https://biomedical-big-data.de/talk/imm/</link>
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0100</pubDate>
@@ -153,24 +171,6 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/sippl-2018-rr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JAMI - Fast computation of Conditional Mutual Information forceRNA network analysis</title>
-      <link>https://biomedical-big-data.de/publication/hornakova-2018-lz/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/hornakova-2018-lz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The long non-coding RNA H19 suppresses carcinogenesis and chemoresistance in hepatocellular carcinoma</title>
-      <link>https://biomedical-big-data.de/publication/schultheiss-2017-ia/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/schultheiss-2017-ia/</guid>
       <description></description>
     </item>
     
