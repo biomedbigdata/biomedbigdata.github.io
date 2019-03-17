@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CFP suppresses breast cancer cell growth by TES-mediated upregulation of the transcription factor DDIT3</title>
+      <link>https://biomedical-big-data.de/publication/block-2019-cfp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/block-2019-cfp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An ontology-based method for assessing batch effect adjustmentapproaches in heterogeneous datasets</title>
@@ -198,6 +207,15 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/list-2014-ae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of Breast Cancer Subtypes by combining GeneExpression and DNA Methylation Data</title>
+      <link>https://biomedical-big-data.de/publication/list-2014-ro/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2014-ro/</guid>
       <description></description>
     </item>
     
