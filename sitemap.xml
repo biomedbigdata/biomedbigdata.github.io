@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://biomedical-big-data.de/post/molit-symposium/</loc>
+      <lastmod>2019-03-18T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://biomedical-big-data.de/talk/igld/igld/</loc>
       <lastmod>2019-01-15T00:00:00+01:00</lastmod>
     </url>
@@ -38,14 +46,6 @@
     
       <loc>https://biomedical-big-data.de/talk/imm/</loc>
       <lastmod>2018-12-17T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://biomedical-big-data.de/post/job-announcement-nov18/</loc>
-      <lastmod>2018-11-29T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -513,8 +513,26 @@
     
     <url>
     
+      <loc>https://biomedical-big-data.de/tags/symposium/</loc>
+      <lastmod>2019-03-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://biomedical-big-data.de/tags/</loc>
       <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/tags/workshop/</loc>
+      <lastmod>2019-03-18T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
