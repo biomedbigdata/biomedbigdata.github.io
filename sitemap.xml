@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>https://biomedical-big-data.de/talk/insights2019/</loc>
+      <lastmod>2019-08-06T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/talk/mccmb/</loc>
+      <lastmod>2019-07-31T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/talk/ismb2019/</loc>
+      <lastmod>2019-07-23T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://biomedical-big-data.de/post/molit-symposium/</loc>
       <lastmod>2019-03-18T00:00:00+01:00</lastmod>
     </url>
@@ -12,7 +36,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/talk/igld/igld/</loc>
+      <loc>https://biomedical-big-data.de/talk/igld/</loc>
       <lastmod>2019-01-15T00:00:00+01:00</lastmod>
     </url>
     
@@ -44,16 +68,32 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/talk/imm/</loc>
-      <lastmod>2018-12-17T00:00:00+01:00</lastmod>
+      <loc>https://biomedical-big-data.de/publication/sturm-2019-celltypequant/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/sturm-2018-bx/</loc>
-      <lastmod>2018-11-07T00:00:00+01:00</lastmod>
+      <loc>https://biomedical-big-data.de/publication/kesslera-2019-hepatocellular/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/list-2019-sponge/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/talk/imm/</loc>
+      <lastmod>2018-12-17T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -388,6 +428,15 @@
     
     <url>
     
+      <loc>https://biomedical-big-data.de/publication_types/1/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://biomedical-big-data.de/tags/16s-rrna-sequencing/</loc>
       <lastmod>2017-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -399,15 +448,6 @@
     
       <loc>https://biomedical-big-data.de/publication_types/2/</loc>
       <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://biomedical-big-data.de/publication_types/7/</loc>
-      <lastmod>2018-11-07T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -586,7 +626,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/cancer-immunology/</loc>
-      <lastmod>2018-11-07T00:00:00+01:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -622,7 +662,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/cell-type-deconvolution/</loc>
-      <lastmod>2018-11-07T00:00:00+01:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -632,6 +672,15 @@
     
       <loc>https://biomedical-big-data.de/tags/chemoresistance/</loc>
       <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/tags/competing-endogeneous-rna/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -747,6 +796,15 @@
     
     <url>
     
+      <loc>https://biomedical-big-data.de/tags/gene-regulation/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://biomedical-big-data.de/tags/high-throughput-screening/</loc>
       <lastmod>2017-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -758,6 +816,15 @@
     
       <loc>https://biomedical-big-data.de/tags/long-non-coding-rna/</loc>
       <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/tags/mirna-regulatoin/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -856,7 +923,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/single-cell/</loc>
-      <lastmod>2018-11-07T00:00:00+01:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -892,7 +959,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/systems-biology/</loc>
-      <lastmod>2017-09-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -928,7 +995,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/tumor-microenvironment/</loc>
-      <lastmod>2018-11-07T00:00:00+01:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -150,7 +150,7 @@
     <item>
       <title>cancer immunology</title>
       <link>https://biomedical-big-data.de/tags/cancer-immunology/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/cancer-immunology/</guid>
       <description></description>
@@ -186,7 +186,7 @@
     <item>
       <title>cell-type deconvolution</title>
       <link>https://biomedical-big-data.de/tags/cell-type-deconvolution/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/cell-type-deconvolution/</guid>
       <description></description>
@@ -198,6 +198,15 @@
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/chemoresistance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>competing endogeneous RNA</title>
+      <link>https://biomedical-big-data.de/tags/competing-endogeneous-rna/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/competing-endogeneous-rna/</guid>
       <description></description>
     </item>
     
@@ -310,6 +319,15 @@
     </item>
     
     <item>
+      <title>gene regulation</title>
+      <link>https://biomedical-big-data.de/tags/gene-regulation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/gene-regulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>high-throughput screening</title>
       <link>https://biomedical-big-data.de/tags/high-throughput-screening/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
@@ -324,6 +342,15 @@
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/long-non-coding-rna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miRNA regulatoin</title>
+      <link>https://biomedical-big-data.de/tags/mirna-regulatoin/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/mirna-regulatoin/</guid>
       <description></description>
     </item>
     
@@ -420,7 +447,7 @@
     <item>
       <title>single-cell</title>
       <link>https://biomedical-big-data.de/tags/single-cell/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/single-cell/</guid>
       <description></description>
@@ -456,7 +483,7 @@
     <item>
       <title>systems biology</title>
       <link>https://biomedical-big-data.de/tags/systems-biology/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/systems-biology/</guid>
       <description></description>
@@ -492,7 +519,7 @@
     <item>
       <title>tumor microenvironment</title>
       <link>https://biomedical-big-data.de/tags/tumor-microenvironment/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/tumor-microenvironment/</guid>
       <description></description>

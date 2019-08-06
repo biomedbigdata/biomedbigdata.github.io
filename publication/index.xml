@@ -22,11 +22,29 @@
     </item>
     
     <item>
-      <title>Comprehensive evaluation of cell-type quantification methods for immuno-oncology</title>
-      <link>https://biomedical-big-data.de/publication/sturm-2018-bx/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
+      <title>Comprehensive evaluation of transcriptome-based cell-type quantification methods for immuno-oncology</title>
+      <link>https://biomedical-big-data.de/publication/sturm-2019-celltypequant/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://biomedical-big-data.de/publication/sturm-2018-bx/</guid>
+      <guid>https://biomedical-big-data.de/publication/sturm-2019-celltypequant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hepatocellular Carcinoma and Nuclear Paraspeckles: Induction in Chemoresistance and Prediction for Poor Survival</title>
+      <link>https://biomedical-big-data.de/publication/kesslera-2019-hepatocellular/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/kesslera-2019-hepatocellular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale inference of competing endogenous RNA networks with sparse partial correlation</title>
+      <link>https://biomedical-big-data.de/publication/list-2019-sponge/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2019-sponge/</guid>
       <description></description>
     </item>
     
