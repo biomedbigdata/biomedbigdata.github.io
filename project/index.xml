@@ -13,16 +13,7 @@
     
     
     <item>
-      <title>Competing endogenous RNA network inference</title>
-      <link>https://biomedical-big-data.de/project/sponge/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/project/sponge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>De novo network enrichment</title>
+      <title>Disease mechanisms and molecular interaction networks</title>
       <link>https://biomedical-big-data.de/project/kpm/</link>
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
@@ -49,6 +40,15 @@
     </item>
     
     <item>
+      <title>Infering gene-regulatory networks</title>
+      <link>https://biomedical-big-data.de/project/sponge/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/project/sponge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Large-scale epigenomics data analysis</title>
       <link>https://biomedical-big-data.de/project/deepblue/</link>
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
@@ -63,6 +63,15 @@
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/project/repo-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sys_CARE: Systems Medicine Investigation of Alternative Splicing in Cardiac and Renal Diseases</title>
+      <link>https://biomedical-big-data.de/project/sys_care/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/project/sys_care/</guid>
       <description></description>
     </item>
     
