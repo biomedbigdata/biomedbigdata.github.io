@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://biomedical-big-data.de/publication/kroehler-2019/</loc>
+      <lastmod>2019-11-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://biomedical-big-data.de/talk/insights2019/</loc>
       <lastmod>2019-08-06T00:00:00+02:00</lastmod>
     </url>
@@ -45,14 +53,6 @@
     <url>
     
       <loc>https://biomedical-big-data.de/talk/igld/</loc>
-      <lastmod>2019-01-15T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://biomedical-big-data.de/post/job-ad-inf01-crc1371/</loc>
       <lastmod>2019-01-15T00:00:00+01:00</lastmod>
     </url>
     
@@ -110,6 +110,14 @@
     
       <loc>https://biomedical-big-data.de/talk/imm/</loc>
       <lastmod>2018-12-17T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/talk/qbic2019/</loc>
+      <lastmod>2018-11-06T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -471,7 +479,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/publication_types/2/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-11-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -534,15 +542,6 @@
     
       <loc>https://biomedical-big-data.de/tags/phd/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://biomedical-big-data.de/tags/positions/</loc>
-      <lastmod>2019-01-15T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

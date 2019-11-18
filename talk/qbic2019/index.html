@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="The first MOLIT Symposium is actively promoting the dialogue of implementing personalized medicine into treatment routine. Therefore, a platform to interlink practicing physicians and IT experts is formed. This opens up possibilities to join forces between oncology and IT on problems in patient care to make solutions usable in everyday clinical practice.">
+  <meta name="description" content="Large amounts of epigenomic data are publicly available, yet their retrieval for downstream analysis is a research bottleneck. Typically, users download huge files that span the entire genome, even if they are only interested in a small subset (e.g. promoter regions) or an aggregation thereof. Moreover, complex operations on genome-level data are not always feasible on a local computer due to resource limitations.&lt;/br&gt;&lt;/br&gt;The DeepBlue Epigenomic Data Server (http://deepblue.mpi-inf.mpg.de/) mitigates this issue by providing a powerful interface and API for filtering, transforming, aggregating and downloading multi-scale data from several epigenomic consortia, making it the ideal resource for integrating epigenomics resources into analysis workflows and tools.&lt;/br&gt;&lt;/br&gt;While any programming language can be used to access the DeepBlue API, we developed an R/Bioconductor package (https://doi.org/doi:10.18129/B9.bioc.DeepBlueR) that enables users not proficient in scripting or programming languages to analyze epigenomic data in a user-friendly way. Here, the extracted data are automatically converted to suitable R data structures for downstream analysis and visualization within the Bioconductor framework.&lt;/br&gt;&lt;/br&gt;In the second part of my talk, I will highlight our recent work on DNA methylation heterogeneity on bulk bisulfite sequencing data. Notably, most studies of DNA methylation focus almost exclusively on mapping differences in average methylation, neglecting the contribution of cell-to-cell variability. While various scores have been proposed to capture DNA methylation heterogeneity, we performed the first systematic comparison of existing scores on both simulated and experimental data. In our benchmark, we consider different scenarios from which heterogeneity can arise, including cell-type heterogeneity and allele-specific methylation, and propose two new scores that accurately capture DNA methylation heterogeneity and are the first to cover individual CpGs.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://biomedical-big-data.de/post/molit-symposium/">
+  <link rel="alternate" hreflang="en-us" href="https://biomedical-big-data.de/talk/qbic2019/">
 
   
 
@@ -88,30 +88,30 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://biomedical-big-data.de/post/molit-symposium/">
+  <link rel="canonical" href="https://biomedical-big-data.de/talk/qbic2019/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Big Data in Biomedicine">
-  <meta property="og:url" content="https://biomedical-big-data.de/post/molit-symposium/">
-  <meta property="og:title" content="MOLIT Symposium 2019 | Big Data in Biomedicine">
-  <meta property="og:description" content="The first MOLIT Symposium is actively promoting the dialogue of implementing personalized medicine into treatment routine. Therefore, a platform to interlink practicing physicians and IT experts is formed. This opens up possibilities to join forces between oncology and IT on problems in patient care to make solutions usable in everyday clinical practice.">
+  <meta property="og:url" content="https://biomedical-big-data.de/talk/qbic2019/">
+  <meta property="og:title" content="Analysing large-scale epigenomic data | Big Data in Biomedicine">
+  <meta property="og:description" content="Large amounts of epigenomic data are publicly available, yet their retrieval for downstream analysis is a research bottleneck. Typically, users download huge files that span the entire genome, even if they are only interested in a small subset (e.g. promoter regions) or an aggregation thereof. Moreover, complex operations on genome-level data are not always feasible on a local computer due to resource limitations.&lt;/br&gt;&lt;/br&gt;The DeepBlue Epigenomic Data Server (http://deepblue.mpi-inf.mpg.de/) mitigates this issue by providing a powerful interface and API for filtering, transforming, aggregating and downloading multi-scale data from several epigenomic consortia, making it the ideal resource for integrating epigenomics resources into analysis workflows and tools.&lt;/br&gt;&lt;/br&gt;While any programming language can be used to access the DeepBlue API, we developed an R/Bioconductor package (https://doi.org/doi:10.18129/B9.bioc.DeepBlueR) that enables users not proficient in scripting or programming languages to analyze epigenomic data in a user-friendly way. Here, the extracted data are automatically converted to suitable R data structures for downstream analysis and visualization within the Bioconductor framework.&lt;/br&gt;&lt;/br&gt;In the second part of my talk, I will highlight our recent work on DNA methylation heterogeneity on bulk bisulfite sequencing data. Notably, most studies of DNA methylation focus almost exclusively on mapping differences in average methylation, neglecting the contribution of cell-to-cell variability. While various scores have been proposed to capture DNA methylation heterogeneity, we performed the first systematic comparison of existing scores on both simulated and experimental data. In our benchmark, we consider different scenarios from which heterogeneity can arise, including cell-type heterogeneity and allele-specific methylation, and propose two new scores that accurately capture DNA methylation heterogeneity and are the first to cover individual CpGs.">
   
   
     
-  <meta property="og:image" content="https://biomedical-big-data.de/img/biomedbigdata_logo_square.png">
+  <meta property="og:image" content="https://biomedical-big-data.de/img/deepblueR.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-03-18T00:00:00&#43;01:00">
+  <meta property="article:published_time" content="2018-11-06T00:00:00&#43;01:00">
   
-  <meta property="article:modified_time" content="2019-03-18T00:00:00&#43;01:00">
-  
-
+  <meta property="article:modified_time" content="2018-11-06T00:00:00&#43;01:00">
   
 
   
 
-  <title>MOLIT Symposium 2019 | Big Data in Biomedicine</title>
+  
+
+  <title>Analysing large-scale epigenomic data | Big Data in Biomedicine</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="dark">
@@ -333,8 +333,7 @@
   </div>
 </nav>
 
-
-<article class="article" itemscope itemtype="http://schema.org/Article">
+<div class="pub" itemscope itemtype="http://schema.org/Event">
 
   
 
@@ -346,27 +345,30 @@
 
 
 
+<div class="article-header">
+  
+  
+  <img src="/img/deepblueR.png" class="article-banner" itemprop="image" alt="">
+  
 
-
-
-
-<div class="article-header d-xl-none">
-  <img src="/post/molit-symposium/featured_hu1d645ad46f31d98cb4fc9ceb4b6a2610_824332_1600x400_fill_q90_box_topright_2.png" class="article-banner" itemprop="image" alt="">
-  <span class="article-header-caption">MOLIT Symposium 2019</span>
+  <span class="article-header-caption">DeepBlue epigenomic data server</span>
 </div>
 
 
-<div class="container-fluid split-header d-none d-xl-block">
-  <div class="row">
-    <div class="col-6">
-      <div class="split-header-content">
-        <h1 itemprop="name">MOLIT Symposium 2019</h1>
 
-        
-        <p class="page-subtitle">Translational Oncology meets IT</p>
-        
 
-        
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Analysing large-scale epigenomic data</h1>
+
+  
+
+  
+    
 
 <div class="article-metadata">
 
@@ -379,137 +381,15 @@
 
   <span class="article-date">
     
-    <meta content="2019-03-18 00:00:00 &#43;0100 CET" itemprop="datePublished">
-    <time datetime="2019-03-18 00:00:00 &#43;0100 CET" itemprop="dateModified">
-      18. Mar 2019
+    <meta content="2018-11-06 00:00:00 &#43;0100 CET" itemprop="datePublished">
+    <time datetime="2018-11-06 00:00:00 &#43;0100 CET" itemprop="dateModified">
+      06. Nov 2018
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
     <meta itemprop="name" content="Markus List">
   </span>
 
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-
-  
-
-  
-
-</div>
-
-
-        
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-        
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=MOLIT%20Symposium%202019&amp;url=https%3a%2f%2fbiomedical-big-data.de%2fpost%2fmolit-symposium%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fbiomedical-big-data.de%2fpost%2fmolit-symposium%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fbiomedical-big-data.de%2fpost%2fmolit-symposium%2f&amp;title=MOLIT%20Symposium%202019"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fbiomedical-big-data.de%2fpost%2fmolit-symposium%2f&amp;title=MOLIT%20Symposium%202019"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=MOLIT%20Symposium%202019&amp;body=https%3a%2f%2fbiomedical-big-data.de%2fpost%2fmolit-symposium%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
-
-      </div>
-    </div>
-    <div class="col-6">
-      <div class="split-header-image">
-        <img src="/post/molit-symposium/featured_hu1d645ad46f31d98cb4fc9ceb4b6a2610_824332_680x500_fill_q90_box_topright_2.png" itemprop="image" alt="">
-        <span class="article-header-caption">MOLIT Symposium 2019</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="article-container d-xl-none">
-  <h1 itemprop="name">MOLIT Symposium 2019</h1>
-
-  
-  <p class="page-subtitle">Translational Oncology meets IT</p>
-  
-
-  
-
-<div class="article-metadata">
-
-  
-  
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Markus List">
-  </span>
-  
-
-  <span class="article-date">
-    
-    <meta content="2019-03-18 00:00:00 &#43;0100 CET" itemprop="datePublished">
-    <time datetime="2019-03-18 00:00:00 &#43;0100 CET" itemprop="dateModified">
-      18. Mar 2019
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Markus List">
-  </span>
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
   
 
   
@@ -523,35 +403,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=MOLIT%20Symposium%202019&amp;url=https%3a%2f%2fbiomedical-big-data.de%2fpost%2fmolit-symposium%2f"
+         href="https://twitter.com/intent/tweet?text=Analysing%20large-scale%20epigenomic%20data&amp;url=https%3a%2f%2fbiomedical-big-data.de%2ftalk%2fqbic2019%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fbiomedical-big-data.de%2fpost%2fmolit-symposium%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fbiomedical-big-data.de%2ftalk%2fqbic2019%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fbiomedical-big-data.de%2fpost%2fmolit-symposium%2f&amp;title=MOLIT%20Symposium%202019"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fbiomedical-big-data.de%2ftalk%2fqbic2019%2f&amp;title=Analysing%20large-scale%20epigenomic%20data"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fbiomedical-big-data.de%2fpost%2fmolit-symposium%2f&amp;title=MOLIT%20Symposium%202019"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fbiomedical-big-data.de%2ftalk%2fqbic2019%2f&amp;title=Analysing%20large-scale%20epigenomic%20data"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=MOLIT%20Symposium%202019&amp;body=https%3a%2f%2fbiomedical-big-data.de%2fpost%2fmolit-symposium%2f">
+         href="mailto:?subject=Analysing%20large-scale%20epigenomic%20data&amp;body=https%3a%2f%2fbiomedical-big-data.de%2ftalk%2fqbic2019%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -563,6 +443,31 @@
 
 </div>
 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
 
   
 
@@ -572,6 +477,11 @@
 
 
 
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/deepblue/">
+    Project
+  </a>
   
 
 
@@ -582,23 +492,80 @@
 
 
 
+
+
+</div>
+
+
+  
 </div>
 
 
 
   <div class="article-container">
 
-    <div class="article-style" itemprop="articleBody">
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">Large amounts of epigenomic data are publicly available, yet their retrieval for downstream analysis is a research bottleneck. Typically, users download huge files that span the entire genome, even if they are only interested in a small subset (e.g. promoter regions) or an aggregation thereof. Moreover, complex operations on genome-level data are not always feasible on a local computer due to resource limitations.</br></br>The DeepBlue Epigenomic Data Server (<a href="http://deepblue.mpi-inf.mpg.de/" target="_blank">http://deepblue.mpi-inf.mpg.de/</a>) mitigates this issue by providing a powerful interface and API for filtering, transforming, aggregating and downloading multi-scale data from several epigenomic consortia, making it the ideal resource for integrating epigenomics resources into analysis workflows and tools.</br></br>While any programming language can be used to access the DeepBlue API, we developed an R/Bioconductor package (<a href="https://doi.org/doi:10.18129/B9.bioc.DeepBlueR" target="_blank">https://doi.org/doi:10.18129/B9.bioc.DeepBlueR</a>) that enables users not proficient in scripting or programming languages to analyze epigenomic data in a user-friendly way. Here, the extracted data are automatically converted to suitable R data structures for downstream analysis and visualization within the Bioconductor framework.</br></br>In the second part of my talk, I will highlight our recent work on DNA methylation heterogeneity on bulk bisulfite sequencing data. Notably, most studies of DNA methylation focus almost exclusively on mapping differences in average methylation, neglecting the contribution of cell-to-cell variability. While various scores have been proposed to capture DNA methylation heterogeneity, we performed the first systematic comparison of existing scores on both simulated and experimental data. In our benchmark, we consider different scenarios from which heterogeneity can arise, including cell-type heterogeneity and allele-specific methylation, and propose two new scores that accurately capture DNA methylation heterogeneity and are the first to cover individual CpGs.</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            
+            12. Dec 2019
+            <div class="talk-time">
+              
+                16:00
+                
+                  &mdash; 16:00
+                
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/veranstaltungen/techtalks/" target="_blank" rel="noopener">
+            QBiC TechTalks
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Auf der Morgenstelle 16, 72076 Tübingen, Germany</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
       
-
-<p>The first MOLIT Symposium is actively promoting the dialogue of implementing personalized medicine into treatment routine. Therefore, a platform to interlink practicing physicians and IT experts is formed. This opens up possibilities to join forces between oncology and IT on problems in patient care to make solutions usable in everyday clinical practice.</p>
-
-<h3 id="study-designs-for-personalized-medicine">Study Designs for Personalized Medicine</h3>
-
-<p>As part of the MOLIT symposium, Christian Fegeler (MOLIT, Heilbronn) and Markus List organized a workshop on study designs for personalized medicine. The current premise is that present study designs are based on large groups of patients e.g. for testing the efficacy of medication. However, personalized medicine focuses on customized therapies for one single patient. During the workshop, we discussed how we can leverage the vast potential of molecular big data beyond the limited scope of clinical studies. Concepts like virtual cohorts may pave the way towards this in the future.</p>
-
-<p>More information: <a href="https://molit.eu/en/projects/molit-symposium/program/" target="_blank">https://molit.eu/en/projects/molit-symposium/program/</a></p>
-
     </div>
 
     
@@ -606,9 +573,9 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/workshop/">Workshop</a>
+  <a class="badge badge-light" href="/tags/epigenomics/">epigenomics</a>
   
-  <a class="badge badge-light" href="/tags/symposium/">Symposium</a>
+  <a class="badge badge-light" href="/tags/bioconductor/">bioconductor</a>
   
 </div>
 
@@ -732,16 +699,10 @@
 
 
 
-    
-    
-
-    
-
-    
-
-
   </div>
-</article>
+</div>
+
+
 
 <div class="container">
   <footer class="site-footer">
