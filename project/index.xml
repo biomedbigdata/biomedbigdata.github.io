@@ -13,11 +13,11 @@
     
     
     <item>
-      <title>Disease mechanisms and molecular interaction networks</title>
-      <link>https://biomedical-big-data.de/project/kpm/</link>
+      <title>CRC1371</title>
+      <link>https://biomedical-big-data.de/project/sfb1371/</link>
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
-      <guid>https://biomedical-big-data.de/project/kpm/</guid>
+      <guid>https://biomedical-big-data.de/project/sfb1371/</guid>
       <description></description>
     </item>
     
@@ -31,33 +31,6 @@
     </item>
     
     <item>
-      <title>High-Throughput Screening</title>
-      <link>https://biomedical-big-data.de/project/hts/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/project/hts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Infering gene-regulatory networks</title>
-      <link>https://biomedical-big-data.de/project/sponge/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/project/sponge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Large-scale epigenomics data analysis</title>
-      <link>https://biomedical-big-data.de/project/deepblue/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/project/deepblue/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>REPO-TRIAL</title>
       <link>https://biomedical-big-data.de/project/repo-trial/</link>
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
@@ -67,7 +40,7 @@
     </item>
     
     <item>
-      <title>Sys_CARE: Systems Medicine Investigation of Alternative Splicing in Cardiac and Renal Diseases</title>
+      <title>Sys_CARE</title>
       <link>https://biomedical-big-data.de/project/sys_care/</link>
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       

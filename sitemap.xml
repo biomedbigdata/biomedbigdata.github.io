@@ -4,7 +4,71 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/kroehler-2019/</loc>
+      <loc>https://biomedical-big-data.de/post/covex/</loc>
+      <lastmod>2020-04-24T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/mergner-2020-mass/</loc>
+      <lastmod>2020-03-11T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/alcaraz-2020-novo/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/blumenthal-2020-epigen/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/sturm-2020-immunedeconv/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/sturm-2020-silico/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/scherer-2020-quantitative/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/krohler-2019-mrna/</loc>
       <lastmod>2019-11-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -68,7 +132,23 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/block-2019-cfp/</loc>
+      <loc>https://biomedical-big-data.de/publication/reitmeier-2019-arrhythmic/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/lund-2019-bioatlas/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/block-2014-large/</loc>
       <lastmod>2019-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -84,7 +164,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/kesslera-2019-hepatocellular/</loc>
+      <loc>https://biomedical-big-data.de/publication/kessler-2019-hepatocellular/</loc>
       <lastmod>2019-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -92,7 +172,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/list-2019-sponge/</loc>
+      <loc>https://biomedical-big-data.de/publication/list-2019-large/</loc>
       <lastmod>2019-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -100,7 +180,15 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/sippl-2019/</loc>
+      <loc>https://biomedical-big-data.de/publication/sippl-2019-mirna/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/kessler-2019-thu/</loc>
       <lastmod>2019-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -132,7 +220,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/project/kpm/</loc>
+      <loc>https://biomedical-big-data.de/project/sfb1371/</loc>
       <lastmod>2018-09-28T19:39:58+02:00</lastmod>
     </url>
     
@@ -141,30 +229,6 @@
     <url>
     
       <loc>https://biomedical-big-data.de/project/featurecloud/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://biomedical-big-data.de/project/hts/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://biomedical-big-data.de/project/sponge/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://biomedical-big-data.de/project/deepblue/</loc>
       <lastmod>2018-09-28T19:39:58+02:00</lastmod>
     </url>
     
@@ -196,7 +260,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/schmidt-2018-fv/</loc>
+      <loc>https://biomedical-big-data.de/publication/schmidt-2018-ontology/</loc>
       <lastmod>2018-09-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -212,7 +276,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/hornakova-2018-lz/</loc>
+      <loc>https://biomedical-big-data.de/publication/hornakova-2018-jami/</loc>
       <lastmod>2018-04-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -220,15 +284,15 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/schultheiss-2017-ia/</loc>
-      <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+      <loc>https://biomedical-big-data.de/publication/kessler-2018-nuclear/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/alcaraz-2017-zg/</loc>
+      <loc>https://biomedical-big-data.de/publication/alcaraz-2017-novo/</loc>
       <lastmod>2017-09-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -236,15 +300,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/lund-2017-ly/</loc>
-      <lastmod>2017-07-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://biomedical-big-data.de/publication/list-2017-ue/</loc>
+      <loc>https://biomedical-big-data.de/publication/list-2017-using/</loc>
       <lastmod>2017-06-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -252,7 +308,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/wittig-blaich-2017-ds/</loc>
+      <loc>https://biomedical-big-data.de/publication/wittig-2017-systematic/</loc>
       <lastmod>2017-03-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -260,7 +316,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/albrecht-2017-oa/</loc>
+      <loc>https://biomedical-big-data.de/publication/albrecht-2017-deepbluer/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -276,7 +332,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/batra-2017-dt/</loc>
+      <loc>https://biomedical-big-data.de/publication/batra-2017-performance/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -292,7 +348,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/elnegaard-2017-hj/</loc>
+      <loc>https://biomedical-big-data.de/publication/elnegaard-2017-protein/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -316,7 +372,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/list-2017-vg/</loc>
+      <loc>https://biomedical-big-data.de/publication/list-2017-ten/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -324,7 +380,15 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/list-2016-kj/</loc>
+      <loc>https://biomedical-big-data.de/publication/schultheiss-2017-long/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/list-2016-efficient/</loc>
       <lastmod>2016-10-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -332,7 +396,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/list-2016-is/</loc>
+      <loc>https://biomedical-big-data.de/publication/list-2016-comprehensive/</loc>
       <lastmod>2016-06-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -396,7 +460,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/albrecht-2016-bm/</loc>
+      <loc>https://biomedical-big-data.de/publication/albrecht-2016-deepblue/</loc>
       <lastmod>2016-04-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -404,7 +468,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/list-2016-nj/</loc>
+      <loc>https://biomedical-big-data.de/publication/list-2016-keypathwayminerweb/</loc>
       <lastmod>2016-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -412,7 +476,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/alcaraz-2016-by/</loc>
+      <loc>https://biomedical-big-data.de/publication/alcaraz-2016-robust/</loc>
       <lastmod>2016-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -420,7 +484,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/list-2015-pq/</loc>
+      <loc>https://biomedical-big-data.de/publication/list-2015-development/</loc>
       <lastmod>2015-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -428,7 +492,23 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/list-2014-qf/</loc>
+      <loc>https://biomedical-big-data.de/publication/list-2015-openlabnotes/</loc>
+      <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/pedersen-2015-reverse/</loc>
+      <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/list-2014-microarray/</loc>
       <lastmod>2014-08-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -436,7 +516,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/list-2014-dd/</loc>
+      <loc>https://biomedical-big-data.de/publication/list-2014-efficient/</loc>
       <lastmod>2014-03-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -444,7 +524,7 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/list-2014-ae/</loc>
+      <loc>https://biomedical-big-data.de/publication/list-2014-classification/</loc>
       <lastmod>2014-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -452,7 +532,15 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication/list-2014-ro/</loc>
+      <loc>https://biomedical-big-data.de/publication/pedersen-2014-integrated/</loc>
+      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/pedersen-2014-reverse/</loc>
       <lastmod>2014-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -469,8 +557,8 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/tags/16s-rrna-sequencing/</loc>
-      <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+      <loc>https://biomedical-big-data.de/publication_types/2/</loc>
+      <lastmod>2020-03-11T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -478,8 +566,26 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/publication_types/2/</loc>
-      <lastmod>2019-11-01T00:00:00+01:00</lastmod>
+      <loc>https://biomedical-big-data.de/publication_types/4/</loc>
+      <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication_types/6/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication_types/7/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -496,6 +602,15 @@
     
     <url>
     
+      <loc>https://biomedical-big-data.de/tags/covid-19/</loc>
+      <lastmod>2020-04-24T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://biomedical-big-data.de/categories/</loc>
       <priority>0</priority>
     </url>
@@ -504,8 +619,26 @@
     
     <url>
     
+      <loc>https://biomedical-big-data.de/tags/dna-methylation/</loc>
+      <lastmod>2020-03-11T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/tags/gwas/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://biomedical-big-data.de/tags/ihec/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
+      <lastmod>2018-09-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -524,15 +657,6 @@
     
       <loc>https://biomedical-big-data.de/tags/lims/</loc>
       <lastmod>2017-06-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://biomedical-big-data.de/tags/nanocanlistlab/</loc>
-      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -576,6 +700,15 @@
     
     <url>
     
+      <loc>https://biomedical-big-data.de/tags/sars-cov-2/</loc>
+      <lastmod>2020-04-24T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://biomedical-big-data.de/tags/symposium/</loc>
       <lastmod>2019-03-18T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -586,7 +719,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/</loc>
-      <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2020-04-24T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -675,6 +808,15 @@
     
     <url>
     
+      <loc>https://biomedical-big-data.de/tags/cell-type-heterogeneity/</loc>
+      <lastmod>2020-03-11T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://biomedical-big-data.de/tags/cell-type-onotlogy/</loc>
       <lastmod>2018-09-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -685,7 +827,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/cell-type-deconvolution/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2020-03-11T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -693,8 +835,8 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/tags/chemoresistance/</loc>
-      <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+      <loc>https://biomedical-big-data.de/tags/cell-type-heterogeneity/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -739,7 +881,16 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/de-novo-network-enrichment/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
+      <lastmod>2017-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/tags/de-novo-pathway-enrichment/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -757,7 +908,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/drug-repurposing/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
+      <lastmod>2020-04-24T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -776,6 +927,15 @@
     
       <loc>https://biomedical-big-data.de/tags/epigenomics/</loc>
       <lastmod>2018-11-06T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/tags/epistasis/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -828,8 +988,8 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/tags/high-throughput-screening/</loc>
-      <lastmod>2017-06-01T00:00:00+02:00</lastmod>
+      <loc>https://biomedical-big-data.de/tags/hackathon/</loc>
+      <lastmod>2020-04-24T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -837,8 +997,8 @@
     
     <url>
     
-      <loc>https://biomedical-big-data.de/tags/long-non-coding-rna/</loc>
-      <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+      <loc>https://biomedical-big-data.de/tags/high-throughput-screening/</loc>
+      <lastmod>2017-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -857,24 +1017,6 @@
     
       <loc>https://biomedical-big-data.de/tags/microrna/</loc>
       <lastmod>2018-05-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://biomedical-big-data.de/tags/microbiome/</loc>
-      <lastmod>2017-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://biomedical-big-data.de/tags/multi-omics/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -918,6 +1060,33 @@
     
     <url>
     
+      <loc>https://biomedical-big-data.de/tags/network-enrichment/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/tags/network-medicine/</loc>
+      <lastmod>2020-04-24T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/tags/patient-stratification/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://biomedical-big-data.de/tags/privacy-preserving-machine-learning/</loc>
       <lastmod>2018-09-28T19:39:58+02:00</lastmod>
       <priority>0</priority>
@@ -938,6 +1107,15 @@
     
       <loc>https://biomedical-big-data.de/tags/scalability/</loc>
       <lastmod>2017-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/tags/simulator/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1000,7 +1178,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/systems-medicine/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
+      <lastmod>2020-04-24T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1018,7 +1196,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/tumor-microenvironment/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2020-03-11T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

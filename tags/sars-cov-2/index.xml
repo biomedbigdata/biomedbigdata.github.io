@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sars-CoV-2 on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/tags/sars-cov-2/</link>
+    <description>Recent content in Sars-CoV-2 on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/tags/sars-cov-2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The fight against COVID-19</title>
+      <link>https://biomedical-big-data.de/post/covex/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/post/covex/</guid>
+      <description>To address the Coronavirus Disease-2019 (COVID-19) crisis, drug repurposing is an attractive approach that offers new therapeutic options through the identification of alternative usages for already approved drugs. Numerous research groups around the world are working on treatment options for COVID-19 and are joining efforts to identify drugs that can be repurposed. A promising strategy for identifying drugs is to use network and systems medicine approaches, which provide a comprehensive understanding of the infection mechanisms while not only focussing on the virus and its direct interaction partners, but also including the host protein interaction network.</description>
+    </item>
+    
+  </channel>
+</rss>

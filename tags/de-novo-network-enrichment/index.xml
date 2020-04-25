@@ -7,62 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 28 Sep 2018 19:39:58 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/de-novo-network-enrichment/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Disease mechanisms and molecular interaction networks</title>
-      <link>https://biomedical-big-data.de/project/kpm/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/project/kpm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>De novo pathway-based biomarker identification</title>
-      <link>https://biomedical-big-data.de/publication/alcaraz-2017-zg/</link>
+      <link>https://biomedical-big-data.de/publication/alcaraz-2017-novo/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://biomedical-big-data.de/publication/alcaraz-2017-zg/</guid>
+      <guid>https://biomedical-big-data.de/publication/alcaraz-2017-novo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the performance of de novo pathway enrichment</title>
-      <link>https://biomedical-big-data.de/publication/batra-2017-dt/</link>
+      <link>https://biomedical-big-data.de/publication/batra-2017-performance/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://biomedical-big-data.de/publication/batra-2017-dt/</guid>
+      <guid>https://biomedical-big-data.de/publication/batra-2017-performance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comprehensive analysis of high-throughput screens with HiTSeekR</title>
-      <link>https://biomedical-big-data.de/publication/list-2016-is/</link>
+      <link>https://biomedical-big-data.de/publication/list-2016-comprehensive/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://biomedical-big-data.de/publication/list-2016-is/</guid>
+      <guid>https://biomedical-big-data.de/publication/list-2016-comprehensive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KeyPathwayMinerWeb: online multi-omics network enrichment</title>
-      <link>https://biomedical-big-data.de/publication/list-2016-nj/</link>
+      <link>https://biomedical-big-data.de/publication/list-2016-keypathwayminerweb/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://biomedical-big-data.de/publication/list-2016-nj/</guid>
+      <guid>https://biomedical-big-data.de/publication/list-2016-keypathwayminerweb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust de novo pathway enrichment with KeyPathwayMiner 5</title>
-      <link>https://biomedical-big-data.de/publication/alcaraz-2016-by/</link>
+      <link>https://biomedical-big-data.de/publication/alcaraz-2016-robust/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://biomedical-big-data.de/publication/alcaraz-2016-by/</guid>
+      <guid>https://biomedical-big-data.de/publication/alcaraz-2016-robust/</guid>
       <description></description>
     </item>
     

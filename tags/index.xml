@@ -7,24 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>16S rRNA sequencing</title>
-      <link>https://biomedical-big-data.de/tags/16s-rrna-sequencing/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      <title>COVID-19</title>
+      <link>https://biomedical-big-data.de/tags/covid-19/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://biomedical-big-data.de/tags/16s-rrna-sequencing/</guid>
+      <guid>https://biomedical-big-data.de/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA methylation</title>
+      <link>https://biomedical-big-data.de/tags/dna-methylation/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/dna-methylation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GWAS</title>
+      <link>https://biomedical-big-data.de/tags/gwas/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/gwas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IHEC</title>
       <link>https://biomedical-big-data.de/tags/ihec/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/ihec/</guid>
       <description></description>
@@ -49,15 +67,6 @@
     </item>
     
     <item>
-      <title>NanoCAN;ListLab</title>
-      <link>https://biomedical-big-data.de/tags/nanocanlistlab/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/nanocanlistlab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>PhD</title>
       <link>https://biomedical-big-data.de/tags/phd/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
@@ -72,6 +81,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sars-CoV-2</title>
+      <link>https://biomedical-big-data.de/tags/sars-cov-2/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/sars-cov-2/</guid>
       <description></description>
     </item>
     
@@ -166,6 +184,15 @@
     </item>
     
     <item>
+      <title>cell type heterogeneity</title>
+      <link>https://biomedical-big-data.de/tags/cell-type-heterogeneity/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/cell-type-heterogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>cell type onotlogy</title>
       <link>https://biomedical-big-data.de/tags/cell-type-onotlogy/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
@@ -177,18 +204,18 @@
     <item>
       <title>cell-type deconvolution</title>
       <link>https://biomedical-big-data.de/tags/cell-type-deconvolution/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/cell-type-deconvolution/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>chemoresistance</title>
-      <link>https://biomedical-big-data.de/tags/chemoresistance/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
+      <title>cell-type heterogeneity</title>
+      <link>https://biomedical-big-data.de/tags/cell-type-heterogeneity/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
       
-      <guid>https://biomedical-big-data.de/tags/chemoresistance/</guid>
+      <guid>https://biomedical-big-data.de/tags/cell-type-heterogeneity/</guid>
       <description></description>
     </item>
     
@@ -231,9 +258,18 @@
     <item>
       <title>de novo network enrichment</title>
       <link>https://biomedical-big-data.de/tags/de-novo-network-enrichment/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/de-novo-network-enrichment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>de novo pathway enrichment</title>
+      <link>https://biomedical-big-data.de/tags/de-novo-pathway-enrichment/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/de-novo-pathway-enrichment/</guid>
       <description></description>
     </item>
     
@@ -249,7 +285,7 @@
     <item>
       <title>drug repurposing</title>
       <link>https://biomedical-big-data.de/tags/drug-repurposing/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/drug-repurposing/</guid>
       <description></description>
@@ -270,6 +306,15 @@
       <pubDate>Tue, 06 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/epigenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>epistasis</title>
+      <link>https://biomedical-big-data.de/tags/epistasis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/epistasis/</guid>
       <description></description>
     </item>
     
@@ -319,20 +364,20 @@
     </item>
     
     <item>
+      <title>hackathon</title>
+      <link>https://biomedical-big-data.de/tags/hackathon/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>high-throughput screening</title>
       <link>https://biomedical-big-data.de/tags/high-throughput-screening/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/high-throughput-screening/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>long non-coding RNA</title>
-      <link>https://biomedical-big-data.de/tags/long-non-coding-rna/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/long-non-coding-rna/</guid>
       <description></description>
     </item>
     
@@ -351,24 +396,6 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/microrna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>microbiome</title>
-      <link>https://biomedical-big-data.de/tags/microbiome/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/microbiome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multi-omics</title>
-      <link>https://biomedical-big-data.de/tags/multi-omics/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/multi-omics/</guid>
       <description></description>
     </item>
     
@@ -409,6 +436,33 @@
     </item>
     
     <item>
+      <title>network enrichment</title>
+      <link>https://biomedical-big-data.de/tags/network-enrichment/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/network-enrichment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network medicine</title>
+      <link>https://biomedical-big-data.de/tags/network-medicine/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/network-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>patient stratification</title>
+      <link>https://biomedical-big-data.de/tags/patient-stratification/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/patient-stratification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>privacy-preserving machine learning</title>
       <link>https://biomedical-big-data.de/tags/privacy-preserving-machine-learning/</link>
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
@@ -432,6 +486,15 @@
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/scalability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulator</title>
+      <link>https://biomedical-big-data.de/tags/simulator/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/simulator/</guid>
       <description></description>
     </item>
     
@@ -492,7 +555,7 @@
     <item>
       <title>systems medicine</title>
       <link>https://biomedical-big-data.de/tags/systems-medicine/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/systems-medicine/</guid>
       <description></description>
@@ -510,7 +573,7 @@
     <item>
       <title>tumor microenvironment</title>
       <link>https://biomedical-big-data.de/tags/tumor-microenvironment/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/tumor-microenvironment/</guid>
       <description></description>

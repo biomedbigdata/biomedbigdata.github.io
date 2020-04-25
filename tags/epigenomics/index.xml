@@ -31,38 +31,29 @@
     </item>
     
     <item>
-      <title>Large-scale epigenomics data analysis</title>
-      <link>https://biomedical-big-data.de/project/deepblue/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/project/deepblue/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>An ontology-based method for assessing batch effect adjustmentapproaches in heterogeneous datasets</title>
-      <link>https://biomedical-big-data.de/publication/schmidt-2018-fv/</link>
+      <link>https://biomedical-big-data.de/publication/schmidt-2018-ontology/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://biomedical-big-data.de/publication/schmidt-2018-fv/</guid>
+      <guid>https://biomedical-big-data.de/publication/schmidt-2018-ontology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DeepBlueR: large-scale epigenomic analysis in R</title>
-      <link>https://biomedical-big-data.de/publication/albrecht-2017-oa/</link>
+      <link>https://biomedical-big-data.de/publication/albrecht-2017-deepbluer/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://biomedical-big-data.de/publication/albrecht-2017-oa/</guid>
+      <guid>https://biomedical-big-data.de/publication/albrecht-2017-deepbluer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DeepBlue epigenomic data server: programmatic data retrieval and analysis of epigenome region sets</title>
-      <link>https://biomedical-big-data.de/publication/albrecht-2016-bm/</link>
+      <link>https://biomedical-big-data.de/publication/albrecht-2016-deepblue/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://biomedical-big-data.de/publication/albrecht-2016-bm/</guid>
+      <guid>https://biomedical-big-data.de/publication/albrecht-2016-deepblue/</guid>
       <description></description>
     </item>
     
