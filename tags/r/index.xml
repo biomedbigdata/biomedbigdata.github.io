@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Sep 2018 19:39:58 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DeepBlueR</title>
+      <link>https://biomedical-big-data.de/tool/deepbluer/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/deepbluer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DeepBlueR: large-scale epigenomic analysis in R</title>

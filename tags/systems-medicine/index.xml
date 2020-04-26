@@ -22,11 +22,56 @@
     </item>
     
     <item>
+      <title>CoVex</title>
+      <link>https://biomedical-big-data.de/tool/covex/</link>
+      <pubDate>Mon, 20 Apr 2020 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/covex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BiCoN: Network-constrained biclustering of patients and omics data</title>
       <link>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiCoN</title>
+      <link>https://biomedical-big-data.de/tool/bicon/</link>
+      <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/bicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>immunedeconv</title>
+      <link>https://biomedical-big-data.de/tool/immunedeconv/</link>
+      <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/immunedeconv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KPM</title>
+      <link>https://biomedical-big-data.de/tool/keypathwayminer/</link>
+      <pubDate>Fri, 28 Dec 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/keypathwayminer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HiTSeekR</title>
+      <link>https://biomedical-big-data.de/tool/hitseekr/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/hitseekr/</guid>
       <description></description>
     </item>
     

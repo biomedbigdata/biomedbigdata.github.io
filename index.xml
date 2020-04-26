@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Big data for Systems Medicine</title>
+      <link>https://biomedical-big-data.de/talk/embl_life_science_2020/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/embl_life_science_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The fight against COVID-19</title>
       <link>https://biomedical-big-data.de/post/covex/</link>
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
@@ -24,6 +33,15 @@ Animation video:&lt;/br&gt;&lt;/p&gt;
 
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/yK1rbFi5wW0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>CoVex</title>
+      <link>https://biomedical-big-data.de/tool/covex/</link>
+      <pubDate>Mon, 20 Apr 2020 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/covex/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -90,6 +108,33 @@ Animation video:&lt;/br&gt;&lt;/p&gt;
     </item>
     
     <item>
+      <title>BiCoN</title>
+      <link>https://biomedical-big-data.de/tool/bicon/</link>
+      <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/bicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSH</title>
+      <link>https://biomedical-big-data.de/tool/wsh/</link>
+      <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/wsh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>immunedeconv</title>
+      <link>https://biomedical-big-data.de/tool/immunedeconv/</link>
+      <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/immunedeconv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The mRNA-binding Protein TTP/ZFP36 in Hepatocarcinogenesis and Hepatocellular Carcinoma</title>
       <link>https://biomedical-big-data.de/publication/krohler-2019-mrna/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
@@ -99,65 +144,11 @@ Animation video:&lt;/br&gt;&lt;/p&gt;
     </item>
     
     <item>
-      <title>Big data and its challenges on the path towards systems medicine</title>
-      <link>https://biomedical-big-data.de/talk/insights2019/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0200</pubDate>
+      <title>HouseKeepR</title>
+      <link>https://biomedical-big-data.de/tool/housekeepr/</link>
+      <pubDate>Mon, 28 Oct 2019 19:39:58 +0200</pubDate>
       
-      <guid>https://biomedical-big-data.de/talk/insights2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Network biology in the era of big data</title>
-      <link>https://biomedical-big-data.de/talk/itarget/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/talk/itarget/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genome-wide endogenous RNA networks highlight novel biomarkers in cancer</title>
-      <link>https://biomedical-big-data.de/talk/mccmb/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/talk/mccmb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Large-scale inference of competing endogeneous RNA networks with sparse partial correlation</title>
-      <link>https://biomedical-big-data.de/talk/ismb2019/</link>
-      <pubDate>Tue, 23 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/talk/ismb2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MOLIT Symposium 2019</title>
-      <link>https://biomedical-big-data.de/post/molit-symposium/</link>
-      <pubDate>Mon, 18 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/post/molit-symposium/</guid>
-      <description>
-
-&lt;p&gt;The first MOLIT Symposium is actively promoting the dialogue of implementing personalized medicine into treatment routine. Therefore, a platform to interlink practicing physicians and IT experts is formed. This opens up possibilities to join forces between oncology and IT on problems in patient care to make solutions usable in everyday clinical practice.&lt;/p&gt;
-
-&lt;h3 id=&#34;study-designs-for-personalized-medicine&#34;&gt;Study Designs for Personalized Medicine&lt;/h3&gt;
-
-&lt;p&gt;As part of the MOLIT symposium, Christian Fegeler (MOLIT, Heilbronn) and Markus List organized a workshop on study designs for personalized medicine. The current premise is that present study designs are based on large groups of patients e.g. for testing the efficacy of medication. However, personalized medicine focuses on customized therapies for one single patient. During the workshop, we discussed how we can leverage the vast potential of molecular big data beyond the limited scope of clinical studies. Concepts like virtual cohorts may pave the way towards this in the future.&lt;/p&gt;
-
-&lt;p&gt;More information: &lt;a href=&#34;https://molit.eu/en/projects/molit-symposium/program/&#34; target=&#34;_blank&#34;&gt;https://molit.eu/en/projects/molit-symposium/program/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Big Data als Wegbereiter der Präzisionsmedizin</title>
-      <link>https://biomedical-big-data.de/talk/igld/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/talk/igld/</guid>
+      <guid>https://biomedical-big-data.de/tool/housekeepr/</guid>
       <description></description>
     </item>
     
