@@ -1,77 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cell type heterogeneity on Big Data in Biomedicine</title>
+    <title>cell-type heterogeneity on Big Data in Biomedicine</title>
     <link>https://biomedical-big-data.de/tags/cell-type-heterogeneity/</link>
-    <description>Recent content in cell type heterogeneity on Big Data in Biomedicine</description>
+    <description>Recent content in cell-type heterogeneity on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/cell-type-heterogeneity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mass-spectrometry-based draft of the Arabidopsis proteome</title>
-      <link>https://biomedical-big-data.de/publication/mergner-2020-mass/</link>
-      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/mergner-2020-mass/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantitative comparison of within-sample heterogeneity scores for DNA methylation data</title>
-      <link>https://biomedical-big-data.de/publication/scherer-2020-quantitative/</link>
+      <title>BiCoN: Network-constrained biclustering of patients and omics data</title>
+      <link>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
       
-      <guid>https://biomedical-big-data.de/publication/scherer-2020-quantitative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WSH</title>
-      <link>https://biomedical-big-data.de/tool/wsh/</link>
-      <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tool/wsh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>immunedeconv</title>
-      <link>https://biomedical-big-data.de/tool/immunedeconv/</link>
-      <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tool/immunedeconv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HouseKeepR</title>
-      <link>https://biomedical-big-data.de/tool/housekeepr/</link>
-      <pubDate>Mon, 28 Oct 2019 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tool/housekeepr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Athena</title>
-      <link>https://biomedical-big-data.de/tool/athena/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tool/athena/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DeepBlueR</title>
-      <link>https://biomedical-big-data.de/tool/deepbluer/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tool/deepbluer/</guid>
+      <guid>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</guid>
       <description></description>
     </item>
     
