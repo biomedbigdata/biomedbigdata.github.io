@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/epigenomics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EpiRegio: analysis and retrieval of regulatory elements linked to genes</title>
+      <link>https://biomedical-big-data.de/publication/baumgarten-2020-epiregio/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/baumgarten-2020-epiregio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analysing large-scale epigenomic data</title>

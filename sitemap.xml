@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>https://biomedical-big-data.de/publication/baumgarten-2020-epiregio/</loc>
+      <lastmod>2020-05-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/hufsky-2020-computational/</loc>
+      <lastmod>2020-05-23T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/stalidzans-2020-mechanistic/</loc>
+      <lastmod>2020-05-07T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://biomedical-big-data.de/talk/embl_life_science_2020/</loc>
       <lastmod>2020-04-26T00:00:00+02:00</lastmod>
     </url>
@@ -52,7 +76,23 @@
     
     <url>
     
+      <loc>https://biomedical-big-data.de/publication/list-2020-novo/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://biomedical-big-data.de/publication/blumenthal-2020-epigen/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</loc>
       <lastmod>2020-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -644,7 +684,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/publication_types/2/</loc>
-      <lastmod>2020-03-11T00:00:00+01:00</lastmod>
+      <lastmod>2020-05-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -671,7 +711,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/publication_types/7/</loc>
-      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2020-05-23T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -993,6 +1033,15 @@
     
     <url>
     
+      <loc>https://biomedical-big-data.de/tags/disease-subtyping/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://biomedical-big-data.de/tags/docker/</loc>
       <lastmod>2017-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -1003,7 +1052,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/drug-repurposing/</loc>
-      <lastmod>2020-04-24T00:00:00+02:00</lastmod>
+      <lastmod>2020-05-23T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1021,7 +1070,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/epigenomics/</loc>
-      <lastmod>2018-11-06T00:00:00+01:00</lastmod>
+      <lastmod>2020-05-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1201,7 +1250,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/network-analysis/</loc>
-      <lastmod>2020-04-20T19:39:58+02:00</lastmod>
+      <lastmod>2020-05-23T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1336,7 +1385,7 @@
     <url>
     
       <loc>https://biomedical-big-data.de/tags/systems-medicine/</loc>
-      <lastmod>2020-04-24T00:00:00+02:00</lastmod>
+      <lastmod>2020-05-23T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -13,6 +13,33 @@
     
     
     <item>
+      <title>EpiRegio: analysis and retrieval of regulatory elements linked to genes</title>
+      <link>https://biomedical-big-data.de/publication/baumgarten-2020-epiregio/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/baumgarten-2020-epiregio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Strategies to Combat COVID-19: Useful Tools to Accelerate SARS-CoV-2 and Coronavirus Research</title>
+      <link>https://biomedical-big-data.de/publication/hufsky-2020-computational/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hufsky-2020-computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanistic Modeling and Multiscale Applications for Precision Medicine: Theory and Practice</title>
+      <link>https://biomedical-big-data.de/publication/stalidzans-2020-mechanistic/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/stalidzans-2020-mechanistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mass-spectrometry-based draft of the Arabidopsis proteome</title>
       <link>https://biomedical-big-data.de/publication/mergner-2020-mass/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
@@ -40,11 +67,29 @@
     </item>
     
     <item>
+      <title>De Novo Pathway-Based Classification of Breast Cancer Subtypes</title>
+      <link>https://biomedical-big-data.de/publication/list-2020-novo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2020-novo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EpiGEN: an epistasis simulation pipeline</title>
       <link>https://biomedical-big-data.de/publication/blumenthal-2020-epigen/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/blumenthal-2020-epigen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing</title>
+      <link>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</guid>
       <description></description>
     </item>
     
