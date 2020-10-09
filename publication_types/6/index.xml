@@ -6,11 +6,20 @@
     <description>Recent content in 6 on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Multi-Omics Analysis in a Network Context (in &#34;Reference Module in Biomedical Sciences&#34;)</title>
+      <link>https://biomedical-big-data.de/publication/lazareva-2021-multiomics/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lazareva-2021-multiomics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>De Novo Pathway Enrichment with KeyPathwayMiner</title>

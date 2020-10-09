@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Lazareva, M. Lautizi, A. Fenn, M. List, T. Kacprowski, J. Baumbach on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/o.-lazareva-m.-lautizi-a.-fenn-m.-list-t.-kacprowski-j.-baumbach/</link>
+    <description>Recent content in O. Lazareva, M. Lautizi, A. Fenn, M. List, T. Kacprowski, J. Baumbach on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/o.-lazareva-m.-lautizi-a.-fenn-m.-list-t.-kacprowski-j.-baumbach/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-Omics Analysis in a Network Context (in &#34;Reference Module in Biomedical Sciences&#34;)</title>
+      <link>https://biomedical-big-data.de/publication/lazareva-2021-multiomics/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lazareva-2021-multiomics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

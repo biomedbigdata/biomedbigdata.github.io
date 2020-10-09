@@ -6,11 +6,20 @@
     <description>Recent content in systems medicine on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 23 May 2020 00:00:00 +0200</lastBuildDate>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/systems-medicine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing</title>
+      <link>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computational Strategies to Combat COVID-19: Useful Tools to Accelerate SARS-CoV-2 and Coronavirus Research</title>
@@ -36,7 +45,7 @@
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/post/covex/</guid>
-      <description>To address the Coronavirus Disease-2019 (COVID-19) crisis, drug repurposing is an attractive approach that offers new therapeutic options through the identification of alternative usages for already approved drugs. Numerous research groups around the world are working on treatment options for COVID-19 and are joining efforts to identify drugs that can be repurposed. A promising strategy for identifying drugs is to use network and systems medicine approaches, which provide a comprehensive understanding of the infection mechanisms while not only focussing on the virus and its direct interaction partners, but also including the host protein interaction network.</description>
+      <description>The CoVex systems medicine platform allows identifying putative drug targets and drug repurposing candidates to treat COVID-19.</description>
     </item>
     
     <item>
@@ -45,7 +54,7 @@
       <pubDate>Mon, 20 Apr 2020 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/covex/</guid>
-      <description></description>
+      <description>A web app for mining the Sars-COV-&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; virus-host-drug interactome for drug repurposing candidates.</description>
     </item>
     
     <item>
@@ -58,21 +67,12 @@
     </item>
     
     <item>
-      <title>Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing</title>
-      <link>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>BiCoN</title>
       <link>https://biomedical-big-data.de/tool/bicon/</link>
       <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/bicon/</guid>
-      <description></description>
+      <description>A python package and web application for network-constrained biclustering for patient stratification.</description>
     </item>
     
     <item>
@@ -81,7 +81,7 @@
       <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/immunedeconv/</guid>
-      <description></description>
+      <description>An R package for running several tools for in silico cell type deconvolution for immuno-oncology.</description>
     </item>
     
     <item>
@@ -90,7 +90,7 @@
       <pubDate>Fri, 28 Dec 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/keypathwayminer/</guid>
-      <description></description>
+      <description>A web app for &lt;em&gt;de novo&lt;/em&gt; network enrichment, i.e. to integrate multi-omics data with the interactome.</description>
     </item>
     
     <item>
@@ -99,7 +99,7 @@
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/hitseekr/</guid>
-      <description></description>
+      <description>An R shiny web application for the analysis of various types of high-throughput screening data.</description>
     </item>
     
     <item>
@@ -108,7 +108,7 @@
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/project/repo-trial/</guid>
-      <description></description>
+      <description>The EU H2020 project REPO-TRIAL aims at developing an &lt;strong&gt;in silico&lt;/strong&gt; approach to optimise the efficacy and precision of drug repurposing trials. To this end we integrated heterogeneous data into a comprehensive interactome of disease-drug-gene interactions (a new diseasome).</description>
     </item>
     
   </channel>

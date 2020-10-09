@@ -5,11 +5,24 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 3.1.1">
-  <meta name="generator" content="Hugo 0.51" />
-  <meta name="author" content="Markus List">
+  <meta name="generator" content="Source Themes Academic 4.0.0">
+  <meta name="generator" content="Hugo 0.56.3" />
 
   
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Markus List">
+
   
   
   
@@ -30,9 +43,15 @@
   
 
   
+
+  
+
+  
+
   
   
-  <meta name="theme-color" content="hsl(36, 90%, 58%)">
+  
+  <meta name="theme-color" content="hsl(25, 90%, 68%)">
   
 
   
@@ -42,7 +61,7 @@
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
 
     
@@ -54,7 +73,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark">
         
       
     
@@ -90,16 +110,21 @@
 
   <link rel="canonical" href="https://biomedical-big-data.de/talk/cemm/">
 
+  
+  
+  
+  
+    
+  
   <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@itisalist">
+  <meta property="twitter:creator" content="@itisalist">
   
   <meta property="og:site_name" content="Big Data in Biomedicine">
   <meta property="og:url" content="https://biomedical-big-data.de/talk/cemm/">
   <meta property="og:title" content="Genome-wide endogenous RNA networks highlight novel biomarkers in cancer | Big Data in Biomedicine">
-  <meta property="og:description" content="The competing endogenous RNA (ceRNA) hypothesis motivates the existence of so-called sponges, i.e., genes that exert strong regulatory control via miRNA binding in a ceRNA interaction network. This poses a powerful disease mechanism that disrupts parts of the cellular transcriptional program through one or few key sponge genes. In particular in cancer, non-coding RNAs may facilitate changes in transcriptional programs without the risk of lethal side effects caused by expressing a protein at abnormally high or low levels. In spite of the importance of this phenomenon, we currently lack an efficient method for inferring sponge interactions on a genome-wide scale. Moreover, confounding factors such as large differences in sample numbers prevent comparisons across different cancer cohorts. This motivated us to develop sparse partial correlation on gene expression (SPONGE), a method that is orders of magnitude faster than previous approaches and allows for the construction of genome-wide ceRNA interaction networks. SPONGE is the first method to compute empirical p-values efficiently based on a series of null models and can thus control for confounding factors that were underestimated in previous studies. SPONGE enabled us to build the most comprehensive set of genome-wide ceRNA regulation models for 22 cancer types based on miRNA and gene expression data from The Cancer Genome Atlas. Since SPONGE accounts for confounding factors, we could perform pan-cancer analyses and reveal hundreds of novel sponge genes. In particular non-coding genes appear suitable as survival markers in different cancer types. Our results highlight the relevance of ceRNA network inference for clinical research, in particular considering the potential of targeting disease-associated non-coding RNAs in personalized medicine.">
-  
-  
-    
-  <meta property="og:image" content="https://biomedical-big-data.de/img/biomedbigdata_logo_square.png">
+  <meta property="og:description" content="The competing endogenous RNA (ceRNA) hypothesis motivates the existence of so-called sponges, i.e., genes that exert strong regulatory control via miRNA binding in a ceRNA interaction network. This poses a powerful disease mechanism that disrupts parts of the cellular transcriptional program through one or few key sponge genes. In particular in cancer, non-coding RNAs may facilitate changes in transcriptional programs without the risk of lethal side effects caused by expressing a protein at abnormally high or low levels. In spite of the importance of this phenomenon, we currently lack an efficient method for inferring sponge interactions on a genome-wide scale. Moreover, confounding factors such as large differences in sample numbers prevent comparisons across different cancer cohorts. This motivated us to develop sparse partial correlation on gene expression (SPONGE), a method that is orders of magnitude faster than previous approaches and allows for the construction of genome-wide ceRNA interaction networks. SPONGE is the first method to compute empirical p-values efficiently based on a series of null models and can thus control for confounding factors that were underestimated in previous studies. SPONGE enabled us to build the most comprehensive set of genome-wide ceRNA regulation models for 22 cancer types based on miRNA and gene expression data from The Cancer Genome Atlas. Since SPONGE accounts for confounding factors, we could perform pan-cancer analyses and reveal hundreds of novel sponge genes. In particular non-coding genes appear suitable as survival markers in different cancer types. Our results highlight the relevance of ceRNA network inference for clinical research, in particular considering the potential of targeting disease-associated non-coding RNAs in personalized medicine."><meta property="og:image" content="https://biomedical-big-data.de/img/biomedbigdata_logo_square.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-09-28T00:00:00&#43;02:00">
@@ -117,7 +142,7 @@
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="dark">
   <aside class="search-results" id="search">
   <div class="container">
-    <section class="search-header fixed-top">
+    <section class="search-header">
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
@@ -130,7 +155,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
         
       </div>
 
@@ -163,7 +189,7 @@
 
       
       
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav mr-auto">
         
 
         
@@ -232,7 +258,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#publications_selected">
+          <a class="nav-link" href="/#publications">
             
             <span>Publications</span>
             
@@ -248,12 +274,10 @@
         
         
           
-            
-          
         
 
         <li class="nav-item">
-          <a class="nav-link" href="https://exbio.de/list-lab/" target="_blank" rel="noopener">
+          <a class="nav-link" href="/#people">
             
             <span>Group</span>
             
@@ -340,12 +364,26 @@
         
 
       
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
 
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
         
 
         
 
         
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
       </ul>
 
     </div>
@@ -380,35 +418,29 @@
   
     
 
+
+
+<meta content="2018-09-28 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+<meta content="2018-09-28 00:00:00 &#43;0200 CEST" itemprop="dateModified">
+
 <div class="article-metadata">
 
   
   
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Markus List">
-  </span>
+
   
 
-  <span class="article-date">
+  
+
+  
+
+  
+  
+
+  
+
+  
     
-    <meta content="2018-09-28 00:00:00 &#43;0200 CEST" itemprop="datePublished">
-    <time datetime="2018-09-28 00:00:00 &#43;0200 CEST" itemprop="dateModified">
-      28. Sep 2018
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Markus List">
-  </span>
-
-  
-
-  
-  
-
-  
-
-  
-  
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
@@ -478,7 +510,6 @@
 
 
 
-
   
 
 
@@ -524,12 +555,12 @@
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
             
-            28. Sep 2018
+            Sep 28, 2018
             <div class="talk-time">
               
-                15:00
+                3:00 PM
                 
-                  &mdash; 16:00
+                  &mdash; 4:00 PM
                 
               
             </div>
@@ -588,12 +619,22 @@
 
 
 
+  
+
+
+
+
+
+
+
 <div class="media author-card" itemscope itemtype="http://schema.org/Person">
   
-  <img class="portrait mr-3" src="/img/markus.JPG" itemprop="image" alt="Avatar">
   
+  <img class="portrait mr-3" src="/author/markus_list/avatar_hu5bbf72b21210ad6731a8836fbfc2b0d3_63413_250x250_fill_q75_box_center.jpg" itemprop="image" alt="Avatar">
+  
+
   <div class="media-body">
-    <h5 class="card-title" itemprop="name"><a href="/">Markus List</a></h5>
+    <h5 class="card-title" itemprop="name"><a href="/authors/markus_list">Markus List</a></h5>
     <h6 class="card-subtitle">Head of the Research Group Big Data in Biomedicine</h6>
     
     <ul class="network-icon" aria-hidden="true">
@@ -657,7 +698,7 @@
         
       
       <li>
-        <a itemprop="sameAs" href="//github.com/biomedicalbigdata" >
+        <a itemprop="sameAs" href="https://github.com/biomedicalbigdata" target="_blank" rel="noopener">
           <i class="fab fa-github"></i>
         </a>
       </li>
@@ -709,7 +750,7 @@
   
 
   <p class="powered-by">
-    &copy; 2018 &middot; 
+    &copy; 2020 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -815,24 +856,42 @@
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
 
     
     
-
     
     
     
     
     
+      
     
     
     
-    <script src="/js/academic.min.74b0d3361475b08c40cf31120e82937b.js"></script>
-
     
+    <script src="/js/academic.min.802925a149e664aae17650495910b191.js"></script>
 
   </body>
 </html>

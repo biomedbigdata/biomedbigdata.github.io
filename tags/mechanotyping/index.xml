@@ -6,7 +6,7 @@
     <description>Recent content in mechanotyping on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2020</copyright>
     <lastBuildDate>Sat, 28 Dec 2019 19:39:58 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/mechanotyping/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/bicon/</guid>
-      <description></description>
+      <description>A python package and web application for network-constrained biclustering for patient stratification.</description>
     </item>
     
   </channel>

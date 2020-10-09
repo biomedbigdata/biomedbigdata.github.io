@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amit_fenn on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/amit_fenn/</link>
+    <description>Recent content in amit_fenn on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/amit_fenn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/author/amit_fenn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/author/amit_fenn/</guid>
+      <description>I&amp;rsquo;m a PhD candidate at the chair of Experimental Bioinformatics at TUM. My project is the study of alternative splicing in heart and kidney using machine learning to analyze multi-omics data. I studied cellular biology, specializing in the mitochondria, during my Master&amp;rsquo;s at LMU. For my Master&amp;rsquo;s thesis, I explored splicing within ribosomal protein genes, in the context of the biogenesis of mitochondria.</description>
+    </item>
+    
+  </channel>
+</rss>

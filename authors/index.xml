@@ -1,0 +1,2104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/</link>
+    <description>Recent content in Authors on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jan Baumbach</title>
+      <link>https://biomedical-big-data.de/authors/jan-baumbach/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jan-baumbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josch Konstantin Pauling</title>
+      <link>https://biomedical-big-data.de/authors/josch-konstantin-pauling/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/josch-konstantin-pauling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markus List</title>
+      <link>https://biomedical-big-data.de/authors/markus-list/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/markus-list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philipp Weber</title>
+      <link>https://biomedical-big-data.de/authors/philipp-weber/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/philipp-weber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Gress</title>
+      <link>https://biomedical-big-data.de/authors/a.-gress/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/a.-gress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Baumbach</title>
+      <link>https://biomedical-big-data.de/authors/j.-baumbach/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/j.-baumbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Yuan</title>
+      <link>https://biomedical-big-data.de/authors/k.-yuan/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/k.-yuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. List</title>
+      <link>https://biomedical-big-data.de/authors/m.-list/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/m.-list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. Tsoy</title>
+      <link>https://biomedical-big-data.de/authors/o.-tsoy/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/o.-tsoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. V. Kalinina</title>
+      <link>https://biomedical-big-data.de/authors/o.-v.-kalinina/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/o.-v.-kalinina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Kacprowski</title>
+      <link>https://biomedical-big-data.de/authors/t.-kacprowski/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/t.-kacprowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Z. Louadi</title>
+      <link>https://biomedical-big-data.de/authors/z.-louadi/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/z.-louadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D.T. Grønne</title>
+      <link>https://biomedical-big-data.de/authors/d.t.-gr%C3%B8nne/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/d.t.-gr%C3%B8nne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E.M. Roos</title>
+      <link>https://biomedical-big-data.de/authors/e.m.-roos/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/e.m.-roos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Baumbach</title>
+      <link>https://biomedical-big-data.de/authors/l.-baumbach/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/l.-baumbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.T. Skou</title>
+      <link>https://biomedical-big-data.de/authors/s.t.-skou/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/s.t.-skou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> others</title>
+      <link>https://biomedical-big-data.de/authors/others/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo L Almeida</title>
+      <link>https://biomedical-big-data.de/authors/eduardo-l-almeida/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/eduardo-l-almeida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harald Grallert</title>
+      <link>https://biomedical-big-data.de/authors/harald-grallert/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/harald-grallert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klaus Neuhaus</title>
+      <link>https://biomedical-big-data.de/authors/klaus-neuhaus/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/klaus-neuhaus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martina Troll</title>
+      <link>https://biomedical-big-data.de/authors/martina-troll/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/martina-troll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandra Reitmeier</title>
+      <link>https://biomedical-big-data.de/authors/sandra-reitmeier/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sandra-reitmeier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silke Kiessling</title>
+      <link>https://biomedical-big-data.de/authors/silke-kiessling/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/silke-kiessling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tarini G Ghosh</title>
+      <link>https://biomedical-big-data.de/authors/tarini-g-ghosh/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/tarini-g-ghosh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Clavel</title>
+      <link>https://biomedical-big-data.de/authors/thomas-clavel/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/thomas-clavel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wolfgang Rathmann</title>
+      <link>https://biomedical-big-data.de/authors/wolfgang-rathmann/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/wolfgang-rathmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bernhard Kuster</title>
+      <link>https://biomedical-big-data.de/authors/bernhard-kuster/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/bernhard-kuster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dietmar Zehn</title>
+      <link>https://biomedical-big-data.de/authors/dietmar-zehn/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/dietmar-zehn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florian Wiede</title>
+      <link>https://biomedical-big-data.de/authors/florian-wiede/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/florian-wiede/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jana Zecha</title>
+      <link>https://biomedical-big-data.de/authors/jana-zecha/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jana-zecha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jolie G. Cullen</title>
+      <link>https://biomedical-big-data.de/authors/jolie-g.-cullen/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jolie-g.-cullen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josch K. Pauling</title>
+      <link>https://biomedical-big-data.de/authors/josch-k.-pauling/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/josch-k.-pauling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Madlaina von Hoesslin</title>
+      <link>https://biomedical-big-data.de/authors/madlaina-von-hoesslin/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/madlaina-von-hoesslin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markus Flosbach</title>
+      <link>https://biomedical-big-data.de/authors/markus-flosbach/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/markus-flosbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefanie Scherer</title>
+      <link>https://biomedical-big-data.de/authors/stefanie-scherer/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/stefanie-scherer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susanne G. Oberle</title>
+      <link>https://biomedical-big-data.de/authors/susanne-g.-oberle/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/susanne-g.-oberle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tony Tiganis</title>
+      <link>https://biomedical-big-data.de/authors/tony-tiganis/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/tony-tiganis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vijaykumar Chennupati</title>
+      <link>https://biomedical-big-data.de/authors/vijaykumar-chennupati/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/vijaykumar-chennupati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andreas Pichlmair</title>
+      <link>https://biomedical-big-data.de/authors/andreas-pichlmair/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/andreas-pichlmair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David B Blumenthal</title>
+      <link>https://biomedical-big-data.de/authors/david-b-blumenthal/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/david-b-blumenthal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gihanna Galindez</title>
+      <link>https://biomedical-big-data.de/authors/gihanna-galindez/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/gihanna-galindez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julian Matschinske</title>
+      <link>https://biomedical-big-data.de/authors/julian-matschinske/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/julian-matschinske/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mhaned Oubounyt</title>
+      <link>https://biomedical-big-data.de/authors/mhaned-oubounyt/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/mhaned-oubounyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reza Nasirigerdeh</title>
+      <link>https://biomedical-big-data.de/authors/reza-nasirigerdeh/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/reza-nasirigerdeh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sepideh Sadegh</title>
+      <link>https://biomedical-big-data.de/authors/sepideh-sadegh/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sepideh-sadegh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Daniel Rose</title>
+      <link>https://biomedical-big-data.de/authors/tim-daniel-rose/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/tim-daniel-rose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Kacprowski</title>
+      <link>https://biomedical-big-data.de/authors/tim-kacprowski/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/tim-kacprowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Nasirigerdeh, and R. Torkzadehmahani, J. Matschinske, T. Frisch, M. List, J. Späth, S. Weiß, U. Völker, N. K. Wenke, T. Kacprowski, J. Baumbach</title>
+      <link>https://biomedical-big-data.de/authors/r.-nasirigerdeh-and-r.-torkzadehmahani-j.-matschinske-t.-frisch-m.-list-j.-sp%C3%A4th-s.-wei%C3%9F-u.-v%C3%B6lker-n.-k.-wenke-t.-kacprowski-j.-baumbach/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/r.-nasirigerdeh-and-r.-torkzadehmahani-j.-matschinske-t.-frisch-m.-list-j.-sp%C3%A4th-s.-wei%C3%9F-u.-v%C3%B6lker-n.-k.-wenke-t.-kacprowski-j.-baumbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. Lazareva, M. Lautizi, A. Fenn, M. List, T. Kacprowski, J. Baumbach</title>
+      <link>https://biomedical-big-data.de/authors/o.-lazareva-m.-lautizi-a.-fenn-m.-list-t.-kacprowski-j.-baumbach/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/o.-lazareva-m.-lautizi-a.-fenn-m.-list-t.-kacprowski-j.-baumbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dennis Hecker</title>
+      <link>https://biomedical-big-data.de/authors/dennis-hecker/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/dennis-hecker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florian Schmidt</title>
+      <link>https://biomedical-big-data.de/authors/florian-schmidt/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/florian-schmidt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcel H Schulz</title>
+      <link>https://biomedical-big-data.de/authors/marcel-h-schulz/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/marcel-h-schulz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nina Baumgarten</title>
+      <link>https://biomedical-big-data.de/authors/nina-baumgarten/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/nina-baumgarten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sivarajan Karunanithi</title>
+      <link>https://biomedical-big-data.de/authors/sivarajan-karunanithi/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sivarajan-karunanithi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abdel Aouacheria</title>
+      <link>https://biomedical-big-data.de/authors/abdel-aouacheria/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/abdel-aouacheria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Bateman</title>
+      <link>https://biomedical-big-data.de/authors/alex-bateman/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/alex-bateman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandre Almeida</title>
+      <link>https://biomedical-big-data.de/authors/alexandre-almeida/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/alexandre-almeida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cecilia Arighi</title>
+      <link>https://biomedical-big-data.de/authors/cecilia-arighi/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/cecilia-arighi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Brandt</title>
+      <link>https://biomedical-big-data.de/authors/christian-brandt/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/christian-brandt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Franziska Hufsky</title>
+      <link>https://biomedical-big-data.de/authors/franziska-hufsky/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/franziska-hufsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Lamkiewicz</title>
+      <link>https://biomedical-big-data.de/authors/kevin-lamkiewicz/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kevin-lamkiewicz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Cacciabue</title>
+      <link>https://biomedical-big-data.de/authors/marco-cacciabue/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/marco-cacciabue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Niko Beerenwinkel</title>
+      <link>https://biomedical-big-data.de/authors/niko-beerenwinkel/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/niko-beerenwinkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annikka Polster</title>
+      <link>https://biomedical-big-data.de/authors/annikka-polster/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/annikka-polster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blaž Stres</title>
+      <link>https://biomedical-big-data.de/authors/bla%C5%BE-stres/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/bla%C5%BE-stres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egils Stalidzans</title>
+      <link>https://biomedical-big-data.de/authors/egils-stalidzans/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/egils-stalidzans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filippo Castiglione</title>
+      <link>https://biomedical-big-data.de/authors/filippo-castiglione/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/filippo-castiglione/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jürgen Pahle</title>
+      <link>https://biomedical-big-data.de/authors/j%C3%BCrgen-pahle/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/j%C3%BCrgen-pahle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Massimiliano Zanin</title>
+      <link>https://biomedical-big-data.de/authors/massimiliano-zanin/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/massimiliano-zanin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paolo Tieri</title>
+      <link>https://biomedical-big-data.de/authors/paolo-tieri/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/paolo-tieri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Scheiner</title>
+      <link>https://biomedical-big-data.de/authors/stefan-scheiner/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/stefan-scheiner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ajeet Chaudhary</title>
+      <link>https://biomedical-big-data.de/authors/ajeet-chaudhary/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/ajeet-chaudhary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiromasa Shikata</title>
+      <link>https://biomedical-big-data.de/authors/hiromasa-shikata/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/hiromasa-shikata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia Mergner</title>
+      <link>https://biomedical-big-data.de/authors/julia-mergner/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/julia-mergner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Frejno</title>
+      <link>https://biomedical-big-data.de/authors/martin-frejno/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/martin-frejno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maxim Messerer</title>
+      <link>https://biomedical-big-data.de/authors/maxim-messerer/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/maxim-messerer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Papacek</title>
+      <link>https://biomedical-big-data.de/authors/michael-papacek/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/michael-papacek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patroklos Samaras</title>
+      <link>https://biomedical-big-data.de/authors/patroklos-samaras/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/patroklos-samaras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandra Richter</title>
+      <link>https://biomedical-big-data.de/authors/sandra-richter/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sandra-richter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xia Chen</title>
+      <link>https://biomedical-big-data.de/authors/xia-chen/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/xia-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Almut Nebel</title>
+      <link>https://biomedical-big-data.de/authors/almut-nebel/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/almut-nebel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andre Franke</title>
+      <link>https://biomedical-big-data.de/authors/andre-franke/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/andre-franke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anne Hartebrodt</title>
+      <link>https://biomedical-big-data.de/authors/anne-hartebrodt/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/anne-hartebrodt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christoph Bock</title>
+      <link>https://biomedical-big-data.de/authors/christoph-bock/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/christoph-bock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabian Müller</title>
+      <link>https://biomedical-big-data.de/authors/fabian-m%C3%BCller/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/fabian-m%C3%BCller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francesca Finotello</title>
+      <link>https://biomedical-big-data.de/authors/francesca-finotello/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/francesca-finotello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gregor Sturm</title>
+      <link>https://biomedical-big-data.de/authors/gregor-sturm/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/gregor-sturm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hoan Van Do</title>
+      <link>https://biomedical-big-data.de/authors/hoan-van-do/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/hoan-van-do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jörn Walter</title>
+      <link>https://biomedical-big-data.de/authors/j%C3%B6rn-walter/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/j%C3%B6rn-walter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Yuan</title>
+      <link>https://biomedical-big-data.de/authors/kevin-yuan/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kevin-yuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorenzo Viola</title>
+      <link>https://biomedical-big-data.de/authors/lorenzo-viola/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/lorenzo-viola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Scherer</title>
+      <link>https://biomedical-big-data.de/authors/michael-scherer/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/michael-scherer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicolas Alcaraz</title>
+      <link>https://biomedical-big-data.de/authors/nicolas-alcaraz/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/nicolas-alcaraz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olga Lazareva</title>
+      <link>https://biomedical-big-data.de/authors/olga-lazareva/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/olga-lazareva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richa Batra</title>
+      <link>https://biomedical-big-data.de/authors/richa-batra/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/richa-batra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Canzar</title>
+      <link>https://biomedical-big-data.de/authors/stefan-canzar/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/stefan-canzar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Lengauer</title>
+      <link>https://biomedical-big-data.de/authors/thomas-lengauer/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/thomas-lengauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ahmad Barghash</title>
+      <link>https://biomedical-big-data.de/authors/ahmad-barghash/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/ahmad-barghash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandra K. Kiemer</title>
+      <link>https://biomedical-big-data.de/authors/alexandra-k.-kiemer/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/alexandra-k.-kiemer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jessica Hoppstädter</title>
+      <link>https://biomedical-big-data.de/authors/jessica-hoppst%C3%A4dter/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jessica-hoppst%C3%A4dter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes Haybaeck</title>
+      <link>https://biomedical-big-data.de/authors/johannes-haybaeck/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/johannes-haybaeck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katja Gemperlein</title>
+      <link>https://biomedical-big-data.de/authors/katja-gemperlein/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/katja-gemperlein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevan Hosseini</title>
+      <link>https://biomedical-big-data.de/authors/kevan-hosseini/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kevan-hosseini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcel H. Schulz</title>
+      <link>https://biomedical-big-data.de/authors/marcel-h.-schulz/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/marcel-h.-schulz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perry J. Blackshear</title>
+      <link>https://biomedical-big-data.de/authors/perry-j.-blackshear/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/perry-j.-blackshear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rolf Müller</title>
+      <link>https://biomedical-big-data.de/authors/rolf-m%C3%BCller/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/rolf-m%C3%BCller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonika Patial</title>
+      <link>https://biomedical-big-data.de/authors/sonika-patial/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sonika-patial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonja M. Kessler</title>
+      <link>https://biomedical-big-data.de/authors/sonja-m.-kessler/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sonja-m.-kessler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephan Laggai</title>
+      <link>https://biomedical-big-data.de/authors/stephan-laggai/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/stephan-laggai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tarek Kröhler</title>
+      <link>https://biomedical-big-data.de/authors/tarek-kr%C3%B6hler/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/tarek-kr%C3%B6hler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volkhard Helms</title>
+      <link>https://biomedical-big-data.de/authors/volkhard-helms/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/volkhard-helms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aleksandra M Jaskot</title>
+      <link>https://biomedical-big-data.de/authors/aleksandra-m-jaskot/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/aleksandra-m-jaskot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandra K Kiemera</title>
+      <link>https://biomedical-big-data.de/authors/alexandra-k-kiemera/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/alexandra-k-kiemera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azim Dehghani Amirabad</title>
+      <link>https://biomedical-big-data.de/authors/azim-dehghani-amirabad/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/azim-dehghani-amirabad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carolin Müller</title>
+      <link>https://biomedical-big-data.de/authors/carolin-m%C3%BCller/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/carolin-m%C3%BCller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christina S Schultheißa</title>
+      <link>https://biomedical-big-data.de/authors/christina-s-schulthei%C3%9Fa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/christina-s-schulthei%C3%9Fa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christoph Sippl</title>
+      <link>https://biomedical-big-data.de/authors/christoph-sippl/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/christoph-sippl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Sdogati</title>
+      <link>https://biomedical-big-data.de/authors/daniel-sdogati/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/daniel-sdogati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dennis Kostka</title>
+      <link>https://biomedical-big-data.de/authors/dennis-kostka/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/dennis-kostka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florent Petitprez</title>
+      <link>https://biomedical-big-data.de/authors/florent-petitprez/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/florent-petitprez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helle Christiansen</title>
+      <link>https://biomedical-big-data.de/authors/helle-christiansen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/helle-christiansen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henriette Pedersen</title>
+      <link>https://biomedical-big-data.de/authors/henriette-pedersen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/henriette-pedersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ines Block</title>
+      <link>https://biomedical-big-data.de/authors/ines-block/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/ines-block/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jesper B Lund</title>
+      <link>https://biomedical-big-data.de/authors/jesper-b-lund/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jesper-b-lund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jessica Hoppstaedter</title>
+      <link>https://biomedical-big-data.de/authors/jessica-hoppstaedter/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jessica-hoppstaedter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jitao David Zheng</title>
+      <link>https://biomedical-big-data.de/authors/jitao-david-zheng/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jitao-david-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joachim Oertel</title>
+      <link>https://biomedical-big-data.de/authors/joachim-oertel/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/joachim-oertel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevan Hosseinia</title>
+      <link>https://biomedical-big-data.de/authors/kevan-hosseinia/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kevan-hosseinia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyoung Min Kimb</title>
+      <link>https://biomedical-big-data.de/authors/kyoung-min-kimb/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kyoung-min-kimb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyu Yun Jangb</title>
+      <link>https://biomedical-big-data.de/authors/kyu-yun-jangb/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kyu-yun-jangb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lisa Bohr</title>
+      <link>https://biomedical-big-data.de/authors/lisa-bohr/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/lisa-bohr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcel H Schulze</title>
+      <link>https://biomedical-big-data.de/authors/marcel-h-schulze/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/marcel-h-schulze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markus Liste</title>
+      <link>https://biomedical-big-data.de/authors/markus-liste/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/markus-liste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nina K Wenke</title>
+      <link>https://biomedical-big-data.de/authors/nina-k-wenke/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/nina-k-wenke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pernille Lund Hansen</title>
+      <link>https://biomedical-big-data.de/authors/pernille-lund-hansen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/pernille-lund-hansen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qihua Tan</title>
+      <link>https://biomedical-big-data.de/authors/qihua-tan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/qihua-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ralf Ketter</title>
+      <link>https://biomedical-big-data.de/authors/ralf-ketter/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/ralf-ketter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rolf Mueller</title>
+      <link>https://biomedical-big-data.de/authors/rolf-mueller/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/rolf-mueller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silje Damkjær Syse</title>
+      <link>https://biomedical-big-data.de/authors/silje-damkj%C3%A6r-syse/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/silje-damkj%C3%A6r-syse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonja Kessler</title>
+      <link>https://biomedical-big-data.de/authors/sonja-kessler/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sonja-kessler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonja M Kesslera</title>
+      <link>https://biomedical-big-data.de/authors/sonja-m-kesslera/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sonja-m-kesslera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steffen Schmidt</title>
+      <link>https://biomedical-big-data.de/authors/steffen-schmidt/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/steffen-schmidt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steffi Urbschat</title>
+      <link>https://biomedical-big-data.de/authors/steffi-urbschat/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/steffi-urbschat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephan Laggaia</title>
+      <link>https://biomedical-big-data.de/authors/stephan-laggaia/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/stephan-laggaia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tarek Kroehler</title>
+      <link>https://biomedical-big-data.de/authors/tarek-kroehler/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/tarek-kroehler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tasiana Aneichyk</title>
+      <link>https://biomedical-big-data.de/authors/tasiana-aneichyk/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/tasiana-aneichyk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usama Khamis Husseinb</title>
+      <link>https://biomedical-big-data.de/authors/usama-khamis-husseinb/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/usama-khamis-husseinb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wolf H Fridman</title>
+      <link>https://biomedical-big-data.de/authors/wolf-h-fridman/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/wolf-h-fridman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoo Jin Kim</title>
+      <link>https://biomedical-big-data.de/authors/yoo-jin-kim/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/yoo-jin-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engin Cukuroglu</title>
+      <link>https://biomedical-big-data.de/authors/engin-cukuroglu/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/engin-cukuroglu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Göke</title>
+      <link>https://biomedical-big-data.de/authors/jonathan-g%C3%B6ke/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jonathan-g%C3%B6ke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Köhler</title>
+      <link>https://biomedical-big-data.de/authors/sebastian-k%C3%B6hler/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sebastian-k%C3%B6hler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrea Hornakova</title>
+      <link>https://biomedical-big-data.de/authors/andrea-hornakova/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/andrea-hornakova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jilles Vreeken</title>
+      <link>https://biomedical-big-data.de/authors/jilles-vreeken/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jilles-vreeken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandra K Kiemer</title>
+      <link>https://biomedical-big-data.de/authors/alexandra-k-kiemer/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/alexandra-k-kiemer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christina S Schultheiss</title>
+      <link>https://biomedical-big-data.de/authors/christina-s-schultheiss/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/christina-s-schultheiss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyoung Min Kim</title>
+      <link>https://biomedical-big-data.de/authors/kyoung-min-kim/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kyoung-min-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyu Yun Jan</title>
+      <link>https://biomedical-big-data.de/authors/kyu-yun-jan/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kyu-yun-jan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonja M Kessler</title>
+      <link>https://biomedical-big-data.de/authors/sonja-m-kessler/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sonja-m-kessler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usama Khamis Hussein</title>
+      <link>https://biomedical-big-data.de/authors/usama-khamis-hussein/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/usama-khamis-hussein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabio Vandin</title>
+      <link>https://biomedical-big-data.de/authors/fabio-vandin/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/fabio-vandin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henrik J Ditzel</title>
+      <link>https://biomedical-big-data.de/authors/henrik-j-ditzel/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/henrik-j-ditzel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aleksandra Jaskot</title>
+      <link>https://biomedical-big-data.de/authors/aleksandra-jaskot/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/aleksandra-jaskot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dirk Schadendorf</title>
+      <link>https://biomedical-big-data.de/authors/dirk-schadendorf/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/dirk-schadendorf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan Mollenhauer</title>
+      <link>https://biomedical-big-data.de/authors/jan-mollenhauer/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jan-mollenhauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathias Hafner</title>
+      <link>https://biomedical-big-data.de/authors/mathias-hafner/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/mathias-hafner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melanie Bewerunge-Hudler</title>
+      <link>https://biomedical-big-data.de/authors/melanie-bewerunge-hudler/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/melanie-bewerunge-hudler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olga Strobel-Freidekind</title>
+      <link>https://biomedical-big-data.de/authors/olga-strobel-freidekind/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/olga-strobel-freidekind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rainer Wittig</title>
+      <link>https://biomedical-big-data.de/authors/rainer-wittig/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/rainer-wittig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sabine Gronert-Sum</title>
+      <link>https://biomedical-big-data.de/authors/sabine-gronert-sum/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sabine-gronert-sum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Lyer</title>
+      <link>https://biomedical-big-data.de/authors/stefan-lyer/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/stefan-lyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephanie Wittig-Blaich</title>
+      <link>https://biomedical-big-data.de/authors/stephanie-wittig-blaich/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/stephanie-wittig-blaich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beate Czepukojc</title>
+      <link>https://biomedical-big-data.de/authors/beate-czepukojc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/beate-czepukojc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felipe Albrecht</title>
+      <link>https://biomedical-big-data.de/authors/felipe-albrecht/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/felipe-albrecht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josch Pauling</title>
+      <link>https://biomedical-big-data.de/authors/josch-pauling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/josch-pauling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juliane Pokorny</title>
+      <link>https://biomedical-big-data.de/authors/juliane-pokorny/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/juliane-pokorny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Gitzhofer</title>
+      <link>https://biomedical-big-data.de/authors/kevin-gitzhofer/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kevin-gitzhofer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Hellmuth</title>
+      <link>https://biomedical-big-data.de/authors/marc-hellmuth/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/marc-hellmuth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marlene Pedersen Elnegaard</title>
+      <link>https://biomedical-big-data.de/authors/marlene-pedersen-elnegaard/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/marlene-pedersen-elnegaard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicole Golob-Schwarzl</title>
+      <link>https://biomedical-big-data.de/authors/nicole-golob-schwarzl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/nicole-golob-schwarzl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Ebert</title>
+      <link>https://biomedical-big-data.de/authors/peter-ebert/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/peter-ebert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sascha Tierling</title>
+      <link>https://biomedical-big-data.de/authors/sascha-tierling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sascha-tierling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usama K Hussein</title>
+      <link>https://biomedical-big-data.de/authors/usama-k-hussein/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/usama-k-hussein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Rehmsmeier</title>
+      <link>https://biomedical-big-data.de/authors/marc-rehmsmeier/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/marc-rehmsmeier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Dissing-Hansen</title>
+      <link>https://biomedical-big-data.de/authors/martin-dissing-hansen/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/martin-dissing-hansen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marlene Lemvig Pedersen</title>
+      <link>https://biomedical-big-data.de/authors/marlene-lemvig-pedersen/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/marlene-lemvig-pedersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Franz</title>
+      <link>https://biomedical-big-data.de/authors/michael-franz/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/michael-franz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mads Thomassen</title>
+      <link>https://biomedical-big-data.de/authors/mads-thomassen/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/mads-thomassen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jakub Trojnar</title>
+      <link>https://biomedical-big-data.de/authors/jakub-trojnar/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jakub-trojnar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jochen Thomas</title>
+      <link>https://biomedical-big-data.de/authors/jochen-thomas/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jochen-thomas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torben A Kruse</title>
+      <link>https://biomedical-big-data.de/authors/torben-a-kruse/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/torben-a-kruse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anne-Christin Hauschild</title>
+      <link>https://biomedical-big-data.de/authors/anne-christin-hauschild/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/anne-christin-hauschild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leena Karimi</title>
+      <link>https://biomedical-big-data.de/authors/leena-karimi/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/leena-karimi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>akshit_achara</title>
+      <link>https://biomedical-big-data.de/authors/akshit_achara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/akshit_achara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alexander_dietrich</title>
+      <link>https://biomedical-big-data.de/authors/alexander_dietrich/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/alexander_dietrich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amit_fenn</title>
+      <link>https://biomedical-big-data.de/authors/amit_fenn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/amit_fenn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anne_hartebrodt</title>
+      <link>https://biomedical-big-data.de/authors/anne_hartebrodt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/anne_hartebrodt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chit_lio</title>
+      <link>https://biomedical-big-data.de/authors/chit_lio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/chit_lio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>christopher_riess</title>
+      <link>https://biomedical-big-data.de/authors/christopher_riess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/christopher_riess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>david_blumenthal</title>
+      <link>https://biomedical-big-data.de/authors/david_blumenthal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/david_blumenthal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evelyn_scheibling</title>
+      <link>https://biomedical-big-data.de/authors/evelyn_scheibling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/evelyn_scheibling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fabio_boniolo</title>
+      <link>https://biomedical-big-data.de/authors/fabio_boniolo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/fabio_boniolo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fanny_roessler</title>
+      <link>https://biomedical-big-data.de/authors/fanny_roessler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/fanny_roessler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gregor_sturm</title>
+      <link>https://biomedical-big-data.de/authors/gregor_sturm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/gregor_sturm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>judith_bernett</title>
+      <link>https://biomedical-big-data.de/authors/judith_bernett/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/judith_bernett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>klaudia_adamowicz</title>
+      <link>https://biomedical-big-data.de/authors/klaudia_adamowicz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/klaudia_adamowicz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>konstantinos_mechteridis</title>
+      <link>https://biomedical-big-data.de/authors/konstantinos_mechteridis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/konstantinos_mechteridis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laura_marsoner</title>
+      <link>https://biomedical-big-data.de/authors/laura_marsoner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/laura_marsoner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lena_hackl</title>
+      <link>https://biomedical-big-data.de/authors/lena_hackl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/lena_hackl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leonora_raka</title>
+      <link>https://biomedical-big-data.de/authors/leonora_raka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/leonora_raka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manuela_lautizi</title>
+      <link>https://biomedical-big-data.de/authors/manuela_lautizi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/manuela_lautizi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markus_hoffmann</title>
+      <link>https://biomedical-big-data.de/authors/markus_hoffmann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/markus_hoffmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markus_list</title>
+      <link>https://biomedical-big-data.de/authors/markus_list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/markus_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>melissa_klug</title>
+      <link>https://biomedical-big-data.de/authors/melissa_klug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/melissa_klug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>michael_hartung</title>
+      <link>https://biomedical-big-data.de/authors/michael_hartung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/michael_hartung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>michael_lauber</title>
+      <link>https://biomedical-big-data.de/authors/michael_lauber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/michael_lauber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>michaela_mueller</title>
+      <link>https://biomedical-big-data.de/authors/michaela_mueller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/michaela_mueller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miriam_hilger</title>
+      <link>https://biomedical-big-data.de/authors/miriam_hilger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/miriam_hilger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monica_matchado</title>
+      <link>https://biomedical-big-data.de/authors/monica_matchado/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/monica_matchado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>octavia_ciora</title>
+      <link>https://biomedical-big-data.de/authors/octavia_ciora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/octavia_ciora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>olga_lazareva</title>
+      <link>https://biomedical-big-data.de/authors/olga_lazareva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/olga_lazareva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>olga_tsoy</title>
+      <link>https://biomedical-big-data.de/authors/olga_tsoy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/olga_tsoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>patrick_hoffmann</title>
+      <link>https://biomedical-big-data.de/authors/patrick_hoffmann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/patrick_hoffmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quirin_heiss</title>
+      <link>https://biomedical-big-data.de/authors/quirin_heiss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/quirin_heiss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quirin_manz</title>
+      <link>https://biomedical-big-data.de/authors/quirin_manz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/quirin_manz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rafaela_relota</title>
+      <link>https://biomedical-big-data.de/authors/rafaela_relota/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/rafaela_relota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rahel_caspar</title>
+      <link>https://biomedical-big-data.de/authors/rahel_caspar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/rahel_caspar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thibault_bechtler</title>
+      <link>https://biomedical-big-data.de/authors/thibault_bechtler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/thibault_bechtler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thomas_mauermeier</title>
+      <link>https://biomedical-big-data.de/authors/thomas_mauermeier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/thomas_mauermeier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tim_faro</title>
+      <link>https://biomedical-big-data.de/authors/tim_faro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/tim_faro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>valentin_hildemann</title>
+      <link>https://biomedical-big-data.de/authors/valentin_hildemann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/valentin_hildemann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zakaria_louadi</title>
+      <link>https://biomedical-big-data.de/authors/zakaria_louadi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/zakaria_louadi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

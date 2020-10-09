@@ -6,7 +6,7 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2020</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/talk/index.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +18,15 @@
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/talk/embl_life_science_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetBioMed 2020</title>
+      <link>https://biomedical-big-data.de/talk/netsci/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/netsci/</guid>
       <description></description>
     </item>
     

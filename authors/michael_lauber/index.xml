@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>michael_lauber on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/michael_lauber/</link>
+    <description>Recent content in michael_lauber on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/michael_lauber/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/author/michael_lauber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/author/michael_lauber/</guid>
+      <description>In June 2019 I started my PhD at the Chair of Experimental Bioinformatics. I have received a bachelor&amp;rsquo;s and master&amp;rsquo;s degree in Biochemistry from TUM. During my masters, I also started to study computer science at LMU. For my master thesis, I joined the lab of Alex Marson at UC San Francisco and established a CRISPR screen to study transcriptional regulation in human regulatory T cells. After finishing my studies I continued to apply CRISPR in T cells at TUM for another year.</description>
+    </item>
+    
+  </channel>
+</rss>

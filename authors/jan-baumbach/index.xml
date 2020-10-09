@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan Baumbach on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/jan-baumbach/</link>
+    <description>Recent content in Jan Baumbach on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/jan-baumbach/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BALSAM—An Interactive Online Platform for Breath Analysis, Visualization and Classification</title>
+      <link>https://biomedical-big-data.de/publication/weber-2020-balsam/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/weber-2020-balsam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PTPN2 Deficiency Enhances Programmed T Cell Expansion and Survival Capacity of Activated T Cells</title>
+      <link>https://biomedical-big-data.de/publication/flosbach-2020-tcell/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/flosbach-2020-tcell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Strategies to Combat COVID-19: Useful Tools to Accelerate SARS-CoV-2 and Coronavirus Research</title>
+      <link>https://biomedical-big-data.de/publication/hufsky-2020-computational/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hufsky-2020-computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanistic Modeling and Multiscale Applications for Precision Medicine: Theory and Practice</title>
+      <link>https://biomedical-big-data.de/publication/stalidzans-2020-mechanistic/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/stalidzans-2020-mechanistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiCoN: Network-constrained biclustering of patients and omics data</title>
+      <link>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EpiGEN: an epistasis simulation pipeline</title>
+      <link>https://biomedical-big-data.de/publication/blumenthal-2020-epigen/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/blumenthal-2020-epigen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BioAtlas verbindet Mikrobiomsequenzdaten und GEO-Informationen</title>
+      <link>https://biomedical-big-data.de/publication/lund-2019-bioatlas/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lund-2019-bioatlas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive evaluation of transcriptome-based cell-type quantification methods for immuno-oncology</title>
+      <link>https://biomedical-big-data.de/publication/sturm-2019-celltypequant/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sturm-2019-celltypequant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De novo pathway-based biomarker identification</title>
+      <link>https://biomedical-big-data.de/publication/alcaraz-2017-novo/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/alcaraz-2017-novo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the performance of de novo pathway enrichment</title>
+      <link>https://biomedical-big-data.de/publication/batra-2017-performance/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/batra-2017-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Management of High-Throughput Screening Libraries with SAVANAH</title>
+      <link>https://biomedical-big-data.de/publication/list-2016-efficient/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2016-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive analysis of high-throughput screens with HiTSeekR</title>
+      <link>https://biomedical-big-data.de/publication/list-2016-comprehensive/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2016-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KeyPathwayMinerWeb: online multi-omics network enrichment</title>
+      <link>https://biomedical-big-data.de/publication/list-2016-keypathwayminerweb/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2016-keypathwayminerweb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust de novo pathway enrichment with KeyPathwayMiner 5</title>
+      <link>https://biomedical-big-data.de/publication/alcaraz-2016-robust/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/alcaraz-2016-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenLabNotes - An Electronic Laboratory Notebook Extension for OpenLabFramework</title>
+      <link>https://biomedical-big-data.de/publication/list-2015-openlabnotes/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2015-openlabnotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microarray R-based analysis of complex lysate experiments with MIRACLE</title>
+      <link>https://biomedical-big-data.de/publication/list-2014-microarray/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2014-microarray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Sample Tracking With OpenLabFramework</title>
+      <link>https://biomedical-big-data.de/publication/list-2014-efficient/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2014-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of Breast Cancer Subtypes by combining GeneExpression and DNA Methylation Data</title>
+      <link>https://biomedical-big-data.de/publication/list-2014-classification/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2014-classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

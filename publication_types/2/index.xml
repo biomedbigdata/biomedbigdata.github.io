@@ -6,11 +6,65 @@
     <description>Recent content in 2 on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0200</lastBuildDate>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BALSAM—An Interactive Online Platform for Breath Analysis, Visualization and Classification</title>
+      <link>https://biomedical-big-data.de/publication/weber-2020-balsam/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/weber-2020-balsam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIGGER: exploring the functional role of alternative splicing in protein interactions</title>
+      <link>https://biomedical-big-data.de/publication/louadi-2020-digger/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/louadi-2020-digger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individualized predictions of changes in knee pain, quality of life and walking speed following patient education and exercise therapy in patients with knee osteoarthritis – a prognostic model study</title>
+      <link>https://biomedical-big-data.de/publication/baumbach-2020-osteoarthritis/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/baumbach-2020-osteoarthritis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arrhythmic Gut Microbiome Signatures Predict Risk of Type 2 Diabetes</title>
+      <link>https://biomedical-big-data.de/publication/reitmeier-2019-arrhythmic/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/reitmeier-2019-arrhythmic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PTPN2 Deficiency Enhances Programmed T Cell Expansion and Survival Capacity of Activated T Cells</title>
+      <link>https://biomedical-big-data.de/publication/flosbach-2020-tcell/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/flosbach-2020-tcell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing</title>
+      <link>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EpiRegio: analysis and retrieval of regulatory elements linked to genes</title>

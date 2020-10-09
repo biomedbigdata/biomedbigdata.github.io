@@ -5,11 +5,24 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 3.1.1">
-  <meta name="generator" content="Hugo 0.51" />
-  <meta name="author" content="Markus List">
+  <meta name="generator" content="Source Themes Academic 4.0.0">
+  <meta name="generator" content="Hugo 0.56.3" />
 
   
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Markus List">
+
   
   
   
@@ -30,9 +43,15 @@
   
 
   
+
+  
+
+  
+
   
   
-  <meta name="theme-color" content="hsl(36, 90%, 58%)">
+  
+  <meta name="theme-color" content="hsl(25, 90%, 68%)">
   
 
   
@@ -42,7 +61,7 @@
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
 
     
@@ -54,7 +73,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark">
         
       
     
@@ -90,16 +110,21 @@
 
   <link rel="canonical" href="https://biomedical-big-data.de/tool/sponge/">
 
+  
+  
+  
+  
+    
+  
   <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@itisalist">
+  <meta property="twitter:creator" content="@itisalist">
   
   <meta property="og:site_name" content="Big Data in Biomedicine">
   <meta property="og:url" content="https://biomedical-big-data.de/tool/sponge/">
   <meta property="og:title" content="SPONGE | Big Data in Biomedicine">
-  <meta property="og:description" content="A bioconductor package for inferring genome-wide networks of competing endogenous RNAs.">
-  
-  
-    
-  <meta property="og:image" content="https://biomedical-big-data.de/img/biomedbigdata_logo_square.png">
+  <meta property="og:description" content="A bioconductor package for inferring genome-wide networks of competing endogenous RNAs."><meta property="og:image" content="https://biomedical-big-data.de/tool/sponge/featured.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2019-01-28T19:39:58&#43;02:00">
@@ -117,7 +142,7 @@
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="dark">
   <aside class="search-results" id="search">
   <div class="container">
-    <section class="search-header fixed-top">
+    <section class="search-header">
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
@@ -130,7 +155,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
         
       </div>
 
@@ -163,7 +189,7 @@
 
       
       
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav mr-auto">
         
 
         
@@ -232,7 +258,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#publications_selected">
+          <a class="nav-link" href="/#publications">
             
             <span>Publications</span>
             
@@ -248,12 +274,10 @@
         
         
           
-            
-          
         
 
         <li class="nav-item">
-          <a class="nav-link" href="https://exbio.de/list-lab/" target="_blank" rel="noopener">
+          <a class="nav-link" href="/#people">
             
             <span>Group</span>
             
@@ -340,12 +364,26 @@
         
 
       
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
 
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
         
 
         
 
         
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
       </ul>
 
     </div>
@@ -370,7 +408,7 @@
 
 
 <div class="article-header d-xl-none">
-  <img src="/tool/sponge/featured_hu2176d6fdda0d59d8fa918b245261be1e_264441_1600x400_fill_q90_box_smart1_2.png" class="article-banner" itemprop="image" alt="">
+  <div class="featured-image" style="background-image: url('/tool/sponge/featured_hu2176d6fdda0d59d8fa918b245261be1e_264441_800x0_resize_box_2.png');"></div>
   
 </div>
 
@@ -385,25 +423,27 @@
 
         
 
+
+
+<meta content="2019-01-28 19:39:58 &#43;0200 &#43;0200" itemprop="datePublished">
+<meta content="2019-01-28 19:39:58 &#43;0200 &#43;0200" itemprop="dateModified">
+
 <div class="article-metadata">
 
   
   
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Markus List">
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Jan 28, 2019</time>
   </span>
   
 
-  <span class="article-date">
-    
-    <meta content="2019-01-28 19:39:58 &#43;0200 &#43;0200" itemprop="datePublished">
-    <time datetime="2019-01-28 19:39:58 &#43;0200 &#43;0200" itemprop="dateModified">
-      28. Jan 2019
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Markus List">
-  </span>
+  
 
   
 
@@ -443,9 +483,6 @@
 
 
 
-
-
-  
 
 
 
@@ -531,35 +568,37 @@
 
   
 
+
+
+<meta content="2019-01-28 19:39:58 &#43;0200 &#43;0200" itemprop="datePublished">
+<meta content="2019-01-28 19:39:58 &#43;0200 &#43;0200" itemprop="dateModified">
+
 <div class="article-metadata">
 
   
   
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Markus List">
-  </span>
-  
 
+  
   <span class="article-date">
     
-    <meta content="2019-01-28 19:39:58 &#43;0200 &#43;0200" itemprop="datePublished">
-    <time datetime="2019-01-28 19:39:58 &#43;0200 &#43;0200" itemprop="dateModified">
-      28. Jan 2019
-    </time>
+    
+      
+    
+    <time>Jan 28, 2019</time>
   </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Markus List">
-  </span>
-
   
 
-  
   
 
   
 
   
   
+
+  
+
+  
+    
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
@@ -604,7 +643,6 @@
 
 </div>
 
-
   
 
 
@@ -631,9 +669,6 @@
 
 
 
-
-
-  
 
 
 
@@ -678,15 +713,25 @@
   
   <a class="badge badge-light" href="/tags/mirna/">miRNA</a>
   
-  <a class="badge badge-light" href="/tags/network-analysis/">network analysis</a>
+  <a class="badge badge-light" href="">network analysis</a>
   
-  <a class="badge badge-light" href="/tags/mirna-regulation/">miRNA regulation</a>
+  <a class="badge badge-light" href="">miRNA regulation</a>
   
 </div>
 
 
 
+
     
+      
+
+
+
+
+
+
+  
+
 
 
 
@@ -695,10 +740,12 @@
 
 <div class="media author-card" itemscope itemtype="http://schema.org/Person">
   
-  <img class="portrait mr-3" src="/img/markus.JPG" itemprop="image" alt="Avatar">
   
+  <img class="portrait mr-3" src="/author/markus_list/avatar_hu5bbf72b21210ad6731a8836fbfc2b0d3_63413_250x250_fill_q75_box_center.jpg" itemprop="image" alt="Avatar">
+  
+
   <div class="media-body">
-    <h5 class="card-title" itemprop="name"><a href="/">Markus List</a></h5>
+    <h5 class="card-title" itemprop="name"><a href="/authors/markus_list">Markus List</a></h5>
     <h6 class="card-subtitle">Head of the Research Group Big Data in Biomedicine</h6>
     
     <ul class="network-icon" aria-hidden="true">
@@ -762,7 +809,7 @@
         
       
       <li>
-        <a itemprop="sameAs" href="//github.com/biomedicalbigdata" >
+        <a itemprop="sameAs" href="https://github.com/biomedicalbigdata" target="_blank" rel="noopener">
           <i class="fab fa-github"></i>
         </a>
       </li>
@@ -803,24 +850,24 @@
 
 
 
-
-    
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Related</h3>
-      <ul>
-        
-        <li><a href="/tool/jami/">JAMI</a></li>
-        
-        <li><a href="/tool/hitseekr/">HiTSeekR</a></li>
-        
-        <li><a href="/tool/keypathwayminer/">KPM</a></li>
-        
-        <li><a href="/tool/athena/">Athena</a></li>
-        
-      </ul>
-    </div>
+      
+      
+      <div class="article-widget">
+        <div class="hr-light"></div>
+        <h3>Related</h3>
+        <ul>
+          
+          <li><a href="/tool/jami/">JAMI</a></li>
+          
+          <li><a href="/tool/hitseekr/">HiTSeekR</a></li>
+          
+          <li><a href="/tool/keypathwayminer/">KPM</a></li>
+          
+          <li><a href="/tool/athena/">Athena</a></li>
+          
+        </ul>
+      </div>
+      
     
 
     
@@ -836,7 +883,7 @@
   
 
   <p class="powered-by">
-    &copy; 2018 &middot; 
+    &copy; 2020 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -942,24 +989,42 @@
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
 
     
     
-
     
     
     
     
     
+      
     
     
     
-    <script src="/js/academic.min.74b0d3361475b08c40cf31120e82937b.js"></script>
-
     
+    <script src="/js/academic.min.802925a149e664aae17650495910b191.js"></script>
 
   </body>
 </html>

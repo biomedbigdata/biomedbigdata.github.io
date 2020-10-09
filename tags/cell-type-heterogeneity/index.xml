@@ -6,11 +6,20 @@
     <description>Recent content in cell-type heterogeneity on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/cell-type-heterogeneity/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mass-spectrometry-based draft of the Arabidopsis proteome</title>
+      <link>https://biomedical-big-data.de/publication/mergner-2020-mass/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/mergner-2020-mass/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BiCoN: Network-constrained biclustering of patients and omics data</title>
@@ -19,6 +28,60 @@
       
       <guid>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative comparison of within-sample heterogeneity scores for DNA methylation data</title>
+      <link>https://biomedical-big-data.de/publication/scherer-2020-quantitative/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/scherer-2020-quantitative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSH</title>
+      <link>https://biomedical-big-data.de/tool/wsh/</link>
+      <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/wsh/</guid>
+      <description>An R package for computing within-sample heterogeneity scores from bisulfte sequencing data.</description>
+    </item>
+    
+    <item>
+      <title>immunedeconv</title>
+      <link>https://biomedical-big-data.de/tool/immunedeconv/</link>
+      <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/immunedeconv/</guid>
+      <description>An R package for running several tools for in silico cell type deconvolution for immuno-oncology.</description>
+    </item>
+    
+    <item>
+      <title>HouseKeepR</title>
+      <link>https://biomedical-big-data.de/tool/housekeepr/</link>
+      <pubDate>Mon, 28 Oct 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/housekeepr/</guid>
+      <description>An R shiny app to mine GEO datasets for tissue- and condition-specific housekeeping genes.</description>
+    </item>
+    
+    <item>
+      <title>Athena</title>
+      <link>https://biomedical-big-data.de/tool/athena/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/athena/</guid>
+      <description>An R shiny app to mine the Arabidopsis THaliana ExpressioN Atlas across plant tissues.</description>
+    </item>
+    
+    <item>
+      <title>DeepBlueR</title>
+      <link>https://biomedical-big-data.de/tool/deepbluer/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/deepbluer/</guid>
+      <description>A bioconductor package for accessing the DeepBlue epigenome analysis web server.</description>
     </item>
     
   </channel>

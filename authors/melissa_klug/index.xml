@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>melissa_klug on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/melissa_klug/</link>
+    <description>Recent content in melissa_klug on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/melissa_klug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/author/melissa_klug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/author/melissa_klug/</guid>
+      <description>My PhD project is a connection between the Molecular Cardiology lab at the Klinikum rechts der Isar Munich and the Chair of Experimental Bioinformatics. I received my B.Sc. of Biology from the University of Hohenheim, Stuttgart, in 2015 and my M.Sc. of Biology from the LMU Munich in 2019. The results of my Master thesis at the Molecular Cardiology lab laid the foundation of this joined project. I am aiming to deeply characterize the proteome and transcriptome of human blood platelets using (sc)RNA-sequencing, mass spectrometry and single-cell mass cytometry.</description>
+    </item>
+    
+  </channel>
+</rss>

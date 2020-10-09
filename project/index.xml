@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2020</copyright>
     <lastBuildDate>Fri, 28 Sep 2018 19:39:58 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/project/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/project/sfb1371/</guid>
-      <description></description>
+      <description>The DFG-funded Collaborative Research Center 1371 for Microbiome Signatures investigates the functional relevance of the microbiome in the digestive tract.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/project/featurecloud/</guid>
-      <description></description>
+      <description>The EU H2020 project FeatureCloud aims at developing methods for privacy-preserving, federated machine learning.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/project/repo-trial/</guid>
-      <description></description>
+      <description>The EU H2020 project REPO-TRIAL aims at developing an &lt;strong&gt;in silico&lt;/strong&gt; approach to optimise the efficacy and precision of drug repurposing trials. To this end we integrated heterogeneous data into a comprehensive interactome of disease-drug-gene interactions (a new diseasome).</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/project/sys_care/</guid>
-      <description></description>
+      <description>Sys_CARE is a BMBF-funded collaborative research project to elucidate the role of alternative splicing in cardiac and renal diseases using systems medicine approaches and molecular big data.</description>
     </item>
     
   </channel>

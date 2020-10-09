@@ -5,11 +5,24 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 3.1.1">
-  <meta name="generator" content="Hugo 0.51" />
-  <meta name="author" content="Markus List">
+  <meta name="generator" content="Source Themes Academic 4.0.0">
+  <meta name="generator" content="Hugo 0.56.3" />
 
   
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Markus List">
+
   
   
   
@@ -30,9 +43,15 @@
   
 
   
+
+  
+
+  
+
   
   
-  <meta name="theme-color" content="hsl(36, 90%, 58%)">
+  
+  <meta name="theme-color" content="hsl(25, 90%, 68%)">
   
 
   
@@ -42,7 +61,7 @@
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
 
     
@@ -54,7 +73,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark">
         
       
     
@@ -90,16 +110,21 @@
 
   <link rel="canonical" href="https://biomedical-big-data.de/publication/sturm-2019-celltypequant/">
 
+  
+  
+  
+  
+    
+  
   <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@itisalist">
+  <meta property="twitter:creator" content="@itisalist">
   
   <meta property="og:site_name" content="Big Data in Biomedicine">
   <meta property="og:url" content="https://biomedical-big-data.de/publication/sturm-2019-celltypequant/">
   <meta property="og:title" content="Comprehensive evaluation of transcriptome-based cell-type quantification methods for immuno-oncology | Big Data in Biomedicine">
-  <meta property="og:description" content="*Motivation*&lt;br/&gt;The composition and density of immune cells in the tumor microenvironment (TME) profoundly influence tumor progression and success of anti-cancer therapies. Flow cytometry, immunohistochemistry staining or single-cell sequencing are often unavailable such that we rely on computational methods to estimate the immune-cell composition from bulk RNA-sequencing (RNA-seq) data. Various methods have been proposed recently, yet their capabilities and limitations have not been evaluated systematically. A general guideline leading the research community through cell type deconvolution is missing.&lt;br/&gt;&lt;br/&gt;*Results*&lt;/br&gt;We developed a systematic approach for benchmarking such computational methods and assessed the accuracy of tools at estimating nine different immune- and stromal cells from bulk RNA-seq samples. We used a single-cell RNA-seq dataset of ∼11 000 cells from the TME to simulate bulk samples of known cell type proportions, and validated the results using independent, publicly available gold-standard estimates. This allowed us to analyze and condense the results of more than a hundred thousand predictions to provide an exhaustive evaluation across seven computational methods over nine cell types and ∼1800 samples from five simulated and real-world datasets. We demonstrate that computational deconvolution performs at high accuracy for well-defined cell-type signatures and propose how fuzzy cell-type signatures can be improved. We suggest that future efforts should be dedicated to refining cell population definitions and finding reliable signatures.&lt;br/&gt;&lt;br/&gt;*Availability and implementation*&lt;br/&gt;A snakemake pipeline to reproduce the benchmark is available at https://github.com/grst/immune_deconvolution_benchmark. An R package allows the community to perform integrated deconvolution using different methods (https://grst.github.io/immunedeconv).">
-  
-  
-    
-  <meta property="og:image" content="https://biomedical-big-data.de/img/immunedeconv.png">
+  <meta property="og:description" content="*Motivation*&lt;br/&gt;The composition and density of immune cells in the tumor microenvironment (TME) profoundly influence tumor progression and success of anti-cancer therapies. Flow cytometry, immunohistochemistry staining or single-cell sequencing are often unavailable such that we rely on computational methods to estimate the immune-cell composition from bulk RNA-sequencing (RNA-seq) data. Various methods have been proposed recently, yet their capabilities and limitations have not been evaluated systematically. A general guideline leading the research community through cell type deconvolution is missing.&lt;br/&gt;&lt;br/&gt;*Results*&lt;/br&gt;We developed a systematic approach for benchmarking such computational methods and assessed the accuracy of tools at estimating nine different immune- and stromal cells from bulk RNA-seq samples. We used a single-cell RNA-seq dataset of ∼11 000 cells from the TME to simulate bulk samples of known cell type proportions, and validated the results using independent, publicly available gold-standard estimates. This allowed us to analyze and condense the results of more than a hundred thousand predictions to provide an exhaustive evaluation across seven computational methods over nine cell types and ∼1800 samples from five simulated and real-world datasets. We demonstrate that computational deconvolution performs at high accuracy for well-defined cell-type signatures and propose how fuzzy cell-type signatures can be improved. We suggest that future efforts should be dedicated to refining cell population definitions and finding reliable signatures.&lt;br/&gt;&lt;br/&gt;*Availability and implementation*&lt;br/&gt;A snakemake pipeline to reproduce the benchmark is available at https://github.com/grst/immune_deconvolution_benchmark. An R package allows the community to perform integrated deconvolution using different methods (https://grst.github.io/immunedeconv)."><meta property="og:image" content="https://biomedical-big-data.de/publication/sturm-2019-celltypequant/featured.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2019-01-01T00:00:00&#43;01:00">
@@ -117,7 +142,7 @@
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="dark">
   <aside class="search-results" id="search">
   <div class="container">
-    <section class="search-header fixed-top">
+    <section class="search-header">
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
@@ -130,7 +155,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
         
       </div>
 
@@ -163,7 +189,7 @@
 
       
       
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav mr-auto">
         
 
         
@@ -232,7 +258,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#publications_selected">
+          <a class="nav-link" href="/#publications">
             
             <span>Publications</span>
             
@@ -248,12 +274,10 @@
         
         
           
-            
-          
         
 
         <li class="nav-item">
-          <a class="nav-link" href="https://exbio.de/list-lab/" target="_blank" rel="noopener">
+          <a class="nav-link" href="/#people">
             
             <span>Group</span>
             
@@ -340,12 +364,26 @@
         
 
       
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
 
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
         
 
         
 
         
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
       </ul>
 
     </div>
@@ -369,7 +407,7 @@
 
 
 <div class="article-header d-xl-none">
-  <img src="/publication/sturm-2019-celltypequant/featured_hu2a365777faef600b916faadb2b0700f5_675015_1600x400_fill_q90_box_smart1_2.png" class="article-banner" itemprop="image" alt="">
+  <div class="featured-image" style="background-image: url('/publication/sturm-2019-celltypequant/featured_hu2a365777faef600b916faadb2b0700f5_675015_800x0_resize_box_2.png');"></div>
   
 </div>
 
@@ -384,50 +422,97 @@
 
         
 
+
+
+<meta content="2019-01-01 00:00:00 &#43;0100 CET" itemprop="datePublished">
+<meta content="2019-01-01 00:00:00 &#43;0100 CET" itemprop="dateModified">
+
 <div class="article-metadata">
 
   
   
   
+  
   <div>
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Gregor Sturm</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Francesca Finotello</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Florent Petitprez</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Jitao David Zheng</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Jan Baumbach</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Wolf H Fridman</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Markus List</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Tasiana Aneichyk</span>
-    </span>
     
-  </div>
+
+
+
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Gregor Sturm</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Francesca Finotello</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Florent Petitprez</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Jitao David Zheng</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Jan Baumbach</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Wolf H Fridman</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Markus List</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Tasiana Aneichyk</a></span></span>
   
 
+
+
+  </div>
+  
+  
+
+  
   <span class="article-date">
     
-    <meta content="2019-01-01 00:00:00 &#43;0100 CET" itemprop="datePublished">
-    <time datetime="2019-01-01 00:00:00 &#43;0100 CET" itemprop="dateModified">
-      01. Jan 2019
-    </time>
+    
+      
+    
+    <time>January 2019</time>
   </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Markus List">
-  </span>
+  
+
+  
 
   
 
@@ -467,15 +552,14 @@
 
 
 
-
+  
+  
+    
+  
 <a class="btn btn-outline-primary my-1 mr-1" href="https://www.biorxiv.org/content/10.1101/463828v3" target="_blank" rel="noopener">
   Preprint
 </a>
 
-
-
-
-  
 
 
 
@@ -496,15 +580,19 @@
 </button>
 
 
-
-
+  
+  
+    
+  
 <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/grst/immunedeconv" target="_blank" rel="noopener">
   Code
 </a>
 
 
-
-
+  
+  
+    
+  
 <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/grst/immune_deconvolution_benchmark" target="_blank" rel="noopener">
   Dataset
 </a>
@@ -588,60 +676,107 @@
 
   
 
+
+
+<meta content="2019-01-01 00:00:00 &#43;0100 CET" itemprop="datePublished">
+<meta content="2019-01-01 00:00:00 &#43;0100 CET" itemprop="dateModified">
+
 <div class="article-metadata">
 
   
   
   
+  
   <div>
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Gregor Sturm</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Francesca Finotello</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Florent Petitprez</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Jitao David Zheng</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Jan Baumbach</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Wolf H Fridman</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Markus List</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Tasiana Aneichyk</span>
-    </span>
     
+
+
+
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Gregor Sturm</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Francesca Finotello</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Florent Petitprez</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Jitao David Zheng</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Jan Baumbach</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Wolf H Fridman</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Markus List</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Tasiana Aneichyk</a></span></span>
+  
+
+
+
   </div>
   
+  
 
+  
   <span class="article-date">
     
-    <meta content="2019-01-01 00:00:00 &#43;0100 CET" itemprop="datePublished">
-    <time datetime="2019-01-01 00:00:00 &#43;0100 CET" itemprop="dateModified">
-      01. Jan 2019
-    </time>
+    
+      
+    
+    <time>January 2019</time>
   </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Markus List">
-  </span>
-
   
 
-  
   
 
   
 
   
   
+
+  
+
+  
+    
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
@@ -686,7 +821,6 @@
 
 </div>
 
-
   
 
 
@@ -713,15 +847,14 @@
 
 
 
-
+  
+  
+    
+  
 <a class="btn btn-outline-primary my-1 mr-1" href="https://www.biorxiv.org/content/10.1101/463828v3" target="_blank" rel="noopener">
   Preprint
 </a>
 
-
-
-
-  
 
 
 
@@ -742,15 +875,19 @@
 </button>
 
 
-
-
+  
+  
+    
+  
 <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/grst/immunedeconv" target="_blank" rel="noopener">
   Code
 </a>
 
 
-
-
+  
+  
+    
+  
 <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/grst/immune_deconvolution_benchmark" target="_blank" rel="noopener">
   Dataset
 </a>
@@ -793,6 +930,9 @@
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
             
+
+            
+            
             <a href="/publication/#1">
               Conference paper
             </a>
@@ -807,20 +947,6 @@
 
     
 
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Date</div>
-          <div class="col-12 col-md-9" itemprop="datePublished">
-            January, 2019
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-sm-none space-below"></div>
-
     <div class="space-below"></div>
 
     <div class="article-style"></div>
@@ -832,11 +958,11 @@
   
   <a class="badge badge-light" href="/tags/single-cell/">single-cell</a>
   
-  <a class="badge badge-light" href="/tags/cell-type-deconvolution/">cell-type deconvolution</a>
+  <a class="badge badge-light" href="">cell-type deconvolution</a>
   
-  <a class="badge badge-light" href="/tags/tumor-microenvironment/">tumor microenvironment</a>
+  <a class="badge badge-light" href="">tumor microenvironment</a>
   
-  <a class="badge badge-light" href="/tags/cancer-immunology/">cancer immunology</a>
+  <a class="badge badge-light" href="">cancer immunology</a>
   
 </div>
 
@@ -846,7 +972,15 @@
 
 
 
+
+
+
   
+  
+    
+  
+  
+
 
 
 
@@ -864,7 +998,7 @@
   
 
   <p class="powered-by">
-    &copy; 2018 &middot; 
+    &copy; 2020 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -970,24 +1104,42 @@
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
 
     
     
-
     
     
     
     
     
+      
     
     
     
-    <script src="/js/academic.min.74b0d3361475b08c40cf31120e82937b.js"></script>
-
     
+    <script src="/js/academic.min.802925a149e664aae17650495910b191.js"></script>
 
   </body>
 </html>

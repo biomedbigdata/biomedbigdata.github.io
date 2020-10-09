@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markus_hoffmann on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/markus_hoffmann/</link>
+    <description>Recent content in markus_hoffmann on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/markus_hoffmann/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/author/markus_hoffmann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/author/markus_hoffmann/</guid>
+      <description>I study Bioinformatics at Technical University Munich an Ludwig-Maximilians University in my Masters. I came to the ListLab as part of my master pratical course where I contributed to implementing a web application and API for SPONGE. Further, I am now working as a student programmer with Dr. Blumenthal.</description>
+    </item>
+    
+  </channel>
+</rss>

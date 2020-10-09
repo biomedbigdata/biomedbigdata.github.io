@@ -6,7 +6,7 @@
     <description>Recent content in RPPA on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2020</copyright>
     <lastBuildDate>Mon, 28 Sep 2015 19:39:58 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/rppa/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Mon, 28 Sep 2015 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/miracle/</guid>
-      <description></description>
+      <description>A web app for sample logistics and data analysis of reverse-phase protein arrays.</description>
     </item>
     
   </channel>

@@ -6,7 +6,7 @@
     <description>Recent content in epigenomics on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2020</copyright>
     <lastBuildDate>Wed, 27 May 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/epigenomics/index.xml" rel="self" type="application/rss+xml" />
@@ -45,7 +45,7 @@
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/deepbluer/</guid>
-      <description></description>
+      <description>A bioconductor package for accessing the DeepBlue epigenome analysis web server.</description>
     </item>
     
     <item>
