@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>miriam_hilger on Big Data in Biomedicine</title>
+    <title>Big Data in Biomedicine</title>
     <link>https://biomedical-big-data.de/authors/miriam_hilger/</link>
-    <description>Recent content in miriam_hilger on Big Data in Biomedicine</description>
+    <description>Recent content on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
@@ -13,10 +13,10 @@
     
     <item>
       <title></title>
-      <link>https://biomedical-big-data.de/author/miriam_hilger/</link>
+      <link>https://biomedical-big-data.de/authors/miriam_hilger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://biomedical-big-data.de/author/miriam_hilger/</guid>
+      <guid>https://biomedical-big-data.de/authors/miriam_hilger/</guid>
       <description>During her bachelor thesis, Miriam worked on a systematic pancancer analysis for positive microRNA regulation.</description>
     </item>
     

@@ -13,12 +13,39 @@
     
     
     <item>
+      <title>DIGGER</title>
+      <link>https://biomedical-big-data.de/tool/digger/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/digger/</guid>
+      <description>Analyze protein-protein and domain-domain interactions in a joint graph.</description>
+    </item>
+    
+    <item>
       <title>CoVex</title>
       <link>https://biomedical-big-data.de/tool/covex/</link>
       <pubDate>Mon, 20 Apr 2020 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/covex/</guid>
       <description>A web app for mining the Sars-COV-&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; virus-host-drug interactome for drug repurposing candidates.</description>
+    </item>
+    
+    <item>
+      <title>ASimulatoR</title>
+      <link>https://biomedical-big-data.de/tool/asimulator/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/asimulator/</guid>
+      <description>A simulator for RNA-seq data with alternative splicing.</description>
+    </item>
+    
+    <item>
+      <title>EpiGEN</title>
+      <link>https://biomedical-big-data.de/tool/epigen/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/epigen/</guid>
+      <description>An easy-to-use Python pipeline for simulating epistasis data.</description>
     </item>
     
     <item>

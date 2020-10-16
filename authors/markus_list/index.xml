@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>markus_list on Big Data in Biomedicine</title>
+    <title>Big Data in Biomedicine</title>
     <link>https://biomedical-big-data.de/authors/markus_list/</link>
-    <description>Recent content in markus_list on Big Data in Biomedicine</description>
+    <description>Recent content on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
@@ -13,10 +13,10 @@
     
     <item>
       <title></title>
-      <link>https://biomedical-big-data.de/author/markus_list/</link>
+      <link>https://biomedical-big-data.de/authors/markus_list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://biomedical-big-data.de/author/markus_list/</guid>
+      <guid>https://biomedical-big-data.de/authors/markus_list/</guid>
       <description>Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.
 We develop predictive models and software tools that integrate big heterogeneous (OMICS) data on the network level. Our long term vision is that our research finds application in clinical practice. Towards this goal, we also address challenges in data privacy as well as in explainability and continuity in modelling.</description>
     </item>

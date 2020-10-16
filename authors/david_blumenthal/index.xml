@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>david_blumenthal on Big Data in Biomedicine</title>
+    <title>Big Data in Biomedicine</title>
     <link>https://biomedical-big-data.de/authors/david_blumenthal/</link>
-    <description>Recent content in david_blumenthal on Big Data in Biomedicine</description>
+    <description>Recent content on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
@@ -13,10 +13,10 @@
     
     <item>
       <title></title>
-      <link>https://biomedical-big-data.de/author/david_blumenthal/</link>
+      <link>https://biomedical-big-data.de/authors/david_blumenthal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://biomedical-big-data.de/author/david_blumenthal/</guid>
+      <guid>https://biomedical-big-data.de/authors/david_blumenthal/</guid>
       <description>In October 2019, I will join the Chair of Experimental Bioinformatics at TU Munich as a postdoctoral researcher. My main focus will be to apply techniques from combinatorial optimization and graph theory to address problems in network biology and systems medicine. From 2007 to 2015, I studied Mathematics and Philosophy at FU Berlin and TU Berlin and received Master’s degrees in both disciplines. After that, I did a Ph.D. in Computer Science at the Free University of Bozen-Bolzano, Italy.</description>
     </item>
     
