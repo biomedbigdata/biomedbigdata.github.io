@@ -36,7 +36,7 @@
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/asimulator/</guid>
-      <description>A simulator for RNA-seq data with alternative splicing.</description>
+      <description>A simulator for RNA-seq data with alternative splicing events written in R.</description>
     </item>
     
     <item>

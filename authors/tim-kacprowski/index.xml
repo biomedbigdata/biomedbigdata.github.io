@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/tim-kacprowski/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DIGGER: exploring the functional role of alternative splicing in protein interactions</title>
+      <link>https://biomedical-big-data.de/publication/louadi-2020-digger/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/louadi-2020-digger/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing</title>
@@ -18,6 +27,24 @@
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sPLINK: A Federated, Privacy-Preserving Tool as a Robust Alternative to Meta-Analysis in Genome-Wide Association Studies</title>
+      <link>https://biomedical-big-data.de/publication/nasirigerdeh-2020-splink/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/nasirigerdeh-2020-splink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Analysis in a Network Context (in &#34;Reference Module in Biomedical Sciences&#34;)</title>
+      <link>https://biomedical-big-data.de/publication/lazareva-2021-multiomics/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lazareva-2021-multiomics/</guid>
       <description></description>
     </item>
     

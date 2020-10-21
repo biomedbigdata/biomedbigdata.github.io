@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/gregor_sturm/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +15,37 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/gregor_sturm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/gregor_sturm/</guid>
       <description>Gregor did his Master with us in immuno-oncology. In collaboration with Pieris Pharmaceuticals in Freising and Prof. Zlatko Trajanoski&amp;rsquo;s Lab in Innsbruck he aimed to better understand the functional orientation of immune cells in the tumor micro-environment. He continued as a PhD student in the Trajanoski lab in Innsbruck.</description>
+    </item>
+    
+    <item>
+      <title>Immunedeconv: An R Package for Unified Access to Computational Methods for Estimating Immune Cell Fractions from Bulk RNA-Sequencing Data</title>
+      <link>https://biomedical-big-data.de/publication/sturm-2020-immunedeconv/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sturm-2020-immunedeconv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Silico Cell-Type Deconvolution Methods in Cancer Immunotherapy</title>
+      <link>https://biomedical-big-data.de/publication/sturm-2020-silico/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sturm-2020-silico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive evaluation of transcriptome-based cell-type quantification methods for immuno-oncology</title>
+      <link>https://biomedical-big-data.de/publication/sturm-2019-celltypequant/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sturm-2019-celltypequant/</guid>
+      <description></description>
     </item>
     
   </channel>
