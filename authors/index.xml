@@ -180,7 +180,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_hoffmann/</guid>
-      <description>I study Bioinformatics at Technical University Munich an Ludwig-Maximilians University in my Masters. I came to the ListLab as part of my master pratical course where I contributed to implementing a web application and API for SPONGE. Further, I am now working as a student programmer with Dr. Blumenthal.</description>
+      <description>In March 2019, I joined the group, biomedical big data as part of my master’s degree internship. During this time, I contributed to implementing SPONGEdb: A pan-cancer resource for competing endogenous RNA interactions. After my internship, I extended my work at the group as a HIWI working for Dr. David Blumenthal on C++ programming tasks, which helped to implement a framework for modeling epistatic interaction. As the framework results were promising, I chose to intensify my work in this field as part of my Master’s Thesis.</description>
     </item>
     
     <item>
