@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2020 13:15:00 +0100</lastBuildDate>
     
 	    <atom:link href="https://biomedical-big-data.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Big data for Systems Medicine</title>
+      <link>https://biomedical-big-data.de/talk/embl_life_science_2020/</link>
+      <pubDate>Tue, 27 Oct 2020 13:15:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/embl_life_science_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BALSAM—An Interactive Online Platform for Breath Analysis, Visualization and Classification</title>
@@ -27,6 +36,15 @@
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/louadi-2020-digger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetBioMed 2020</title>
+      <link>https://biomedical-big-data.de/talk/netsci/</link>
+      <pubDate>Thu, 17 Sep 2020 15:30:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/netsci/</guid>
       <description></description>
     </item>
     
@@ -117,24 +135,6 @@
       <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/stalidzans-2020-mechanistic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Big data for Systems Medicine</title>
-      <link>https://biomedical-big-data.de/talk/embl_life_science_2020/</link>
-      <pubDate>Sun, 26 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/talk/embl_life_science_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NetBioMed 2020</title>
-      <link>https://biomedical-big-data.de/talk/netsci/</link>
-      <pubDate>Sun, 26 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/talk/netsci/</guid>
       <description></description>
     </item>
     
@@ -282,6 +282,15 @@ Animation video:&lt;/br&gt;&lt;/p&gt;
     </item>
     
     <item>
+      <title>Analysing large-scale epigenomic data</title>
+      <link>https://biomedical-big-data.de/talk/qbic2019/</link>
+      <pubDate>Thu, 12 Dec 2019 16:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/qbic2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The mRNA-binding Protein TTP/ZFP36 in Hepatocarcinogenesis and Hepatocellular Carcinoma</title>
       <link>https://biomedical-big-data.de/publication/krohler-2019-mrna/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
@@ -302,7 +311,7 @@ Animation video:&lt;/br&gt;&lt;/p&gt;
     <item>
       <title>Network biology in the era of big data</title>
       <link>https://biomedical-big-data.de/talk/itarget/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 16 Sep 2019 16:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/talk/itarget/</guid>
       <description></description>
@@ -311,7 +320,7 @@ Animation video:&lt;/br&gt;&lt;/p&gt;
     <item>
       <title>Genome-wide endogenous RNA networks highlight novel biomarkers in cancer</title>
       <link>https://biomedical-big-data.de/talk/mccmb/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 31 Jul 2019 10:10:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/talk/mccmb/</guid>
       <description></description>
@@ -320,7 +329,7 @@ Animation video:&lt;/br&gt;&lt;/p&gt;
     <item>
       <title>Large-scale inference of competing endogeneous RNA networks with sparse partial correlation</title>
       <link>https://biomedical-big-data.de/talk/ismb2019/</link>
-      <pubDate>Tue, 23 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 23 Jul 2019 14:30:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/talk/ismb2019/</guid>
       <description></description>
@@ -345,18 +354,9 @@ Animation video:&lt;/br&gt;&lt;/p&gt;
     </item>
     
     <item>
-      <title>SPONGE</title>
-      <link>https://biomedical-big-data.de/tool/sponge/</link>
-      <pubDate>Mon, 28 Jan 2019 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tool/sponge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Big Data als Wegbereiter der Präzisionsmedizin</title>
       <link>https://biomedical-big-data.de/talk/igld/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 08 Mar 2019 14:30:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/talk/igld/</guid>
       <description></description>
@@ -365,9 +365,27 @@ Animation video:&lt;/br&gt;&lt;/p&gt;
     <item>
       <title>Overcoming challenges in the integrative analysis of epigenomic data</title>
       <link>https://biomedical-big-data.de/talk/icb/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 11 Feb 2019 11:30:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/talk/icb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide endogenous RNA networks highlight novel biomarkers in cancer</title>
+      <link>https://biomedical-big-data.de/talk/imm/</link>
+      <pubDate>Tue, 29 Jan 2019 17:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/imm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPONGE</title>
+      <link>https://biomedical-big-data.de/tool/sponge/</link>
+      <pubDate>Mon, 28 Jan 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/sponge/</guid>
       <description></description>
     </item>
     
@@ -444,27 +462,9 @@ Animation video:&lt;/br&gt;&lt;/p&gt;
     </item>
     
     <item>
-      <title>Genome-wide endogenous RNA networks highlight novel biomarkers in cancer</title>
-      <link>https://biomedical-big-data.de/talk/imm/</link>
-      <pubDate>Mon, 17 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/talk/imm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysing large-scale epigenomic data</title>
-      <link>https://biomedical-big-data.de/talk/qbic2019/</link>
-      <pubDate>Tue, 06 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/talk/qbic2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Analysing large-scale epigenomic data with DeepBlue</title>
       <link>https://biomedical-big-data.de/talk/bioc2018/</link>
-      <pubDate>Tue, 06 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 06 Dec 2018 14:30:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/talk/bioc2018/</guid>
       <description></description>
@@ -545,7 +545,7 @@ Animation video:&lt;/br&gt;&lt;/p&gt;
     <item>
       <title>Genome-wide endogenous RNA networks highlight novel biomarkers in cancer</title>
       <link>https://biomedical-big-data.de/talk/cemm/</link>
-      <pubDate>Fri, 28 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 28 Sep 2018 15:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/talk/cemm/</guid>
       <description></description>

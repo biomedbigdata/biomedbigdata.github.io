@@ -117,7 +117,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/markus_list/</loc>
-    <lastmod>2020-10-02T00:00:00+02:00</lastmod>
+    <lastmod>2020-10-27T13:15:00+01:00</lastmod>
   </url>
   
   <url>
@@ -186,13 +186,29 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/publication_types/2/</loc>
-    <lastmod>2020-10-02T00:00:00+02:00</lastmod>
+    <loc>https://biomedical-big-data.de/authors/</loc>
+    <lastmod>2020-10-27T13:15:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/</loc>
+    <loc>https://biomedical-big-data.de/</loc>
+    <lastmod>2020-10-27T13:15:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/talk/embl_life_science_2020/</loc>
+    <lastmod>2020-10-27T13:15:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/talk/</loc>
+    <lastmod>2020-10-27T13:15:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/2/</loc>
     <lastmod>2020-10-02T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -200,12 +216,6 @@
   <url>
     <loc>https://biomedical-big-data.de/publication/weber-2020-balsam/</loc>
     <lastmod>2020-10-02T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/</loc>
-    <lastmod>2020-10-02T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -253,6 +263,11 @@
     <loc>https://biomedical-big-data.de/authors/tim-kacprowski/</loc>
     <lastmod>2020-09-25T00:00:00+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/talk/netsci/</loc>
+    <lastmod>2020-09-17T15:30:00+01:00</lastmod>
   </url>
   
   <url>
@@ -744,21 +759,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/talk/embl_life_science_2020/</loc>
-    <lastmod>2020-04-26T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/talk/netsci/</loc>
-    <lastmod>2020-04-26T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/talk/</loc>
-    <lastmod>2020-04-26T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/tags/covid-19/</loc>
     <lastmod>2020-04-24T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -1098,6 +1098,17 @@
   </url>
   
   <url>
+    <loc>https://biomedical-big-data.de/talk/qbic2019/</loc>
+    <lastmod>2019-12-12T16:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/bioconductor/</loc>
+    <lastmod>2019-12-12T16:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://biomedical-big-data.de/authors/ahmad-barghash/</loc>
     <lastmod>2019-11-01T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -1199,17 +1210,17 @@
   
   <url>
     <loc>https://biomedical-big-data.de/talk/itarget/</loc>
-    <lastmod>2019-08-06T00:00:00+02:00</lastmod>
+    <lastmod>2019-09-16T16:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/talk/mccmb/</loc>
-    <lastmod>2019-07-31T00:00:00+02:00</lastmod>
+    <lastmod>2019-07-31T10:10:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/talk/ismb2019/</loc>
-    <lastmod>2019-07-23T00:00:00+02:00</lastmod>
+    <lastmod>2019-07-23T14:30:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1227,6 +1238,21 @@
     <loc>https://biomedical-big-data.de/tags/workshop/</loc>
     <lastmod>2019-03-18T00:00:00+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/talk/igld/</loc>
+    <lastmod>2019-03-08T14:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/talk/icb/</loc>
+    <lastmod>2019-02-11T11:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/talk/imm/</loc>
+    <lastmod>2019-01-29T17:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1250,16 +1276,6 @@
     <loc>https://biomedical-big-data.de/tags/mirna-regulation/</loc>
     <lastmod>2019-01-28T19:39:58+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/talk/igld/</loc>
-    <lastmod>2019-01-15T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/talk/icb/</loc>
-    <lastmod>2019-01-15T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -1561,24 +1577,8 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/talk/imm/</loc>
-    <lastmod>2018-12-17T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/talk/qbic2019/</loc>
-    <lastmod>2018-11-06T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/talk/bioc2018/</loc>
-    <lastmod>2018-11-06T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/bioconductor/</loc>
-    <lastmod>2018-11-06T00:00:00+01:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2018-12-06T14:30:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1659,7 +1659,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/talk/cemm/</loc>
-    <lastmod>2018-09-28T00:00:00+02:00</lastmod>
+    <lastmod>2018-09-28T15:00:00+02:00</lastmod>
   </url>
   
   <url>
