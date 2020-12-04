@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A framework for modeling epistatic interaction</title>
+      <link>https://biomedical-big-data.de/publication/blumenthal-2020-genepiseeker/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/blumenthal-2020-genepiseeker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Strategies to Combat COVID-19: Useful Tools to Accelerate SARS-CoV-2 and Coronavirus Research</title>
+      <link>https://biomedical-big-data.de/publication/hufsky-2020-computational/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hufsky-2020-computational/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BALSAM—An Interactive Online Platform for Breath Analysis, Visualization and Classification</title>

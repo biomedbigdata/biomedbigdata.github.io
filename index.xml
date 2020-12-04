@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 27 Oct 2020 13:15:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="https://biomedical-big-data.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tissue heterogeneity is prevalent in gene expression studies</title>
+      <link>https://biomedical-big-data.de/publication/sturm-2020-heterogeneity/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sturm-2020-heterogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A framework for modeling epistatic interaction</title>
+      <link>https://biomedical-big-data.de/publication/blumenthal-2020-genepiseeker/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/blumenthal-2020-genepiseeker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Strategies to Combat COVID-19: Useful Tools to Accelerate SARS-CoV-2 and Coronavirus Research</title>
+      <link>https://biomedical-big-data.de/publication/hufsky-2020-computational/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hufsky-2020-computational/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Big data for Systems Medicine</title>
@@ -117,15 +144,6 @@
       <pubDate>Wed, 27 May 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/baumgarten-2020-epiregio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational Strategies to Combat COVID-19: Useful Tools to Accelerate SARS-CoV-2 and Coronavirus Research</title>
-      <link>https://biomedical-big-data.de/publication/hufsky-2020-computational/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/hufsky-2020-computational/</guid>
       <description></description>
     </item>
     

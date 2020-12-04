@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 27 Oct 2020 13:15:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -51,7 +51,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/david_blumenthal/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/david_blumenthal/</guid>
       <description>In October 2019, I will join the Chair of Experimental Bioinformatics at TU Munich as a postdoctoral researcher. My main focus will be to apply techniques from combinatorial optimization and graph theory to address problems in network biology and systems medicine. From 2007 to 2015, I studied Mathematics and Philosophy at FU Berlin and TU Berlin and received Master’s degrees in both disciplines. After that, I did a Ph.D. in Computer Science at the Free University of Bozen-Bolzano, Italy.</description>
@@ -177,7 +177,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/markus_hoffmann/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_hoffmann/</guid>
       <description>In March 2019, I joined the group, biomedical big data as part of my master’s degree internship. During this time, I contributed to implementing SPONGEdb: A pan-cancer resource for competing endogenous RNA interactions. After my internship, I extended my work at the group as a HIWI working for Dr. David Blumenthal on C++ programming tasks, which helped to implement a framework for modeling epistatic interaction. As the framework results were promising, I chose to intensify my work in this field as part of my Master’s Thesis.</description>
@@ -258,7 +258,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/markus_list/</link>
-      <pubDate>Tue, 27 Oct 2020 13:15:00 +0100</pubDate>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_list/</guid>
       <description>Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.
@@ -376,7 +376,7 @@ We develop predictive models and software tools that integrate big heterogeneous
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/gregor_sturm/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/gregor_sturm/</guid>
       <description>Gregor did his Master with us in immuno-oncology. In collaboration with Pieris Pharmaceuticals in Freising and Prof. Zlatko Trajanoski&amp;rsquo;s Lab in Innsbruck he aimed to better understand the functional orientation of immune cells in the tumor micro-environment. He continued as a PhD student in the Trajanoski lab in Innsbruck.</description>
@@ -401,11 +401,119 @@ We develop predictive models and software tools that integrate big heterogeneous
     </item>
     
     <item>
+      <title>Jitao David Zhang</title>
+      <link>https://biomedical-big-data.de/authors/jitao-david-zhang/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jitao-david-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jan Baumbach</title>
       <link>https://biomedical-big-data.de/authors/jan-baumbach/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/jan-baumbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Kacprowski</title>
+      <link>https://biomedical-big-data.de/authors/tim-kacprowski/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/tim-kacprowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> others</title>
+      <link>https://biomedical-big-data.de/authors/others/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abdel Aouacheria</title>
+      <link>https://biomedical-big-data.de/authors/abdel-aouacheria/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/abdel-aouacheria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Bateman</title>
+      <link>https://biomedical-big-data.de/authors/alex-bateman/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/alex-bateman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandre Almeida</title>
+      <link>https://biomedical-big-data.de/authors/alexandre-almeida/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/alexandre-almeida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cecilia Arighi</title>
+      <link>https://biomedical-big-data.de/authors/cecilia-arighi/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/cecilia-arighi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Brandt</title>
+      <link>https://biomedical-big-data.de/authors/christian-brandt/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/christian-brandt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Franziska Hufsky</title>
+      <link>https://biomedical-big-data.de/authors/franziska-hufsky/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/franziska-hufsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Lamkiewicz</title>
+      <link>https://biomedical-big-data.de/authors/kevin-lamkiewicz/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kevin-lamkiewicz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Cacciabue</title>
+      <link>https://biomedical-big-data.de/authors/marco-cacciabue/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/marco-cacciabue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Niko Beerenwinkel</title>
+      <link>https://biomedical-big-data.de/authors/niko-beerenwinkel/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/niko-beerenwinkel/</guid>
       <description></description>
     </item>
     
@@ -446,15 +554,6 @@ We develop predictive models and software tools that integrate big heterogeneous
     </item>
     
     <item>
-      <title>Tim Kacprowski</title>
-      <link>https://biomedical-big-data.de/authors/tim-kacprowski/</link>
-      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/tim-kacprowski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>D.T. Grønne</title>
       <link>https://biomedical-big-data.de/authors/d.t.-gr%C3%B8nne/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0200</pubDate>
@@ -487,15 +586,6 @@ We develop predictive models and software tools that integrate big heterogeneous
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/s.t.-skou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> others</title>
-      <link>https://biomedical-big-data.de/authors/others/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/others/</guid>
       <description></description>
     </item>
     
@@ -838,87 +928,6 @@ We develop predictive models and software tools that integrate big heterogeneous
       <pubDate>Wed, 27 May 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/sivarajan-karunanithi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Abdel Aouacheria</title>
-      <link>https://biomedical-big-data.de/authors/abdel-aouacheria/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/abdel-aouacheria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alex Bateman</title>
-      <link>https://biomedical-big-data.de/authors/alex-bateman/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/alex-bateman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alexandre Almeida</title>
-      <link>https://biomedical-big-data.de/authors/alexandre-almeida/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/alexandre-almeida/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cecilia Arighi</title>
-      <link>https://biomedical-big-data.de/authors/cecilia-arighi/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/cecilia-arighi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christian Brandt</title>
-      <link>https://biomedical-big-data.de/authors/christian-brandt/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/christian-brandt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Franziska Hufsky</title>
-      <link>https://biomedical-big-data.de/authors/franziska-hufsky/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/franziska-hufsky/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kevin Lamkiewicz</title>
-      <link>https://biomedical-big-data.de/authors/kevin-lamkiewicz/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/kevin-lamkiewicz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marco Cacciabue</title>
-      <link>https://biomedical-big-data.de/authors/marco-cacciabue/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/marco-cacciabue/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Niko Beerenwinkel</title>
-      <link>https://biomedical-big-data.de/authors/niko-beerenwinkel/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/niko-beerenwinkel/</guid>
       <description></description>
     </item>
     

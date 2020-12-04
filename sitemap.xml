@@ -20,7 +20,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/david_blumenthal/</loc>
-    <lastmod>2020-07-14T00:00:00+02:00</lastmod>
+    <lastmod>2020-11-30T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -79,6 +79,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/markus_hoffmann/</loc>
+    <lastmod>2020-11-30T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -117,7 +118,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/markus_list/</loc>
-    <lastmod>2020-10-27T13:15:00+01:00</lastmod>
+    <lastmod>2020-12-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -172,7 +173,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/gregor_sturm/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+    <lastmod>2020-12-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -186,14 +187,161 @@
   </url>
   
   <url>
+    <loc>https://biomedical-big-data.de/publication_types/3/</loc>
+    <lastmod>2020-12-03T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://biomedical-big-data.de/authors/</loc>
-    <lastmod>2020-10-27T13:15:00+01:00</lastmod>
+    <lastmod>2020-12-03T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/</loc>
-    <lastmod>2020-10-27T13:15:00+01:00</lastmod>
+    <lastmod>2020-12-03T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/jitao-david-zhang/</loc>
+    <lastmod>2020-12-03T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/</loc>
+    <lastmod>2020-12-03T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication/sturm-2020-heterogeneity/</loc>
+    <lastmod>2020-12-03T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/2/</loc>
+    <lastmod>2020-11-30T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication/blumenthal-2020-genepiseeker/</loc>
+    <lastmod>2020-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/gwas/</loc>
+    <lastmod>2020-11-30T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
+    <lastmod>2020-11-30T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/</loc>
+    <lastmod>2020-11-30T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/tim-kacprowski/</loc>
+    <lastmod>2020-11-30T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/epistasis/</loc>
+    <lastmod>2020-11-30T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/others/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/abdel-aouacheria/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/alex-bateman/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/alexandre-almeida/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/cecilia-arighi/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/christian-brandt/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication/hufsky-2020-computational/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/franziska-hufsky/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/kevin-lamkiewicz/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/marco-cacciabue/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/niko-beerenwinkel/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/drug-repurposing/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/network-analysis/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/systems-medicine/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -208,20 +356,8 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/publication_types/2/</loc>
-    <lastmod>2020-10-02T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/publication/weber-2020-balsam/</loc>
     <lastmod>2020-10-02T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
-    <lastmod>2020-10-02T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -232,12 +368,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/philipp-weber/</loc>
-    <lastmod>2020-10-02T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication_types/</loc>
     <lastmod>2020-10-02T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -255,12 +385,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/olga-v.-kalinina/</loc>
-    <lastmod>2020-09-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/tim-kacprowski/</loc>
     <lastmod>2020-09-25T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -296,12 +420,6 @@
   <url>
     <loc>https://biomedical-big-data.de/authors/s.t.-skou/</loc>
     <lastmod>2020-09-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/others/</loc>
-    <lastmod>2020-08-12T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -353,12 +471,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/tags/</loc>
-    <lastmod>2020-08-12T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/tarini-g-ghosh/</loc>
     <lastmod>2020-08-12T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -403,18 +515,6 @@
   <url>
     <loc>https://biomedical-big-data.de/tool/digger/</loc>
     <lastmod>2020-08-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/network-analysis/</loc>
-    <lastmod>2020-08-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/systems-medicine/</loc>
-    <lastmod>2020-08-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -536,18 +636,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/tags/drug-repurposing/</loc>
-    <lastmod>2020-07-14T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication_types/3/</loc>
-    <lastmod>2020-06-05T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/julian-sp%C3%A4th/</loc>
     <lastmod>2020-06-05T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -637,65 +725,6 @@
   <url>
     <loc>https://biomedical-big-data.de/tags/epigenomics/</loc>
     <lastmod>2020-05-27T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/abdel-aouacheria/</loc>
-    <lastmod>2020-05-23T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/alex-bateman/</loc>
-    <lastmod>2020-05-23T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/alexandre-almeida/</loc>
-    <lastmod>2020-05-23T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/cecilia-arighi/</loc>
-    <lastmod>2020-05-23T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/christian-brandt/</loc>
-    <lastmod>2020-05-23T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication/hufsky-2020-computational/</loc>
-    <lastmod>2020-05-23T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/franziska-hufsky/</loc>
-    <lastmod>2020-05-23T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/kevin-lamkiewicz/</loc>
-    <lastmod>2020-05-23T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/marco-cacciabue/</loc>
-    <lastmod>2020-05-23T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/niko-beerenwinkel/</loc>
-    <lastmod>2020-05-23T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -863,13 +892,13 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/tags/cell-type-deconvolution/</loc>
+    <loc>https://biomedical-big-data.de/tags/cell-type-heterogeneity/</loc>
     <lastmod>2020-03-11T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/tags/cell-type-heterogeneity/</loc>
+    <loc>https://biomedical-big-data.de/tags/cell-type-deconvolution/</loc>
     <lastmod>2020-03-11T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -899,12 +928,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/tags/software/</loc>
-    <lastmod>2020-02-05T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/epistasis/</loc>
     <lastmod>2020-02-05T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -961,12 +984,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/francesca-finotello/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/gwas/</loc>
     <lastmod>2020-01-01T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
