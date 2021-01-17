@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="https://biomedical-big-data.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SPONGEdb: a pan-cancer resource for competing endogenous RNA interactions</title>
+      <link>https://biomedical-big-data.de/publication/hoffmann-2021-spongedb/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hoffmann-2021-spongedb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 infection is associated with a pro-thrombotic platelet phenotype</title>
+      <link>https://biomedical-big-data.de/publication/bongiovanni-2021-sars-cov-2/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/bongiovanni-2021-sars-cov-2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tissue heterogeneity is prevalent in gene expression studies</title>
@@ -131,10 +149,10 @@
     
     <item>
       <title>Multi-Omics Analysis in a Network Context (in &#34;Reference Module in Biomedical Sciences&#34;)</title>
-      <link>https://biomedical-big-data.de/publication/lazareva-2021-multiomics/</link>
+      <link>https://biomedical-big-data.de/publication/lazareva-2020-multiomics/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://biomedical-big-data.de/publication/lazareva-2021-multiomics/</guid>
+      <guid>https://biomedical-big-data.de/publication/lazareva-2020-multiomics/</guid>
       <description></description>
     </item>
     

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/markus_list/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,29 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/markus_list/</link>
-      <pubDate>Thu, 03 Dec 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_list/</guid>
       <description>Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.
 We develop predictive models and software tools that integrate big heterogeneous (OMICS) data on the network level. Our long term vision is that our research finds application in clinical practice. Towards this goal, we also address challenges in data privacy as well as in explainability and continuity in modelling.</description>
+    </item>
+    
+    <item>
+      <title>SPONGEdb: a pan-cancer resource for competing endogenous RNA interactions</title>
+      <link>https://biomedical-big-data.de/publication/hoffmann-2021-spongedb/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hoffmann-2021-spongedb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 infection is associated with a pro-thrombotic platelet phenotype</title>
+      <link>https://biomedical-big-data.de/publication/bongiovanni-2021-sars-cov-2/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/bongiovanni-2021-sars-cov-2/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -114,10 +132,10 @@ We develop predictive models and software tools that integrate big heterogeneous
     
     <item>
       <title>Multi-Omics Analysis in a Network Context (in &#34;Reference Module in Biomedical Sciences&#34;)</title>
-      <link>https://biomedical-big-data.de/publication/lazareva-2021-multiomics/</link>
+      <link>https://biomedical-big-data.de/publication/lazareva-2020-multiomics/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://biomedical-big-data.de/publication/lazareva-2021-multiomics/</guid>
+      <guid>https://biomedical-big-data.de/publication/lazareva-2020-multiomics/</guid>
       <description></description>
     </item>
     

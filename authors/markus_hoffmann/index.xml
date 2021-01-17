@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/markus_hoffmann/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,19 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/markus_hoffmann/</link>
-      <pubDate>Mon, 30 Nov 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_hoffmann/</guid>
       <description>In March 2019, I joined the group, biomedical big data as part of my master’s degree internship. During this time, I contributed to implementing SPONGEdb: A pan-cancer resource for competing endogenous RNA interactions. After my internship, I extended my work at the group as a HIWI working for Dr. David Blumenthal on C++ programming tasks, which helped to implement a framework for modeling epistatic interaction. As the framework results were promising, I chose to intensify my work in this field as part of my Master’s Thesis.</description>
+    </item>
+    
+    <item>
+      <title>SPONGEdb: a pan-cancer resource for competing endogenous RNA interactions</title>
+      <link>https://biomedical-big-data.de/publication/hoffmann-2021-spongedb/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hoffmann-2021-spongedb/</guid>
+      <description></description>
     </item>
     
     <item>
