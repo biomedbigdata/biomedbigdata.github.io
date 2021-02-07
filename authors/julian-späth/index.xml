@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/julian-sp%C3%A4th/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Flimma: a federated and privacy-preserving tool for differential gene expression analysis</title>
+      <link>https://biomedical-big-data.de/publication/zolotareva-2020-flimma/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/zolotareva-2020-flimma/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>sPLINK: A Federated, Privacy-Preserving Tool as a Robust Alternative to Meta-Analysis in Genome-Wide Association Studies</title>
