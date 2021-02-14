@@ -371,94 +371,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/amir-abbasinejad/</loc>
-    <lastmod>2020-11-23T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication/zolotareva-2020-flimma/</loc>
-    <lastmod>2020-11-23T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/julian-matschinske/</loc>
-    <lastmod>2020-11-23T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/julian-sp%C3%A4th/</loc>
-    <lastmod>2020-11-23T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/nina-k-wenke/</loc>
-    <lastmod>2020-11-23T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/olga-zolotareva/</loc>
-    <lastmod>2020-11-23T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/paolo-tieri/</loc>
-    <lastmod>2020-11-23T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/reihaneh-torkzadehmahani/</loc>
-    <lastmod>2020-11-23T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/reza-nasirigerdeh/</loc>
-    <lastmod>2020-11-23T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/tobias-frisch/</loc>
-    <lastmod>2020-11-23T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/federated/</loc>
-    <lastmod>2020-11-23T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/amirhossein-bayat/</loc>
-    <lastmod>2020-11-13T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication/bakhtiari-2020-batch/</loc>
-    <lastmod>2020-11-13T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/mohammad-bakhtiari/</loc>
-    <lastmod>2020-11-13T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/others/</loc>
-    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/abdel-aouacheria/</loc>
     <lastmod>2020-11-04T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -525,6 +437,12 @@
   
   <url>
     <loc>https://biomedical-big-data.de/tags/network-analysis/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/others/</loc>
     <lastmod>2020-11-04T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1028,13 +946,13 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/tags/cell-type-heterogeneity/</loc>
+    <loc>https://biomedical-big-data.de/tags/cell-type-deconvolution/</loc>
     <lastmod>2020-03-11T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/tags/cell-type-deconvolution/</loc>
+    <loc>https://biomedical-big-data.de/tags/cell-type-heterogeneity/</loc>
     <lastmod>2020-03-11T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
