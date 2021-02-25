@@ -120,7 +120,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/markus_list/</loc>
-    <lastmod>2021-01-06T00:00:00+01:00</lastmod>
+    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -139,6 +139,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/monica_matchado/</loc>
+    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -190,19 +191,66 @@
   
   <url>
     <loc>https://biomedical-big-data.de/publication_types/2/</loc>
-    <lastmod>2021-01-06T00:00:00+01:00</lastmod>
+    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/alina-sommer/</loc>
+    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/authors/</loc>
-    <lastmod>2021-01-06T00:00:00+01:00</lastmod>
+    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/</loc>
-    <lastmod>2021-01-06T00:00:00+01:00</lastmod>
+    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/isabel-abellan-schneyder/</loc>
+    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
+    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/klaus-neuhaus/</loc>
+    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication/abellan-schneyder-2021-rrna/</loc>
+    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/</loc>
+    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/sandra-reitmeier/</loc>
+    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/zeno-sewald/</loc>
+    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -213,19 +261,7 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
-    <lastmod>2021-01-06T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/marcel-h-schulz/</loc>
-    <lastmod>2021-01-06T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication_types/</loc>
     <lastmod>2021-01-06T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -453,6 +489,12 @@
   </url>
   
   <url>
+    <loc>https://biomedical-big-data.de/authors/others/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://biomedical-big-data.de/authors/abdel-aouacheria/</loc>
     <lastmod>2020-11-04T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -519,12 +561,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/tags/network-analysis/</loc>
-    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/others/</loc>
     <lastmod>2020-11-04T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -637,19 +673,7 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/klaus-neuhaus/</loc>
-    <lastmod>2020-08-12T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/martina-troll/</loc>
-    <lastmod>2020-08-12T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/sandra-reitmeier/</loc>
     <lastmod>2020-08-12T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
