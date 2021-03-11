@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ASimulatoR</title>
+      <link>https://biomedical-big-data.de/tags/asimulator/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/asimulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sys_CARE</title>
+      <link>https://biomedical-big-data.de/tags/sys_care/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/sys_care/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sars-CoV-2</title>
@@ -153,15 +171,6 @@
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/network-medicine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sys_CARE</title>
-      <link>https://biomedical-big-data.de/tags/sys_care/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/sys_care/</guid>
       <description></description>
     </item>
     

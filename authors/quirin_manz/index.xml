@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/quirin_manz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,19 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/quirin_manz/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/quirin_manz/</guid>
       <description>Since 2016 I am studying Bioinformatics at the LMU and TUM. For my bachelor thesis I joined to ListLab in 2019 to look into histone modifications&amp;rsquo; impact on alternative splicing. Since August 2019 I&amp;rsquo;m working as a hiwi.</description>
+    </item>
+    
+    <item>
+      <title>ASimulatoR: splice-aware RNA-Seq data simulation</title>
+      <link>https://biomedical-big-data.de/publication/manz-2021-asimulator/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/manz-2021-asimulator/</guid>
+      <description></description>
     </item>
     
     <item>

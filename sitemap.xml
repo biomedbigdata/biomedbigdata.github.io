@@ -49,7 +49,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/amit_fenn/</loc>
-    <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -120,7 +120,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/markus_list/</loc>
-    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
+    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -130,7 +130,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/quirin_manz/</loc>
-    <lastmod>2020-04-01T00:00:00+02:00</lastmod>
+    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -148,6 +148,10 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/konstantinos_mechteridis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/konstantin_pelz/</loc>
   </url>
   
   <url>
@@ -181,7 +185,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/olga_tsoy/</loc>
-    <lastmod>2020-09-25T00:00:00+02:00</lastmod>
+    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -191,7 +195,66 @@
   
   <url>
     <loc>https://biomedical-big-data.de/publication_types/2/</loc>
-    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
+    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/asimulator/</loc>
+    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication/manz-2021-asimulator/</loc>
+    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/</loc>
+    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/</loc>
+    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
+    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/</loc>
+    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/sys_care/</loc>
+    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/</loc>
+    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/tim-kacprowski/</loc>
+    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/uwe-v%C3%B6lker/</loc>
+    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -202,25 +265,7 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/</loc>
-    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/</loc>
-    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/isabel-abellan-schneyder/</loc>
-    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
     <lastmod>2021-02-25T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -234,12 +279,6 @@
   <url>
     <loc>https://biomedical-big-data.de/publication/abellan-schneyder-2021-rrna/</loc>
     <lastmod>2021-02-25T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication_types/</loc>
-    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -302,7 +341,7 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/isabell-bernocher/</loc>
+    <loc>https://biomedical-big-data.de/authors/isabell-bernlochner/</loc>
     <lastmod>2021-01-05T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -361,12 +400,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/tags/</loc>
-    <lastmod>2021-01-05T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/publication_types/3/</loc>
     <lastmod>2020-12-03T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -390,12 +423,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/tags/gwas/</loc>
-    <lastmod>2020-11-30T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/tim-kacprowski/</loc>
     <lastmod>2020-11-30T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -844,12 +871,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/uwe-v%C3%B6lker/</loc>
-    <lastmod>2020-06-05T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/publication/nasirigerdeh-2020-splink/</loc>
     <lastmod>2020-06-05T00:00:00+02:00</lastmod>
   </url>
@@ -978,12 +999,6 @@
   <url>
     <loc>https://biomedical-big-data.de/tool/asimulator/</loc>
     <lastmod>2020-04-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/sys_care/</loc>
-    <lastmod>2020-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
