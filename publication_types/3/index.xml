@@ -48,14 +48,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>BiCoN: Network-constrained biclustering of patients and omics data</title>
-      <link>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
