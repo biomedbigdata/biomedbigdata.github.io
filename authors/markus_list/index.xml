@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/markus_list/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,29 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/markus_list/</link>
-      <pubDate>Mon, 15 Mar 2021 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_list/</guid>
       <description>Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.
 We develop predictive models and software tools that integrate big heterogeneous (OMICS) data on the network level. Our long term vision is that our research finds application in clinical practice. Towards this goal, we also address challenges in data privacy as well as in explainability and continuity in modelling.</description>
+    </item>
+    
+    <item>
+      <title>Clinical epigenetics settings for cancer and cardiovascular diseases: real-life applications of network medicine at the bedside</title>
+      <link>https://biomedical-big-data.de/publication/sarno-2021-epigenetics/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sarno-2021-epigenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the limits of active module identification</title>
+      <link>https://biomedical-big-data.de/publication/lazareva-2021-module-identification/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lazareva-2021-module-identification/</guid>
+      <description></description>
     </item>
     
     <item>

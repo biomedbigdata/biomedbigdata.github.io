@@ -20,7 +20,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/david_blumenthal/</loc>
-    <lastmod>2020-12-26T00:00:00+01:00</lastmod>
+    <lastmod>2021-03-29T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -111,7 +111,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/olga_lazareva/</loc>
-    <lastmod>2021-03-15T00:00:00+01:00</lastmod>
+    <lastmod>2021-03-29T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -120,7 +120,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/markus_list/</loc>
-    <lastmod>2021-03-15T00:00:00+01:00</lastmod>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -195,30 +195,142 @@
   
   <url>
     <loc>https://biomedical-big-data.de/publication_types/2/</loc>
-    <lastmod>2021-03-15T00:00:00+01:00</lastmod>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/albert-lazlo-barabasi/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/antonella-verrienti/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/authors/</loc>
-    <lastmod>2021-03-15T00:00:00+01:00</lastmod>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/</loc>
-    <lastmod>2021-03-15T00:00:00+01:00</lastmod>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/florian-schmidt/</loc>
-    <lastmod>2021-03-15T00:00:00+01:00</lastmod>
+    <loc>https://biomedical-big-data.de/authors/bradley-a.-maron/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/cinzia-marchese/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/claudio-napoli/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication/sarno-2021-epigenetics/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/edwin-k.-silverman/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/enrico-petrillo/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/federica-sarno/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/fortunato-ciardiello/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/giuditta-benincasa/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/joseph-loscalzo/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/kimberly-glass/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/lucia-altucci/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/paola-paci/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/paolo-parini/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/sebastiano-filetti/</loc>
+    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication/lazareva-2021-module-identification/</loc>
+    <lastmod>2021-03-29T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/florian-schmidt/</loc>
     <lastmod>2021-03-15T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -242,12 +354,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/michael-scherer/</loc>
-    <lastmod>2021-03-15T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication_types/</loc>
     <lastmod>2021-03-15T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -621,12 +727,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/others/</loc>
-    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/abdel-aouacheria/</loc>
     <lastmod>2020-11-04T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -693,6 +793,12 @@
   
   <url>
     <loc>https://biomedical-big-data.de/tags/network-analysis/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/others/</loc>
     <lastmod>2020-11-04T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
