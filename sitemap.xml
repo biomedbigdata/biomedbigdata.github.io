@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>https://biomedical-big-data.de/authors/lis_arendt/</loc>
+  </url>
+  
+  <url>
     <loc>https://biomedical-big-data.de/authors/thibault_bechtler/</loc>
   </url>
   
@@ -21,6 +25,10 @@
   <url>
     <loc>https://biomedical-big-data.de/authors/david_blumenthal/</loc>
     <lastmod>2021-03-29T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/florian_boessl/</loc>
   </url>
   
   <url>
@@ -163,6 +171,10 @@
   </url>
   
   <url>
+    <loc>https://biomedical-big-data.de/authors/sara_luisa_reh/</loc>
+  </url>
+  
+  <url>
     <loc>https://biomedical-big-data.de/authors/rafaela_relota/</loc>
   </url>
   
@@ -176,6 +188,10 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/evelyn_scheibling/</loc>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/anna_schuster/</loc>
   </url>
   
   <url>
@@ -727,6 +743,12 @@
   </url>
   
   <url>
+    <loc>https://biomedical-big-data.de/authors/others/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://biomedical-big-data.de/authors/abdel-aouacheria/</loc>
     <lastmod>2020-11-04T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -793,12 +815,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/tags/network-analysis/</loc>
-    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/others/</loc>
     <lastmod>2020-11-04T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>

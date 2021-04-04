@@ -32,6 +32,15 @@
     
     <item>
       <title></title>
+      <link>https://biomedical-big-data.de/authors/lis_arendt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/lis_arendt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://biomedical-big-data.de/authors/thibault_bechtler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -55,6 +64,15 @@
       
       <guid>https://biomedical-big-data.de/authors/david_blumenthal/</guid>
       <description>In October 2019, I will join the Chair of Experimental Bioinformatics at TU Munich as a postdoctoral researcher. My main focus will be to apply techniques from combinatorial optimization and graph theory to address problems in network biology and systems medicine. From 2007 to 2015, I studied Mathematics and Philosophy at FU Berlin and TU Berlin and received Master’s degrees in both disciplines. After that, I did a Ph.D. in Computer Science at the Free University of Bozen-Bolzano, Italy.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/florian_boessl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/florian_boessl/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -348,6 +366,15 @@ We develop predictive models and software tools that integrate big heterogeneous
     
     <item>
       <title></title>
+      <link>https://biomedical-big-data.de/authors/sara_luisa_reh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sara_luisa_reh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://biomedical-big-data.de/authors/rafaela_relota/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -380,6 +407,15 @@ We develop predictive models and software tools that integrate big heterogeneous
       
       <guid>https://biomedical-big-data.de/authors/evelyn_scheibling/</guid>
       <description>I&amp;rsquo;m a Master student in Bioinformatics at the Technical University of Munich and the Ludwig-Maximilian University. In October 2019, I joined the Chair of Experimental Bioinformatics in Weihenstephan to work on my bachelor thesis on the indentification of miRNA binding site enriched transcripts in The Cancer Genome Atlas. From October 2020, I work as a student assistant for the group.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/anna_schuster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/anna_schuster/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -959,6 +995,15 @@ We develop predictive models and software tools that integrate big heterogeneous
     </item>
     
     <item>
+      <title> others</title>
+      <link>https://biomedical-big-data.de/authors/others/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Abdel Aouacheria</title>
       <link>https://biomedical-big-data.de/authors/abdel-aouacheria/</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
@@ -1036,15 +1081,6 @@ We develop predictive models and software tools that integrate big heterogeneous
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/niko-beerenwinkel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>others</title>
-      <link>https://biomedical-big-data.de/authors/others/</link>
-      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/others/</guid>
       <description></description>
     </item>
     
