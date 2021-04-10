@@ -36,7 +36,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/lis_arendt/</guid>
-      <description></description>
+      <description>I’m a masters student in Bioinformatics at the Technical University of Munich and Ludwig-Maximilians-Universität München since October 2020. I developed a federated Cox proportional hazard model app for the FeatureCloud platform for my bachelor thesis and I am currently working on an integrated CyTOF data analysis pipeline.</description>
     </item>
     
     <item>
@@ -353,6 +353,15 @@ We develop predictive models and software tools that integrate big heterogeneous
       
       <guid>https://biomedical-big-data.de/authors/konstantin_pelz/</guid>
       <description>I&amp;rsquo;m a masters student in bioinformatics at the Technical University of Munich and Ludwig Maximilian University. Im am very interested in machine learning and software development and am currently developing a successor to the immunedeconv R package with the Chair of Experimental Bioinformatics and the University of Innsbruck.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/silvie_baier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/silvie_baier/</guid>
+      <description>I am a bioinformatics bachelor student at the Technical University of Munich and the Ludwig-Maximilians-University. Since October 2020, I am an intern at the Chair of Experimental Bioinformatics to gain more practical experience in bioinformatics. Currently I am working for Markus Hoffmann on the development of GenEpiSeeker, a tool for generic epistasis detection via local search.</description>
     </item>
     
     <item>
@@ -995,15 +1004,6 @@ We develop predictive models and software tools that integrate big heterogeneous
     </item>
     
     <item>
-      <title> others</title>
-      <link>https://biomedical-big-data.de/authors/others/</link>
-      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/others/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Abdel Aouacheria</title>
       <link>https://biomedical-big-data.de/authors/abdel-aouacheria/</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
@@ -1081,6 +1081,15 @@ We develop predictive models and software tools that integrate big heterogeneous
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/niko-beerenwinkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>others</title>
+      <link>https://biomedical-big-data.de/authors/others/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/others/</guid>
       <description></description>
     </item>
     

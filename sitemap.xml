@@ -167,6 +167,10 @@
   </url>
   
   <url>
+    <loc>https://biomedical-big-data.de/authors/silvie_baier/</loc>
+  </url>
+  
+  <url>
     <loc>https://biomedical-big-data.de/authors/leonora_raka/</loc>
   </url>
   
@@ -743,12 +747,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/others/</loc>
-    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/abdel-aouacheria/</loc>
     <lastmod>2020-11-04T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -815,6 +813,12 @@
   
   <url>
     <loc>https://biomedical-big-data.de/tags/network-analysis/</loc>
+    <lastmod>2020-11-04T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/others/</loc>
     <lastmod>2020-11-04T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
