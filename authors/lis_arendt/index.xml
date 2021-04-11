@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Big Data in Biomedicine</title>
+    <title>lis_arendt on Big Data in Biomedicine</title>
     <link>https://biomedical-big-data.de/authors/lis_arendt/</link>
-    <description>Recent content on Big Data in Biomedicine</description>
+    <description>Recent content in lis_arendt on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
@@ -13,10 +13,10 @@
     
     <item>
       <title></title>
-      <link>https://biomedical-big-data.de/authors/lis_arendt/</link>
+      <link>https://biomedical-big-data.de/authors/lis_arend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://biomedical-big-data.de/authors/lis_arendt/</guid>
+      <guid>https://biomedical-big-data.de/authors/lis_arend/</guid>
       <description>I’m a masters student in Bioinformatics at the Technical University of Munich and Ludwig-Maximilians-Universität München since October 2020. I developed a federated Cox proportional hazard model app for the FeatureCloud platform for my bachelor thesis and I am currently working on an integrated CyTOF data analysis pipeline.</description>
     </item>
     
