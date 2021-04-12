@@ -11,5 +11,14 @@
 	<atom:link href="https://biomedical-big-data.de/authors/lis_arend/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/lis_arend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/lis_arend/</guid>
+      <description>I’m a masters student in Bioinformatics at the Technical University of Munich and Ludwig-Maximilians-Universität München since October 2020. I developed a federated Cox proportional hazard model app for the FeatureCloud platform for my bachelor thesis and I am currently working on an integrated CyTOF data analysis pipeline.</description>
+    </item>
+    
   </channel>
 </rss>
