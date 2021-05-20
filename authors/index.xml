@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -249,7 +249,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/michael_lauber/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/michael_lauber/</guid>
       <description>In June 2019 I started my PhD at the Chair of Experimental Bioinformatics. I have received a bachelor&amp;rsquo;s and master&amp;rsquo;s degree in Biochemistry from TUM. During my masters, I also started to study computer science at LMU. For my master thesis, I joined the lab of Alex Marson at UC San Francisco and established a CRISPR screen to study transcriptional regulation in human regulatory T cells. After finishing my studies I continued to apply CRISPR in T cells at TUM for another year.</description>
@@ -285,7 +285,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/markus_list/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_list/</guid>
       <description>Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.
@@ -322,7 +322,7 @@ We develop predictive models and software tools that integrate big heterogeneous
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/monica_matchado/</link>
-      <pubDate>Thu, 25 Feb 2021 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/monica_matchado/</guid>
       <description>I am a Ph.D. student at Chair of Experimental Bioinformatics at TU Munich. I will be working on the Microbiome Project. I received my Bachelor&amp;rsquo;s degree in Bioinformatics from Tamil Nadu Agricultural University and my Masters from Karunya Institute of Technology and Sciences, India. My master thesis was about building a draft genome annotation of Carica cauliflora using NGS pipeline. For my part-semester project, I worked on the characterization of Alternative Splicing events in Arabidopsis thaliana using the RNA-Seq approach at MPI-MP, Germany.</description>
@@ -366,11 +366,11 @@ We develop predictive models and software tools that integrate big heterogeneous
     
     <item>
       <title></title>
-      <link>https://biomedical-big-data.de/authors/leonora_raka/</link>
+      <link>https://biomedical-big-data.de/authors/julian_poschenrieder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://biomedical-big-data.de/authors/leonora_raka/</guid>
-      <description>​I am a Bioinformatics bachelor student at the Ludwigs-Maximilian University and the Technical University of Munich since 2017 and recently joined the ListLab to write my bachelor‘s thesis on the implementation of a platelet atlas.</description>
+      <guid>https://biomedical-big-data.de/authors/julian_poschenrieder/</guid>
+      <description>While studying bioinformatics in the bachelor programme at TUM and LMU I joined the group biomedical big data within the scope of an internship to gain more practical experience in the fields of Bioinformatics. As I work for Markus Hoffmann, I assist with c++ programming tasks for the development of an epistasis detection tool called GenEpiSeeker.</description>
     </item>
     
     <item>
@@ -380,6 +380,15 @@ We develop predictive models and software tools that integrate big heterogeneous
       
       <guid>https://biomedical-big-data.de/authors/sara_luisa_reh/</guid>
       <description>I am studying bioinformatics (B.Sc.) and medicine (Stx) at TUM and LMU. In April 2021, I joined the chair of experimental bioinformatics to work on my bachelor thesis on treatment recommendation for epidrugs based on DNA methylation profiles.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/leonora_raka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/leonora_raka/</guid>
+      <description>​I am a Bioinformatics bachelor student at the Ludwigs-Maximilian University and the Technical University of Munich since 2017 and recently joined the ListLab to write my bachelor‘s thesis on the implementation of a platelet atlas.</description>
     </item>
     
     <item>
@@ -452,6 +461,42 @@ We develop predictive models and software tools that integrate big heterogeneous
       
       <guid>https://biomedical-big-data.de/authors/kevin_yuan/</guid>
       <description>I&amp;rsquo;m a Bioinformatics Bachelor student at the Ludwig Maximilian University of Munich and Technical University of Munich since October 2017. Currently I am working as a HiWi at the Experimental Bioinformatics chair at the Technical University to gather more practical experience.</description>
+    </item>
+    
+    <item>
+      <title>Dirk Haller</title>
+      <link>https://biomedical-big-data.de/authors/dirk-haller/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/dirk-haller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan Baumbach</title>
+      <link>https://biomedical-big-data.de/authors/jan-baumbach/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jan-baumbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandra Reitmeier</title>
+      <link>https://biomedical-big-data.de/authors/sandra-reitmeier/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sandra-reitmeier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Kacprowski</title>
+      <link>https://biomedical-big-data.de/authors/tim-kacprowski/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/tim-kacprowski/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -541,15 +586,6 @@ We develop predictive models and software tools that integrate big heterogeneous
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/giuditta-benincasa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jan Baumbach</title>
-      <link>https://biomedical-big-data.de/authors/jan-baumbach/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/jan-baumbach/</guid>
       <description></description>
     </item>
     
@@ -698,15 +734,6 @@ We develop predictive models and software tools that integrate big heterogeneous
     </item>
     
     <item>
-      <title>Tim Kacprowski</title>
-      <link>https://biomedical-big-data.de/authors/tim-kacprowski/</link>
-      <pubDate>Sat, 27 Feb 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/tim-kacprowski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Uwe Völker</title>
       <link>https://biomedical-big-data.de/authors/uwe-v%C3%B6lker/</link>
       <pubDate>Sat, 27 Feb 2021 00:00:00 +0100</pubDate>
@@ -739,15 +766,6 @@ We develop predictive models and software tools that integrate big heterogeneous
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/klaus-neuhaus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sandra Reitmeier</title>
-      <link>https://biomedical-big-data.de/authors/sandra-reitmeier/</link>
-      <pubDate>Thu, 25 Feb 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/sandra-reitmeier/</guid>
       <description></description>
     </item>
     

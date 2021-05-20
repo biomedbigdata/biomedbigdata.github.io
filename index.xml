@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://biomedical-big-data.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Network analysis methods for studying microbial communities: A mini review</title>
+      <link>https://biomedical-big-data.de/publication/matchado-2021-mini-review/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matchado-2021-mini-review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clinical epigenetics settings for cancer and cardiovascular diseases: real-life applications of network medicine at the bedside</title>

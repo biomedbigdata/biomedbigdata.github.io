@@ -114,6 +114,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/michael_lauber/</loc>
+    <lastmod>2021-05-04T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -132,7 +133,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/markus_list/</loc>
-    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <lastmod>2021-05-04T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -151,7 +152,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/monica_matchado/</loc>
-    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
+    <lastmod>2021-05-04T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -171,11 +172,15 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/leonora_raka/</loc>
+    <loc>https://biomedical-big-data.de/authors/julian_poschenrieder/</loc>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/authors/sara_luisa_reh/</loc>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/leonora_raka/</loc>
   </url>
   
   <url>
@@ -215,7 +220,66 @@
   
   <url>
     <loc>https://biomedical-big-data.de/publication_types/2/</loc>
-    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
+    <lastmod>2021-05-04T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/</loc>
+    <lastmod>2021-05-04T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/</loc>
+    <lastmod>2021-05-04T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/dirk-haller/</loc>
+    <lastmod>2021-05-04T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
+    <lastmod>2021-05-04T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication/matchado-2021-mini-review/</loc>
+    <lastmod>2021-05-04T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/</loc>
+    <lastmod>2021-05-04T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/sandra-reitmeier/</loc>
+    <lastmod>2021-05-04T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/</loc>
+    <lastmod>2021-05-04T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/tim-kacprowski/</loc>
+    <lastmod>2021-05-04T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/microbiome/</loc>
+    <lastmod>2021-05-04T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -227,18 +291,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/antonella-verrienti/</loc>
-    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/</loc>
-    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/</loc>
     <lastmod>2021-03-30T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -297,12 +349,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
-    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/joseph-loscalzo/</loc>
     <lastmod>2021-03-30T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -328,12 +374,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/paolo-parini/</loc>
-    <lastmod>2021-03-30T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication_types/</loc>
     <lastmod>2021-03-30T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -374,12 +414,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/michael-scherer/</loc>
-    <lastmod>2021-03-15T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/</loc>
     <lastmod>2021-03-15T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -449,12 +483,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/tim-kacprowski/</loc>
-    <lastmod>2021-02-27T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/uwe-v%C3%B6lker/</loc>
     <lastmod>2021-02-27T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -481,12 +509,6 @@
   <url>
     <loc>https://biomedical-big-data.de/publication/abellan-schneyder-2021-rrna/</loc>
     <lastmod>2021-02-25T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/sandra-reitmeier/</loc>
-    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -962,12 +984,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/tags/diabetes/</loc>
-    <lastmod>2020-08-12T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/microbiome/</loc>
     <lastmod>2020-08-12T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
