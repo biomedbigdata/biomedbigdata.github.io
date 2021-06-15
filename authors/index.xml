@@ -41,6 +41,15 @@
     
     <item>
       <title></title>
+      <link>https://biomedical-big-data.de/authors/julian_poschenrieder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/julian_poschenrieder/</guid>
+      <description>While studying bioinformatics in the bachelor programme at TUM and LMU I joined the group biomedical big data within the scope of an internship to gain more practical experience in the fields of Bioinformatics. As I work for Markus Hoffmann, I assist with c++ programming tasks for the development of an epistasis detection tool called GenEpiSeeker.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://biomedical-big-data.de/authors/sylvie_baier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -362,15 +371,6 @@ We develop predictive models and software tools that integrate big heterogeneous
       
       <guid>https://biomedical-big-data.de/authors/konstantin_pelz/</guid>
       <description>I&amp;rsquo;m a masters student in bioinformatics at the Technical University of Munich and Ludwig Maximilian University. Im am very interested in machine learning and software development and am currently developing a successor to the immunedeconv R package with the Chair of Experimental Bioinformatics and the University of Innsbruck.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://biomedical-big-data.de/authors/julian_poschenrieder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/julian_poschenrieder/</guid>
-      <description>While studying bioinformatics in the bachelor programme at TUM and LMU I joined the group biomedical big data within the scope of an internship to gain more practical experience in the fields of Bioinformatics. As I work for Markus Hoffmann, I assist with c++ programming tasks for the development of an epistasis detection tool called GenEpiSeeker.</description>
     </item>
     
     <item>
@@ -1022,6 +1022,15 @@ We develop predictive models and software tools that integrate big heterogeneous
     </item>
     
     <item>
+      <title> others</title>
+      <link>https://biomedical-big-data.de/authors/others/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Abdel Aouacheria</title>
       <link>https://biomedical-big-data.de/authors/abdel-aouacheria/</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
@@ -1099,15 +1108,6 @@ We develop predictive models and software tools that integrate big heterogeneous
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/niko-beerenwinkel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>others</title>
-      <link>https://biomedical-big-data.de/authors/others/</link>
-      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/others/</guid>
       <description></description>
     </item>
     
