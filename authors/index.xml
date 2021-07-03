@@ -41,15 +41,6 @@
     
     <item>
       <title></title>
-      <link>https://biomedical-big-data.de/authors/julian_poschenrieder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/julian_poschenrieder/</guid>
-      <description>While studying bioinformatics in the bachelor programme at TUM and LMU I joined the group biomedical big data within the scope of an internship to gain more practical experience in the fields of Bioinformatics. As I work for Markus Hoffmann, I assist with c++ programming tasks for the development of an epistasis detection tool called GenEpiSeeker.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://biomedical-big-data.de/authors/sylvie_baier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -384,6 +375,24 @@ We develop machine learning models and user-friendly software tools that integra
     
     <item>
       <title></title>
+      <link>https://biomedical-big-data.de/authors/julian_poschenrieder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/julian_poschenrieder/</guid>
+      <description>While studying bioinformatics in the bachelor programme at TUM and LMU I joined the group biomedical big data within the scope of an internship to gain more practical experience in the fields of Bioinformatics. As I work for Markus Hoffmann, I assist with c++ programming tasks for the development of an epistasis detection tool called GenEpiSeeker.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/korbinian_puerckhauer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/korbinian_puerckhauer/</guid>
+      <description>I am a bioinformatics bachelor student at the LMU and TUM. I joined the chair of experimental bioinformatics an June 2021. Currently I am working on a graph visualisation tool of gene modules enrichment as my bachelor thesis.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://biomedical-big-data.de/authors/leonora_raka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -416,6 +425,15 @@ We develop machine learning models and user-friendly software tools that integra
       
       <guid>https://biomedical-big-data.de/authors/fanny_roessler/</guid>
       <description>I’m a bioinformatics Master student at the Technical University of Munich and the LMU. I joined the Chair of Experimental Bioinformatics as a HiWi to gain more practical experience in bioinformatics during my Bachelor&amp;rsquo;s degree in October 2018, and am continuing this for my master. In March 2020 I finished my bachelor thesis on a thyrotoxicosis gene expression time series at the Chair. I will continue this and similar projects as a student research assistant.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/laura_hernandez_lorenzo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/laura_hernandez_lorenzo/</guid>
+      <description>I am a PhD student in Computer Engineering at the Complutense University of Madrid (UCM) in Spain since September 2019. In 2018 I obtained a BSc in Biotechnology, and in 2019 a MSc in Computational Biology by the Technical University of Madrid (UPM). The main goal of my Thesis is to develop different machine learning models that can help in the prediction of different forms of dementia, integrating for this purpose whole-exome data with other clinical data sources such as neuroimaging, other biomarkers, or neurocognitive tests.</description>
     </item>
     
     <item>
@@ -1022,6 +1040,15 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
+      <title> others</title>
+      <link>https://biomedical-big-data.de/authors/others/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Abdel Aouacheria</title>
       <link>https://biomedical-big-data.de/authors/abdel-aouacheria/</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
@@ -1099,15 +1126,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/niko-beerenwinkel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>others</title>
-      <link>https://biomedical-big-data.de/authors/others/</link>
-      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/others/</guid>
       <description></description>
     </item>
     
