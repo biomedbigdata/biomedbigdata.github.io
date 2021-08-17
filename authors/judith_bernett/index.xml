@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/judith_bernett/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +15,28 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/judith_bernett/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/judith_bernett/</guid>
       <description>I&amp;rsquo;m a bioinformatics master&amp;rsquo;s student at TUM and LMU and joined the Chair of Experimental Bioinformatics for my bachelor&amp;rsquo;s thesis. Here, I developed a risk score for mortality prediction in patients undergoing transcatheter aortic valve implantation. Currently, I am working as a HiWi at the chair.</description>
+    </item>
+    
+    <item>
+      <title>A Systematic Comparison of Differential Analysis Methods for CyTOF Data</title>
+      <link>https://biomedical-big-data.de/publication/arend-2021-cyanus/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/arend-2021-cyanus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CYANUS</title>
+      <link>https://biomedical-big-data.de/tool/cyanus/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/cyanus/</guid>
+      <description>An R shiny app for the analysis of cytometry data with a focus on differential analysis.</description>
     </item>
     
   </channel>

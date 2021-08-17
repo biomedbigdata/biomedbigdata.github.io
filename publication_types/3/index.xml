@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Systematic Comparison of Differential Analysis Methods for CyTOF Data</title>
+      <link>https://biomedical-big-data.de/publication/arend-2021-cyanus/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/arend-2021-cyanus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional enrichment of alternative splicing events with NEASE reveals insights into tissue identity and diseases</title>
+      <link>https://biomedical-big-data.de/publication/louadi-2021-nease/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/louadi-2021-nease/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tissue heterogeneity is prevalent in gene expression studies</title>
