@@ -18,7 +18,7 @@
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/hitseekr/</guid>
-      <description>An R shiny web application for the analysis of various types of high-throughput screening data.</description>
+      <description>Analyse various types of high-throughput screening data.</description>
     </item>
     
     <item>
@@ -76,12 +76,12 @@
     </item>
     
     <item>
-      <title>OLF</title>
+      <title>OpenLabFramework</title>
       <link>https://biomedical-big-data.de/tool/openlabframework/</link>
       <pubDate>Fri, 28 Sep 2012 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/openlabframework/</guid>
-      <description>A laboratory information management system for recombinant cell lines in functional genomics.</description>
+      <description>A laboratory information management system for functional genomics.</description>
     </item>
     
   </channel>

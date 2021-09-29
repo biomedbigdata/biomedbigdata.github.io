@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 Sep 2021 19:39:58 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>drug repurposing</title>
+      <link>https://biomedical-big-data.de/tags/drug-repurposing/</link>
+      <pubDate>Tue, 28 Sep 2021 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/drug-repurposing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>systems medicine</title>
+      <link>https://biomedical-big-data.de/tags/systems-medicine/</link>
+      <pubDate>Tue, 28 Sep 2021 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/systems-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artificial intelligence</title>
+      <link>https://biomedical-big-data.de/tags/artificial-intelligence/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://biomedical-big-data.de/tags/machine-learning/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>standards</title>
+      <link>https://biomedical-big-data.de/tags/standards/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/standards/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>microbiome</title>
@@ -18,15 +63,6 @@
       <pubDate>Tue, 04 May 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/microbiome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine learning</title>
-      <link>https://biomedical-big-data.de/tags/machine-learning/</link>
-      <pubDate>Mon, 15 Mar 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -58,7 +94,7 @@
     </item>
     
     <item>
-      <title>cell type heterogeneity</title>
+      <title>cell-type heterogeneity</title>
       <link>https://biomedical-big-data.de/tags/cell-type-heterogeneity/</link>
       <pubDate>Sat, 26 Dec 2020 00:00:00 +0100</pubDate>
       
@@ -81,15 +117,6 @@
       <pubDate>Sat, 26 Dec 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/patient-stratification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>systems medicine</title>
-      <link>https://biomedical-big-data.de/tags/systems-medicine/</link>
-      <pubDate>Sat, 26 Dec 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/systems-medicine/</guid>
       <description></description>
     </item>
     
@@ -117,15 +144,6 @@
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/federated/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>drug repurposing</title>
-      <link>https://biomedical-big-data.de/tags/drug-repurposing/</link>
-      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/drug-repurposing/</guid>
       <description></description>
     </item>
     
@@ -162,6 +180,15 @@
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/diabetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alternative splicing</title>
+      <link>https://biomedical-big-data.de/tags/alternative-splicing/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/alternative-splicing/</guid>
       <description></description>
     </item>
     
@@ -436,29 +463,11 @@
     </item>
     
     <item>
-      <title>federated machine learning</title>
-      <link>https://biomedical-big-data.de/tags/federated-machine-learning/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/federated-machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>high-throughput screening</title>
       <link>https://biomedical-big-data.de/tags/high-throughput-screening/</link>
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/high-throughput-screening/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy-preserving machine learning</title>
-      <link>https://biomedical-big-data.de/tags/privacy-preserving-machine-learning/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/privacy-preserving-machine-learning/</guid>
       <description></description>
     </item>
     

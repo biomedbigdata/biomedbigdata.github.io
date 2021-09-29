@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/zakaria_louadi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,19 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/zakaria_louadi/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/zakaria_louadi/</guid>
       <description>I&amp;rsquo;m a Ph.D student in the Chair of Experimental Bioinformatics involved in Sys_CARE project. I received a Bachelor&amp;rsquo;s degree in Electrical Engineering from Cadi Ayyad University in Marrakesh and a MSc with a focus on AI and deep learning from Jeonbuk National University in South Korea. In my master thesis, I worked on developing Deep Splicing Code a sequence-based tool for the classification of alternative splicing events. My research interests include machine learning and its applications in computational biology.</description>
+    </item>
+    
+    <item>
+      <title>The AIMe registry for artificial intelligence in biomedical research</title>
+      <link>https://biomedical-big-data.de/publication/matschinske-2021-aime/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matschinske-2021-aime/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -46,6 +55,15 @@
       
       <guid>https://biomedical-big-data.de/tool/digger/</guid>
       <description>Analyze protein-protein and domain-domain interactions in a joint graph.</description>
+    </item>
+    
+    <item>
+      <title>NEASE</title>
+      <link>https://biomedical-big-data.de/tool/nease/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/nease/</guid>
+      <description>Network-based functional enrichment of alternative splicing.</description>
     </item>
     
   </channel>

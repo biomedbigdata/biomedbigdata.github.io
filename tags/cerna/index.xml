@@ -18,7 +18,16 @@
       <pubDate>Mon, 28 Jan 2019 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/sponge/</guid>
-      <description>A bioconductor package for inferring genome-wide networks of competing endogenous RNAs.</description>
+      <description>Inferring genome-wide networks of competing endogenous RNAs.</description>
+    </item>
+    
+    <item>
+      <title>SPONGE</title>
+      <link>https://biomedical-big-data.de/tool/spongedb/</link>
+      <pubDate>Mon, 28 Jan 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/spongedb/</guid>
+      <description>A pancancer database on competing endogenous RNA regulations.</description>
     </item>
     
     <item>
@@ -27,7 +36,7 @@
       <pubDate>Sun, 28 Jan 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/jami/</guid>
-      <description>A fast Java tool for conditional mutual information in ceRNA inference and beyond.</description>
+      <description>A fast Java tool for conditional mutual information in ceRNA inference.</description>
     </item>
     
   </channel>

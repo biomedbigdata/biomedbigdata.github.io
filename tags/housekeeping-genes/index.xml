@@ -18,7 +18,7 @@
       <pubDate>Mon, 28 Oct 2019 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/housekeepr/</guid>
-      <description>An R shiny app to mine GEO datasets for tissue- and condition-specific housekeeping genes.</description>
+      <description>Mining GEO for tissue- and condition-specific normalization genes.</description>
     </item>
     
   </channel>

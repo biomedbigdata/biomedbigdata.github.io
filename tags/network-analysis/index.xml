@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>NEASE</title>
+      <link>https://biomedical-big-data.de/tool/nease/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/nease/</guid>
+      <description>Network-based functional enrichment of alternative splicing.</description>
+    </item>
+    
+    <item>
       <title>Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing</title>
       <link>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
@@ -54,7 +63,7 @@
       <pubDate>Mon, 20 Apr 2020 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/covex/</guid>
-      <description>A web app for mining the Sars-COV-&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; virus-host-drug interactome for drug repurposing candidates.</description>
+      <description>Drug repurposing on the Sars-CoV2 virus-host-drug interactome.</description>
     </item>
     
     <item>
@@ -63,7 +72,7 @@
       <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/bicon/</guid>
-      <description>A python package and web application for network-constrained biclustering for patient stratification.</description>
+      <description>Network-constrained biclustering for patient stratification.</description>
     </item>
     
     <item>
@@ -72,7 +81,16 @@
       <pubDate>Mon, 28 Jan 2019 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/sponge/</guid>
-      <description>A bioconductor package for inferring genome-wide networks of competing endogenous RNAs.</description>
+      <description>Inferring genome-wide networks of competing endogenous RNAs.</description>
+    </item>
+    
+    <item>
+      <title>SPONGE</title>
+      <link>https://biomedical-big-data.de/tool/spongedb/</link>
+      <pubDate>Mon, 28 Jan 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/spongedb/</guid>
+      <description>A pancancer database on competing endogenous RNA regulations.</description>
     </item>
     
     <item>
@@ -81,7 +99,7 @@
       <pubDate>Fri, 28 Dec 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/keypathwayminer/</guid>
-      <description>A web app for &lt;em&gt;de novo&lt;/em&gt; network enrichment, i.e. to integrate multi-omics data with the interactome.</description>
+      <description>&lt;em&gt;de novo&lt;/em&gt; network enrichment to integrate multi-omics data with the interactome.</description>
     </item>
     
     <item>
@@ -90,7 +108,7 @@
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/athena/</guid>
-      <description>An R shiny app to mine the Arabidopsis THaliana ExpressioN Atlas across plant tissues.</description>
+      <description>Mine the Arabidopsis THaliana ExpressioN Atlas across plant tissues.</description>
     </item>
     
     <item>
@@ -99,7 +117,7 @@
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/hitseekr/</guid>
-      <description>An R shiny web application for the analysis of various types of high-throughput screening data.</description>
+      <description>Analyse various types of high-throughput screening data.</description>
     </item>
     
     <item>
@@ -108,7 +126,7 @@
       <pubDate>Sun, 28 Jan 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/jami/</guid>
-      <description>A fast Java tool for conditional mutual information in ceRNA inference and beyond.</description>
+      <description>A fast Java tool for conditional mutual information in ceRNA inference.</description>
     </item>
     
   </channel>

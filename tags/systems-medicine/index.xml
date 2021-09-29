@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Sep 2021 19:39:58 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/systems-medicine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>REPO4EU</title>
+      <link>https://biomedical-big-data.de/project/repo4eu/</link>
+      <pubDate>Tue, 28 Sep 2021 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/project/repo4eu/</guid>
+      <description>REPO4EU is a euro-global platform for mechanism-based drug repurposing through real-world data and artificial intelligence covering every step from lab to phase II clinical.</description>
+    </item>
     
     <item>
       <title>BiCoN: Network-constrained biclustering of patients and omics data</title>
@@ -37,6 +46,15 @@
       
       <guid>https://biomedical-big-data.de/tool/digger/</guid>
       <description>Analyze protein-protein and domain-domain interactions in a joint graph.</description>
+    </item>
+    
+    <item>
+      <title>NEASE</title>
+      <link>https://biomedical-big-data.de/tool/nease/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/nease/</guid>
+      <description>Network-based functional enrichment of alternative splicing.</description>
     </item>
     
     <item>
@@ -72,7 +90,7 @@
       <pubDate>Mon, 20 Apr 2020 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/covex/</guid>
-      <description>A web app for mining the Sars-COV-&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; virus-host-drug interactome for drug repurposing candidates.</description>
+      <description>Drug repurposing on the Sars-CoV2 virus-host-drug interactome.</description>
     </item>
     
     <item>
@@ -81,7 +99,7 @@
       <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/bicon/</guid>
-      <description>A python package and web application for network-constrained biclustering for patient stratification.</description>
+      <description>Network-constrained biclustering for patient stratification.</description>
     </item>
     
     <item>
@@ -90,7 +108,7 @@
       <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/immunedeconv/</guid>
-      <description>An R package for running several tools for in silico cell type deconvolution for immuno-oncology.</description>
+      <description>A unifying package for in silico cell type deconvolution in immuno-oncology.</description>
     </item>
     
     <item>
@@ -99,7 +117,7 @@
       <pubDate>Fri, 28 Dec 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/keypathwayminer/</guid>
-      <description>A web app for &lt;em&gt;de novo&lt;/em&gt; network enrichment, i.e. to integrate multi-omics data with the interactome.</description>
+      <description>&lt;em&gt;de novo&lt;/em&gt; network enrichment to integrate multi-omics data with the interactome.</description>
     </item>
     
     <item>
@@ -108,16 +126,7 @@
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/hitseekr/</guid>
-      <description>An R shiny web application for the analysis of various types of high-throughput screening data.</description>
-    </item>
-    
-    <item>
-      <title>REPO-TRIAL</title>
-      <link>https://biomedical-big-data.de/project/repo-trial/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/project/repo-trial/</guid>
-      <description>The EU H2020 project REPO-TRIAL aims at developing an &lt;strong&gt;in silico&lt;/strong&gt; approach to optimise the efficacy and precision of drug repurposing trials. To this end we integrated heterogeneous data into a comprehensive interactome of disease-drug-gene interactions (a new diseasome).</description>
+      <description>Analyse various types of high-throughput screening data.</description>
     </item>
     
   </channel>

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/jan-baumbach/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The AIMe registry for artificial intelligence in biomedical research</title>
+      <link>https://biomedical-big-data.de/publication/matschinske-2021-aime/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matschinske-2021-aime/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Systematic Comparison of Differential Analysis Methods for CyTOF Data</title>
@@ -36,6 +45,15 @@
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/louadi-2021-nease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The FeatureCloud AI Store for Federated Learning in Biomedicine and Beyond</title>
+      <link>https://biomedical-big-data.de/publication/matschinske-2021-featurecloud/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matschinske-2021-featurecloud/</guid>
       <description></description>
     </item>
     

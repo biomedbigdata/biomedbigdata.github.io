@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 27 Oct 2020 13:15:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 02 Nov 2021 09:30:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Network tools for de novo endophenotyping and detecting disease mechanisms</title>
+      <link>https://biomedical-big-data.de/talk/symdroid/</link>
+      <pubDate>Tue, 02 Nov 2021 09:30:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/symdroid/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Big data for Systems Medicine</title>

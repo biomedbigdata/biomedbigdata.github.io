@@ -27,7 +27,7 @@
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/athena/</guid>
-      <description>An R shiny app to mine the Arabidopsis THaliana ExpressioN Atlas across plant tissues.</description>
+      <description>Mine the Arabidopsis THaliana ExpressioN Atlas across plant tissues.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/hitseekr/</guid>
-      <description>An R shiny web application for the analysis of various types of high-throughput screening data.</description>
+      <description>Analyse various types of high-throughput screening data.</description>
     </item>
     
     <item>
