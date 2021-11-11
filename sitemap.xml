@@ -16,7 +16,27 @@
   </url>
   
   <url>
+    <loc>https://biomedical-big-data.de/authors/franc_hysenaj/</loc>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/jennifer_fischer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/leon_schwartz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/nico_trummer/</loc>
+  </url>
+  
+  <url>
     <loc>https://biomedical-big-data.de/authors/sylvie_baier/</loc>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/vivienne_nahrstedt/</loc>
   </url>
   
   <url>
@@ -258,6 +278,11 @@
   <url>
     <loc>https://biomedical-big-data.de/talk/</loc>
     <lastmod>2021-11-02T09:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/talk/iem_augsburg/</loc>
+    <lastmod>2021-10-19T14:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -2966,16 +2991,6 @@
   <url>
     <loc>https://biomedical-big-data.de/tool/openlabframework/</loc>
     <lastmod>2012-09-28T19:39:58+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/group/group/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/group/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
