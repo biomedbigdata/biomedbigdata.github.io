@@ -12,7 +12,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/lis_arend/</loc>
-    <lastmod>2021-08-09T00:00:00+02:00</lastmod>
+    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -45,7 +45,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/judith_bernett/</loc>
-    <lastmod>2021-08-09T00:00:00+02:00</lastmod>
+    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -123,7 +123,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/melissa_klug/</loc>
-    <lastmod>2021-08-09T00:00:00+02:00</lastmod>
+    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -142,7 +142,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/olga_lazareva/</loc>
-    <lastmod>2021-08-25T00:00:00+02:00</lastmod>
+    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -152,7 +152,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/markus_list/</loc>
-    <lastmod>2021-11-02T09:30:00+01:00</lastmod>
+    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -162,7 +162,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/quirin_manz/</loc>
-    <lastmod>2021-08-09T00:00:00+02:00</lastmod>
+    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -263,14 +263,43 @@
   </url>
   
   <url>
+    <loc>https://biomedical-big-data.de/publication_types/2/</loc>
+    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication/arend-2021-cyanus/</loc>
+    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://biomedical-big-data.de/authors/</loc>
-    <lastmod>2021-11-02T09:30:00+01:00</lastmod>
+    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/</loc>
-    <lastmod>2021-11-02T09:30:00+01:00</lastmod>
+    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/dario-bongiovanni/</loc>
+    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
+    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/</loc>
+    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -319,19 +348,7 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/publication_types/2/</loc>
-    <lastmod>2021-09-02T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/jitao-david-zhang/</loc>
-    <lastmod>2021-09-02T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication_types/</loc>
     <lastmod>2021-09-02T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -367,12 +384,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/gregor-sturm/</loc>
-    <lastmod>2021-08-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
     <lastmod>2021-08-25T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -491,25 +502,8 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/publication_types/3/</loc>
-    <lastmod>2021-08-09T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication/arend-2021-cyanus/</loc>
-    <lastmod>2021-08-09T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/tool/cyanus/</loc>
     <lastmod>2021-08-09T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/dario-bongiovanni/</loc>
-    <lastmod>2021-08-09T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -580,6 +574,12 @@
   <url>
     <loc>https://biomedical-big-data.de/authors/simon-weidlich/</loc>
     <lastmod>2021-08-03T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/3/</loc>
+    <lastmod>2021-07-14T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

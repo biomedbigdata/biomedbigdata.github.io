@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 02 Nov 2021 09:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="https://biomedical-big-data.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Systematic Comparison of Novel and Existing Differential Analysis Methods for CyTOF Data</title>
+      <link>https://biomedical-big-data.de/publication/arend-2021-cyanus/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/arend-2021-cyanus/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Network tools for de novo endophenotyping and detecting disease mechanisms</title>
@@ -54,15 +63,6 @@
       <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/matschinske-2021-aime/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Systematic Comparison of Differential Analysis Methods for CyTOF Data</title>
-      <link>https://biomedical-big-data.de/publication/arend-2021-cyanus/</link>
-      <pubDate>Mon, 09 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/arend-2021-cyanus/</guid>
       <description></description>
     </item>
     

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 02 Nov 2021 09:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/markus_list/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,20 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/markus_list/</link>
-      <pubDate>Tue, 02 Nov 2021 09:30:00 +0100</pubDate>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_list/</guid>
       <description>Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.
 We develop machine learning models and user-friendly software tools that integrate big heterogeneous (OMICS) data on the network level. Our focus is on next-generation sequencing data where we seek to understand splicing and transcriptional control through histone modifications, DNA methylation, microRNAs, long non-coding and circular RNAs.</description>
+    </item>
+    
+    <item>
+      <title>A Systematic Comparison of Novel and Existing Differential Analysis Methods for CyTOF Data</title>
+      <link>https://biomedical-big-data.de/publication/arend-2021-cyanus/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/arend-2021-cyanus/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -55,15 +64,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/matschinske-2021-aime/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Systematic Comparison of Differential Analysis Methods for CyTOF Data</title>
-      <link>https://biomedical-big-data.de/publication/arend-2021-cyanus/</link>
-      <pubDate>Mon, 09 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/arend-2021-cyanus/</guid>
       <description></description>
     </item>
     
