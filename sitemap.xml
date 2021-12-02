@@ -83,7 +83,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/amit_fenn/</loc>
-    <lastmod>2021-07-14T00:00:00+02:00</lastmod>
+    <lastmod>2021-12-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -147,17 +147,17 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/chit_lio/</loc>
-    <lastmod>2021-07-14T00:00:00+02:00</lastmod>
+    <lastmod>2021-12-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/authors/markus_list/</loc>
-    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
+    <lastmod>2021-12-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/authors/zakaria_louadi/</loc>
-    <lastmod>2021-08-25T00:00:00+02:00</lastmod>
+    <lastmod>2021-12-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -237,7 +237,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/olga_tsoy/</loc>
-    <lastmod>2021-07-14T00:00:00+02:00</lastmod>
+    <lastmod>2021-12-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -264,43 +264,66 @@
   
   <url>
     <loc>https://biomedical-big-data.de/publication_types/2/</loc>
-    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
+    <lastmod>2021-12-02T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/</loc>
+    <lastmod>2021-12-02T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/</loc>
+    <lastmod>2021-12-02T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/dario-bongiovanni/</loc>
+    <lastmod>2021-12-02T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication/louadi-2021-nease/</loc>
+    <lastmod>2021-12-02T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
+    <lastmod>2021-12-02T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/maria-l-elkjaer/</loc>
+    <lastmod>2021-12-02T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/</loc>
+    <lastmod>2021-12-02T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/tim-kacprowski/</loc>
+    <lastmod>2021-12-02T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/zsolt-illes/</loc>
+    <lastmod>2021-12-02T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/publication/arend-2021-cyanus/</loc>
     <lastmod>2021-11-30T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/</loc>
-    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/</loc>
-    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/dario-bongiovanni/</loc>
-    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
-    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication_types/</loc>
-    <lastmod>2021-11-30T00:00:00+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -472,12 +495,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/tim-kacprowski/</loc>
-    <lastmod>2021-08-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/veit-schw%C3%A4mmle/</loc>
     <lastmod>2021-08-25T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -578,31 +595,14 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/publication_types/3/</loc>
-    <lastmod>2021-07-14T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication/louadi-2021-nease/</loc>
-    <lastmod>2021-07-14T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/maria-l-elkjaer/</loc>
-    <lastmod>2021-07-14T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/zsolt-illes/</loc>
-    <lastmod>2021-07-14T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/tool/namco/</loc>
     <lastmod>2021-07-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/3/</loc>
+    <lastmod>2021-05-12T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
