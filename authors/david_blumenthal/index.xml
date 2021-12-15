@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/david_blumenthal/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,19 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/david_blumenthal/</link>
-      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/david_blumenthal/</guid>
       <description>In October 2019, I will join the Chair of Experimental Bioinformatics at TU Munich as a postdoctoral researcher. My main focus will be to apply techniques from combinatorial optimization and graph theory to address problems in network biology and systems medicine. From 2007 to 2015, I studied Mathematics and Philosophy at FU Berlin and TU Berlin and received Master’s degrees in both disciplines. After that, I did a Ph.D. in Computer Science at the Free University of Bozen-Bolzano, Italy.</description>
+    </item>
+    
+    <item>
+      <title>Flimma: a federated and privacy-preserving tool for differential gene expression analysis</title>
+      <link>https://biomedical-big-data.de/publication/zolotareva-2020-flimma/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/zolotareva-2020-flimma/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -54,15 +63,6 @@
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/blumenthal-2020-genepiseeker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flimma: a federated and privacy-preserving tool for differential gene expression analysis</title>
-      <link>https://biomedical-big-data.de/publication/zolotareva-2020-flimma/</link>
-      <pubDate>Mon, 23 Nov 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/zolotareva-2020-flimma/</guid>
       <description></description>
     </item>
     

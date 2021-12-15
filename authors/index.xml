@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -55,6 +55,24 @@
       
       <guid>https://biomedical-big-data.de/authors/jennifer_fischer/</guid>
       <description>Jennifer is a bachelor student working on her thesis in microbial research. More specifically, she is simulating 16S and metagenomic sequencing data to study the effect of compositionality on the results of network inference methods. She is supervised by Monica Matchado.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/kushagra_agarwal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kushagra_agarwal/</guid>
+      <description>I am an undergraduate student at IIIT Hyderabad, India where I am a researcher at the Centre for Computational Natural Science and Bioinformatics. My research interests include the application of Machine Learning in the domain of Computational Biology specifically with an impact on Healthcare. From January 2022, I will work as a student intern in the Big Data in BioMedicine group on within-sample heterogeneity scores.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/leon_hafner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/leon_hafner/</guid>
+      <description>Leon is working on a bachelor thesis aimed at developing a hierarchical bootstrapping method for single-cell RNA-seq analysis. He is supervised by Markus List and Gregor Sturm at the Innsbruck Medical Center, Austria.</description>
     </item>
     
     <item>
@@ -114,7 +132,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/david_blumenthal/</link>
-      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/david_blumenthal/</guid>
       <description>In October 2019, I will join the Chair of Experimental Bioinformatics at TU Munich as a postdoctoral researcher. My main focus will be to apply techniques from combinatorial optimization and graph theory to address problems in network biology and systems medicine. From 2007 to 2015, I studied Mathematics and Philosophy at FU Berlin and TU Berlin and received Master’s degrees in both disciplines. After that, I did a Ph.D. in Computer Science at the Free University of Bozen-Bolzano, Italy.</description>
@@ -321,7 +339,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/markus_list/</link>
-      <pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_list/</guid>
       <description>Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.
@@ -554,20 +572,173 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
-      <title>Dario Bongiovanni</title>
-      <link>https://biomedical-big-data.de/authors/dario-bongiovanni/</link>
-      <pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
+      <title>Amir Abbasinejad</title>
+      <link>https://biomedical-big-data.de/authors/amir-abbasinejad/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://biomedical-big-data.de/authors/dario-bongiovanni/</guid>
+      <guid>https://biomedical-big-data.de/authors/amir-abbasinejad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Rückert</title>
+      <link>https://biomedical-big-data.de/authors/daniel-r%C3%BCckert/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/daniel-r%C3%BCckert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Georgios Kaissis</title>
+      <link>https://biomedical-big-data.de/authors/georgios-kaissis/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/georgios-kaissis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jan Baumbach</title>
       <link>https://biomedical-big-data.de/authors/jan-baumbach/</link>
-      <pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/jan-baumbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julian Matschinske</title>
+      <link>https://biomedical-big-data.de/authors/julian-matschinske/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/julian-matschinske/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julian Späth</title>
+      <link>https://biomedical-big-data.de/authors/julian-sp%C3%A4th/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/julian-sp%C3%A4th/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammad Bakhtiari</title>
+      <link>https://biomedical-big-data.de/authors/mohammad-bakhtiari/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/mohammad-bakhtiari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nina K Wenke</title>
+      <link>https://biomedical-big-data.de/authors/nina-k-wenke/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/nina-k-wenke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olga Zolotareva</title>
+      <link>https://biomedical-big-data.de/authors/olga-zolotareva/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/olga-zolotareva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paolo Tieri</title>
+      <link>https://biomedical-big-data.de/authors/paolo-tieri/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/paolo-tieri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reihaneh Torkzadehmahani</title>
+      <link>https://biomedical-big-data.de/authors/reihaneh-torkzadehmahani/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/reihaneh-torkzadehmahani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reza Nasirigerdeh</title>
+      <link>https://biomedical-big-data.de/authors/reza-nasirigerdeh/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/reza-nasirigerdeh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tobias Frisch</title>
+      <link>https://biomedical-big-data.de/authors/tobias-frisch/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/tobias-frisch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ana I. Casas</title>
+      <link>https://biomedical-big-data.de/authors/ana-i.-casas/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/ana-i.-casas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christina Kiel</title>
+      <link>https://biomedical-big-data.de/authors/christina-kiel/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/christina-kiel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristian Nogales</title>
+      <link>https://biomedical-big-data.de/authors/cristian-nogales/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/cristian-nogales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harald H.H.W. Schmidt</title>
+      <link>https://biomedical-big-data.de/authors/harald-h.h.w.-schmidt/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/harald-h.h.w.-schmidt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zeinab M. Mamdouh</title>
+      <link>https://biomedical-big-data.de/authors/zeinab-m.-mamdouh/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/zeinab-m.-mamdouh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dario Bongiovanni</title>
+      <link>https://biomedical-big-data.de/authors/dario-bongiovanni/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/dario-bongiovanni/</guid>
       <description></description>
     </item>
     
@@ -662,15 +833,6 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
-      <title>Julian Matschinske</title>
-      <link>https://biomedical-big-data.de/authors/julian-matschinske/</link>
-      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/julian-matschinske/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kristel Van Steen</title>
       <link>https://biomedical-big-data.de/authors/kristel-van-steen/</link>
       <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
@@ -748,15 +910,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/nina-k.-wenke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Olga Zolotareva</title>
-      <link>https://biomedical-big-data.de/authors/olga-zolotareva/</link>
-      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/olga-zolotareva/</guid>
       <description></description>
     </item>
     
@@ -986,15 +1139,6 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
-      <title>Julian Späth</title>
-      <link>https://biomedical-big-data.de/authors/julian-sp%C3%A4th/</link>
-      <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/julian-sp%C3%A4th/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Marcus Bloice</title>
       <link>https://biomedical-big-data.de/authors/marcus-bloice/</link>
       <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
@@ -1009,15 +1153,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus-kastelitz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mohammad Bakhtiari</title>
-      <link>https://biomedical-big-data.de/authors/mohammad-bakhtiari/</link>
-      <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/mohammad-bakhtiari/</guid>
       <description></description>
     </item>
     
@@ -1040,33 +1175,6 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
-      <title>Nina K Wenke</title>
-      <link>https://biomedical-big-data.de/authors/nina-k-wenke/</link>
-      <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/nina-k-wenke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reihaneh Torkzadehmahani</title>
-      <link>https://biomedical-big-data.de/authors/reihaneh-torkzadehmahani/</link>
-      <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/reihaneh-torkzadehmahani/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reza Nasirigerdeh</title>
-      <link>https://biomedical-big-data.de/authors/reza-nasirigerdeh/</link>
-      <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/reza-nasirigerdeh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rudolf Mayer</title>
       <link>https://biomedical-big-data.de/authors/rudolf-mayer/</link>
       <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
@@ -1081,15 +1189,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/s%C3%A1ndor-fej%C3%A9r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tobias Frisch</title>
-      <link>https://biomedical-big-data.de/authors/tobias-frisch/</link>
-      <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/tobias-frisch/</guid>
       <description></description>
     </item>
     
@@ -1481,15 +1580,6 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
-      <title>Paolo Tieri</title>
-      <link>https://biomedical-big-data.de/authors/paolo-tieri/</link>
-      <pubDate>Sat, 26 Dec 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/paolo-tieri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Stefan Canzar</title>
       <link>https://biomedical-big-data.de/authors/stefan-canzar/</link>
       <pubDate>Sat, 26 Dec 2020 00:00:00 +0100</pubDate>
@@ -1499,29 +1589,11 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
-      <title>Amir Abbasinejad</title>
-      <link>https://biomedical-big-data.de/authors/amir-abbasinejad/</link>
-      <pubDate>Mon, 23 Nov 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/amir-abbasinejad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Amirhossein Bayat</title>
       <link>https://biomedical-big-data.de/authors/amirhossein-bayat/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/amirhossein-bayat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> others</title>
-      <link>https://biomedical-big-data.de/authors/others/</link>
-      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/others/</guid>
       <description></description>
     </item>
     
@@ -1603,6 +1675,15 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/niko-beerenwinkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>others</title>
+      <link>https://biomedical-big-data.de/authors/others/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/others/</guid>
       <description></description>
     </item>
     
@@ -2944,6 +3025,15 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/leena-karimi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kusagra_agarwal</title>
+      <link>https://biomedical-big-data.de/authors/kusagra_agarwal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kusagra_agarwal/</guid>
       <description></description>
     </item>
     
