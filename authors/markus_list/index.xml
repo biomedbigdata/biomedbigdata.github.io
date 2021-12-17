@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/markus_list/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,20 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/markus_list/</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_list/</guid>
       <description>Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.
 We develop machine learning models and user-friendly software tools that integrate big heterogeneous (OMICS) data on the network level. Our focus is on next-generation sequencing data where we seek to understand splicing and transcriptional control through histone modifications, DNA methylation, microRNAs, long non-coding and circular RNAs.</description>
+    </item>
+    
+    <item>
+      <title>Network analysis methods for studying microbial communities: A mini review</title>
+      <link>https://biomedical-big-data.de/publication/matchado-2021-namco/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matchado-2021-namco/</guid>
+      <description></description>
     </item>
     
     <item>

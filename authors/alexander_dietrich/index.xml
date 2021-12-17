@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/alexander_dietrich/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,19 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/alexander_dietrich/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/alexander_dietrich/</guid>
       <description>I am studying Bioinformatics at the TUM and LMU as my master since 2019. I am joining the ListLab as a HIWI to continue the project of my group from the SystemsBiomedicine practical course, where we introduced a new shiny-application to explore the microbiome, including co-occurrence analysis and clustering by functional topics.</description>
+    </item>
+    
+    <item>
+      <title>Network analysis methods for studying microbial communities: A mini review</title>
+      <link>https://biomedical-big-data.de/publication/matchado-2021-namco/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matchado-2021-namco/</guid>
+      <description></description>
     </item>
     
     <item>
