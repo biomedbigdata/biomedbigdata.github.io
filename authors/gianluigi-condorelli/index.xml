@@ -7,17 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/gianluigi-condorelli/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Platelet Surface Protein Expression and Reactivity upon TRAP Stimulation after BNT162b2 Vaccination</title>
+      <title>Mass cytometry of platelet-rich plasma: a new approach to analyze platelet surface expression and reactivity</title>
       <link>https://biomedical-big-data.de/publication/klug-2021-trap/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/klug-2021-trap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platelet Surface Protein Expression and Reactivity upon TRAP Stimulation after BNT162b2 Vaccination</title>
+      <link>https://biomedical-big-data.de/publication/klug-2021-protocol/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/klug-2021-protocol/</guid>
       <description></description>
     </item>
     

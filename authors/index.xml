@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -285,7 +285,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/melissa_klug/</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/melissa_klug/</guid>
       <description>My PhD project is a connection between the Molecular Cardiology lab at the Klinikum rechts der Isar Munich and the Chair of Experimental Bioinformatics. I received my B.Sc. of Biology from the University of Hohenheim, Stuttgart, in 2015 and my M.Sc. of Biology from the LMU Munich in 2019. The results of my Master thesis at the Molecular Cardiology lab laid the foundation of this joined project. I am aiming to deeply characterize the proteome and transcriptome of human blood platelets using (sc)RNA-sequencing, mass spectrometry and single-cell mass cytometry.</description>
@@ -321,7 +321,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/olga_lazareva/</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/olga_lazareva/</guid>
       <description>I&amp;rsquo;m a PhD student in the Chair of Experimental Bioinformatics at TU Munich. In 2015, I received a B.S. in Applied Mathematics in Moscow, and after some time in the industry, I moved to Rome to do an MSc in Data Science at La Sapienza University of Rome. I wrote my Master&amp;rsquo;s thesis in the Chair of Experimental Bioinformatics on a problem of conjoint clustering of patients, networks and omics data and then stayed for my PhD.</description>
@@ -339,7 +339,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/markus_list/</link>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_list/</guid>
       <description>Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.
@@ -572,6 +572,105 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
+      <title>Dario Bongiovanni</title>
+      <link>https://biomedical-big-data.de/authors/dario-bongiovanni/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/dario-bongiovanni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giacomo Viggiani</title>
+      <link>https://biomedical-big-data.de/authors/giacomo-viggiani/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/giacomo-viggiani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gianluigi Condorelli</title>
+      <link>https://biomedical-big-data.de/authors/gianluigi-condorelli/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/gianluigi-condorelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabell Bernlochner</title>
+      <link>https://biomedical-big-data.de/authors/isabell-bernlochner/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/isabell-bernlochner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J/&amp;uumlrgen Ruland</title>
+      <link>https://biomedical-big-data.de/authors/j/uumlrgen-ruland/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/j/uumlrgen-ruland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan Baumbach</title>
+      <link>https://biomedical-big-data.de/authors/jan-baumbach/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jan-baumbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiaying Han</title>
+      <link>https://biomedical-big-data.de/authors/jiaying-han/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jiaying-han/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karl-Ludwig Laugwitz</title>
+      <link>https://biomedical-big-data.de/authors/karl-ludwig-laugwitz/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/karl-ludwig-laugwitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kilian Kirmes</title>
+      <link>https://biomedical-big-data.de/authors/kilian-kirmes/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kilian-kirmes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Rosenbaum</title>
+      <link>https://biomedical-big-data.de/authors/marc-rosenbaum/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/marc-rosenbaum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moritz von Scheidt</title>
+      <link>https://biomedical-big-data.de/authors/moritz-von-scheidt/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/moritz-von-scheidt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Beate Brandl</title>
       <link>https://biomedical-big-data.de/authors/beate-brandl/</link>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
@@ -613,15 +712,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/ilias-lagkouvardos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jan Baumbach</title>
-      <link>https://biomedical-big-data.de/authors/jan-baumbach/</link>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/jan-baumbach/</guid>
       <description></description>
     </item>
     
@@ -802,15 +892,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/zeinab-m.-mamdouh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dario Bongiovanni</title>
-      <link>https://biomedical-big-data.de/authors/dario-bongiovanni/</link>
-      <pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/dario-bongiovanni/</guid>
       <description></description>
     </item>
     
@@ -1013,74 +1094,11 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
-      <title>Gianluigi Condorelli</title>
-      <link>https://biomedical-big-data.de/authors/gianluigi-condorelli/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/gianluigi-condorelli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Isabell Bernlochner</title>
-      <link>https://biomedical-big-data.de/authors/isabell-bernlochner/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/isabell-bernlochner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J/&amp;uumlrgen Ruland</title>
-      <link>https://biomedical-big-data.de/authors/j/uumlrgen-ruland/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/j/uumlrgen-ruland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Karl-Ludwig Laugwitz</title>
-      <link>https://biomedical-big-data.de/authors/karl-ludwig-laugwitz/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/karl-ludwig-laugwitz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kilian Kirmes</title>
-      <link>https://biomedical-big-data.de/authors/kilian-kirmes/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/kilian-kirmes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marc Rosenbaum</title>
-      <link>https://biomedical-big-data.de/authors/marc-rosenbaum/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/marc-rosenbaum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Marina Lukas</title>
       <link>https://biomedical-big-data.de/authors/marina-lukas/</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/marina-lukas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moritz von Scheidt</title>
-      <link>https://biomedical-big-data.de/authors/moritz-von-scheidt/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/moritz-von-scheidt/</guid>
       <description></description>
     </item>
     
