@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/alexander_dietrich/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,19 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/alexander_dietrich/</link>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/alexander_dietrich/</guid>
       <description>I am studying Bioinformatics at the TUM and LMU as my master since 2019. I am joining the ListLab as a HIWI to continue the project of my group from the SystemsBiomedicine practical course, where we introduced a new shiny-application to explore the microbiome, including co-occurrence analysis and clustering by functional topics.</description>
+    </item>
+    
+    <item>
+      <title>Alternative splicing analysis benchmark with DICAST</title>
+      <link>https://biomedical-big-data.de/publication/fenn-2022-alternative/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/fenn-2022-alternative/</guid>
+      <description></description>
     </item>
     
     <item>

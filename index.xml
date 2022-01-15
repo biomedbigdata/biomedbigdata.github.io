@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="https://biomedical-big-data.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alternative splicing analysis benchmark with DICAST</title>
+      <link>https://biomedical-big-data.de/publication/fenn-2022-alternative/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/fenn-2022-alternative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust disease module mining via enumeration of diverse prize-collecting Steiner trees</title>
+      <link>https://biomedical-big-data.de/publication/bernett-2022-robust/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/bernett-2022-robust/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mass cytometry of platelet-rich plasma: a new approach to analyze platelet surface expression and reactivity</title>
@@ -18,6 +36,15 @@
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/klug-2021-trap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KeyPathwayMineR: de novo pathway enrichment in the R ecosystem</title>
+      <link>https://biomedical-big-data.de/publication/mechteridis-2022-keypathwayminer/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/mechteridis-2022-keypathwayminer/</guid>
       <description></description>
     </item>
     

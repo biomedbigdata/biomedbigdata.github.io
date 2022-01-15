@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -204,7 +204,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/amit_fenn/</link>
-      <pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/amit_fenn/</guid>
       <description>I&amp;rsquo;m a PhD candidate at the chair of Experimental Bioinformatics at TUM. My project is the study of alternative splicing in heart and kidney using machine learning to analyze multi-omics data. I studied cellular biology, specializing in the mitochondria, during my Master&amp;rsquo;s at LMU. For my Master&amp;rsquo;s thesis, I explored splicing within ribosomal protein genes, in the context of the biogenesis of mitochondria.</description>
@@ -303,7 +303,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/michael_lauber/</link>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/michael_lauber/</guid>
       <description>In June 2019 I started my PhD at the Chair of Experimental Bioinformatics. I have received a bachelor&amp;rsquo;s and master&amp;rsquo;s degree in Biochemistry from TUM. During my masters, I also started to study computer science at LMU. For my master thesis, I joined the lab of Alex Marson at UC San Francisco and established a CRISPR screen to study transcriptional regulation in human regulatory T cells. After finishing my studies I continued to apply CRISPR in T cells at TUM for another year.</description>
@@ -339,7 +339,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/markus_list/</link>
-      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_list/</guid>
       <description>Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.
@@ -349,7 +349,7 @@ We develop machine learning models and user-friendly software tools that integra
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/zakaria_louadi/</link>
-      <pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/zakaria_louadi/</guid>
       <description>I&amp;rsquo;m a Ph.D student in the Chair of Experimental Bioinformatics involved in Sys_CARE project. I received a Bachelor&amp;rsquo;s degree in Electrical Engineering from Cadi Ayyad University in Marrakesh and a MSc with a focus on AI and deep learning from Jeonbuk National University in South Korea. In my master thesis, I worked on developing Deep Splicing Code a sequence-based tool for the classification of alternative splicing events. My research interests include machine learning and its applications in computational biology.</description>
@@ -475,7 +475,7 @@ We develop machine learning models and user-friendly software tools that integra
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/fanny_roessler/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/fanny_roessler/</guid>
       <description>I’m a bioinformatics Master student at the Technical University of Munich and the LMU. I joined the Chair of Experimental Bioinformatics as a HiWi to gain more practical experience in bioinformatics during my Bachelor&amp;rsquo;s degree in October 2018, and am continuing this for my master. In March 2020 I finished my bachelor thesis on a thyrotoxicosis gene expression time series at the Chair. I will continue this and similar projects as a student research assistant.</description>
@@ -520,7 +520,7 @@ We develop machine learning models and user-friendly software tools that integra
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/olga_tsoy/</link>
-      <pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/olga_tsoy/</guid>
       <description>I&amp;rsquo;m a Postdoc at the Chair of Experimental Bioinformatics working on the BMBF funded Sys_CARE project about alternative splicing in cardiac and renal diseases. I graduated from Lomonosov Moscow State University and did PhD in Kharkevich Institute in Moscow at professor Gelfand lab. There I studied the evolution of transcriptional regulatory networks in bacteria. During my PhD I shortly stayed at Stowers Institute for Medical Research, Kansas-City, where I went on working on regulation of bacterial metabolic pathways.</description>
@@ -538,7 +538,7 @@ We develop machine learning models and user-friendly software tools that integra
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/alexander_dietrich/</link>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/alexander_dietrich/</guid>
       <description>I am studying Bioinformatics at the TUM and LMU as my master since 2019. I am joining the ListLab as a HIWI to continue the project of my group from the SystemsBiomedicine practical course, where we introduced a new shiny-application to explore the microbiome, including co-occurrence analysis and clustering by functional topics.</description>
@@ -547,10 +547,19 @@ We develop machine learning models and user-friendly software tools that integra
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/johannes_kersting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/johannes_kersting/</guid>
       <description>I started studying bioinformatics at the TUM and LMU in October 2016. In 2020 I got my Bachelor&amp;rsquo;s degree and I am currently studying for my Master&amp;rsquo;s degree, again in Munich. In parallel, i joined the Chair of Experimental Bioinformatics as a HiWi to get some working experience and apply my knowledge to &amp;ldquo;real-world&amp;rdquo; problems.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/tim_faro/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/tim_faro/</guid>
+      <description>I&amp;rsquo;m in my first year towards a master&amp;rsquo;s degree in Bioinformatics at the LMU and Technical University of Munich. After finishing my bachelor&amp;rsquo;s thesis on breast cancer radiomics, I continued to work at the Chair of Experimental Bioinformatics in Weihenstephan as a student research assistant to further develop my thesis project.</description>
     </item>
     
     <item>
@@ -563,12 +572,93 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
-      <title></title>
-      <link>https://biomedical-big-data.de/authors/tim_faro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Chit Tong Lio</title>
+      <link>https://biomedical-big-data.de/authors/chit-tong-lio/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
       
-      <guid>https://biomedical-big-data.de/authors/tim_faro/</guid>
-      <description>I&amp;rsquo;m in my first year towards a master&amp;rsquo;s degree in Bioinformatics at the LMU and Technical University of Munich. After finishing my bachelor&amp;rsquo;s thesis on breast cancer radiomics, I continued to work at the Chair of Experimental Bioinformatics in Weihenstephan as a student research assistant to further develop my thesis project.</description>
+      <guid>https://biomedical-big-data.de/authors/chit-tong-lio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan Baumbach</title>
+      <link>https://biomedical-big-data.de/authors/jan-baumbach/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jan-baumbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Kacprowski</title>
+      <link>https://biomedical-big-data.de/authors/tim-kacprowski/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/tim-kacprowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uwe Voelker</title>
+      <link>https://biomedical-big-data.de/authors/uwe-voelker/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/uwe-voelker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David B Blumenthal</title>
+      <link>https://biomedical-big-data.de/authors/david-b-blumenthal/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/david-b-blumenthal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dominik Krupke</title>
+      <link>https://biomedical-big-data.de/authors/dominik-krupke/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/dominik-krupke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Judith Bernett</title>
+      <link>https://biomedical-big-data.de/authors/judith-bernett/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/judith-bernett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markus List</title>
+      <link>https://biomedical-big-data.de/authors/markus-list/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/markus-list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sepideh Sadegh</title>
+      <link>https://biomedical-big-data.de/authors/sepideh-sadegh/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sepideh-sadegh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sándor P Fekete</title>
+      <link>https://biomedical-big-data.de/authors/s%C3%A1ndor-p-fekete/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/s%C3%A1ndor-p-fekete/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -617,15 +707,6 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
-      <title>Jan Baumbach</title>
-      <link>https://biomedical-big-data.de/authors/jan-baumbach/</link>
-      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/jan-baumbach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jiaying Han</title>
       <link>https://biomedical-big-data.de/authors/jiaying-han/</link>
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
@@ -667,6 +748,15 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/moritz-von-scheidt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konstantinos Mechteridis</title>
+      <link>https://biomedical-big-data.de/authors/konstantinos-mechteridis/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/konstantinos-mechteridis/</guid>
       <description></description>
     </item>
     
@@ -901,15 +991,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/maria-l-elkjaer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tim Kacprowski</title>
-      <link>https://biomedical-big-data.de/authors/tim-kacprowski/</link>
-      <pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/tim-kacprowski/</guid>
       <description></description>
     </item>
     
@@ -2008,15 +2089,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/mhaned-oubounyt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sepideh Sadegh</title>
-      <link>https://biomedical-big-data.de/authors/sepideh-sadegh/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/sepideh-sadegh/</guid>
       <description></description>
     </item>
     

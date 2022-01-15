@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/tim_faro/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +15,19 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/tim_faro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/tim_faro/</guid>
       <description>I&amp;rsquo;m in my first year towards a master&amp;rsquo;s degree in Bioinformatics at the LMU and Technical University of Munich. After finishing my bachelor&amp;rsquo;s thesis on breast cancer radiomics, I continued to work at the Chair of Experimental Bioinformatics in Weihenstephan as a student research assistant to further develop my thesis project.</description>
+    </item>
+    
+    <item>
+      <title>Alternative splicing analysis benchmark with DICAST</title>
+      <link>https://biomedical-big-data.de/publication/fenn-2022-alternative/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/fenn-2022-alternative/</guid>
+      <description></description>
     </item>
     
   </channel>

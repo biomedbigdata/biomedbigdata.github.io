@@ -7,26 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/david-b-blumenthal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing</title>
-      <link>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      <title>Robust disease module mining via enumeration of diverse prize-collecting Steiner trees</title>
+      <link>https://biomedical-big-data.de/publication/bernett-2022-robust/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0100</pubDate>
       
-      <guid>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EpiGEN: an epistasis simulation pipeline</title>
-      <link>https://biomedical-big-data.de/publication/blumenthal-2020-epigen/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/blumenthal-2020-epigen/</guid>
+      <guid>https://biomedical-big-data.de/publication/bernett-2022-robust/</guid>
       <description></description>
     </item>
     
