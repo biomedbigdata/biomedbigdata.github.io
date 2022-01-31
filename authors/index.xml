@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -303,7 +303,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/michael_lauber/</link>
-      <pubDate>Fri, 24 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/michael_lauber/</guid>
       <description>In June 2019 I started my PhD at the Chair of Experimental Bioinformatics. I have received a bachelor&amp;rsquo;s and master&amp;rsquo;s degree in Biochemistry from TUM. During my masters, I also started to study computer science at LMU. For my master thesis, I joined the lab of Alex Marson at UC San Francisco and established a CRISPR screen to study transcriptional regulation in human regulatory T cells. After finishing my studies I continued to apply CRISPR in T cells at TUM for another year.</description>
@@ -339,7 +339,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/markus_list/</link>
-      <pubDate>Mon, 24 Jan 2022 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_list/</guid>
       <description>Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.
@@ -572,6 +572,24 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
+      <title>Jan Baumbach</title>
+      <link>https://biomedical-big-data.de/authors/jan-baumbach/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/jan-baumbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konstantinos Mechteridis</title>
+      <link>https://biomedical-big-data.de/authors/konstantinos-mechteridis/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/konstantinos-mechteridis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Daniel Rückert</title>
       <link>https://biomedical-big-data.de/authors/daniel-r%C3%BCckert/</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0100</pubDate>
@@ -604,15 +622,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/georgios-kaissis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jan Baumbach</title>
-      <link>https://biomedical-big-data.de/authors/jan-baumbach/</link>
-      <pubDate>Mon, 24 Jan 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/jan-baumbach/</guid>
       <description></description>
     </item>
     
@@ -856,15 +865,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/moritz-von-scheidt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Konstantinos Mechteridis</title>
-      <link>https://biomedical-big-data.de/authors/konstantinos-mechteridis/</link>
-      <pubDate>Fri, 24 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/konstantinos-mechteridis/</guid>
       <description></description>
     </item>
     

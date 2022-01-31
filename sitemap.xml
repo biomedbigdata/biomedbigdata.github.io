@@ -140,7 +140,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/michael_lauber/</loc>
-    <lastmod>2021-12-24T00:00:00+01:00</lastmod>
+    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -160,7 +160,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/markus_list/</loc>
-    <lastmod>2022-01-24T00:00:00+01:00</lastmod>
+    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -275,19 +275,54 @@
   
   <url>
     <loc>https://biomedical-big-data.de/publication_types/2/</loc>
-    <lastmod>2022-01-24T00:00:00+01:00</lastmod>
+    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/authors/</loc>
-    <lastmod>2022-01-24T00:00:00+01:00</lastmod>
+    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/</loc>
-    <lastmod>2022-01-24T00:00:00+01:00</lastmod>
+    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
+    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication/mechteridis-2022-keypathwayminer/</loc>
+    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/konstantinos-mechteridis/</loc>
+    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/</loc>
+    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/</loc>
+    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/microbiome/</loc>
+    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -316,12 +351,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
-    <lastmod>2022-01-24T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/julian-matschinske/</loc>
     <lastmod>2022-01-24T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -335,12 +364,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/nina-k-wenke/</loc>
-    <lastmod>2022-01-24T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication_types/</loc>
     <lastmod>2022-01-24T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -404,19 +427,7 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/tags/</loc>
-    <lastmod>2022-01-06T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/uwe-voelker/</loc>
-    <lastmod>2022-01-06T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/microbiome/</loc>
     <lastmod>2022-01-06T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -524,17 +535,6 @@
   <url>
     <loc>https://biomedical-big-data.de/authors/moritz-von-scheidt/</loc>
     <lastmod>2021-12-27T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication/mechteridis-2022-keypathwayminer/</loc>
-    <lastmod>2021-12-24T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/konstantinos-mechteridis/</loc>
-    <lastmod>2021-12-24T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
