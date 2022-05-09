@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cell-type heterogeneity on Big Data in Biomedicine</title>
@@ -40,21 +40,21 @@
     </item>
     
     <item>
-      <title>WSH</title>
-      <link>https://biomedical-big-data.de/tool/wsh/</link>
-      <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tool/wsh/</guid>
-      <description>Computing within-sample heterogeneity scores from bisulfte sequencing data.</description>
-    </item>
-    
-    <item>
       <title>immunedeconv</title>
       <link>https://biomedical-big-data.de/tool/immunedeconv/</link>
       <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/immunedeconv/</guid>
       <description>A unifying package for in silico cell type deconvolution in immuno-oncology.</description>
+    </item>
+    
+    <item>
+      <title>WSH</title>
+      <link>https://biomedical-big-data.de/tool/wsh/</link>
+      <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/wsh/</guid>
+      <description>Computing within-sample heterogeneity scores from bisulfte sequencing data.</description>
     </item>
     
     <item>

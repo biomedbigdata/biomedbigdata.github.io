@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Big Data in Biomedicine</title>
@@ -11,15 +11,6 @@
     
 	<atom:link href="https://biomedical-big-data.de/authors/fanny_roessler/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://biomedical-big-data.de/authors/fanny_roessler/</link>
-      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/fanny_roessler/</guid>
-      <description>I’m a bioinformatics Master student at the Technical University of Munich and the LMU. I joined the Chair of Experimental Bioinformatics as a HiWi to gain more practical experience in bioinformatics during my Bachelor&amp;rsquo;s degree in October 2018, and am continuing this for my master. In March 2020 I finished my bachelor thesis on a thyrotoxicosis gene expression time series at the Chair. I will continue this and similar projects as a student research assistant.</description>
-    </item>
     
     <item>
       <title>Alternative splicing analysis benchmark with DICAST</title>

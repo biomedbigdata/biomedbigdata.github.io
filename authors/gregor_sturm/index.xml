@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Big Data in Biomedicine</title>
@@ -11,15 +11,6 @@
     
 	<atom:link href="https://biomedical-big-data.de/authors/gregor_sturm/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://biomedical-big-data.de/authors/gregor_sturm/</link>
-      <pubDate>Thu, 02 Sep 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/gregor_sturm/</guid>
-      <description>Gregor did his Master with us in immuno-oncology. In collaboration with Pieris Pharmaceuticals in Freising and Prof. Zlatko Trajanoski&amp;rsquo;s Lab in Innsbruck he aimed to better understand the functional orientation of immune cells in the tumor micro-environment. He continued as a PhD student in the Trajanoski lab in Innsbruck.</description>
-    </item>
     
     <item>
       <title>Tissue heterogeneity is prevalent in gene expression studies</title>

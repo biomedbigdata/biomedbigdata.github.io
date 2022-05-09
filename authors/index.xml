@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Big Data in Biomedicine</title>
@@ -811,15 +811,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/isabell-bernlochner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J/&amp;uumlrgen Ruland</title>
-      <link>https://biomedical-big-data.de/authors/j/uumlrgen-ruland/</link>
-      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/j/uumlrgen-ruland/</guid>
       <description></description>
     </item>
     
@@ -2489,6 +2480,15 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
+      <title>Alexandra K Kiemer</title>
+      <link>https://biomedical-big-data.de/authors/alexandra-k-kiemer/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/alexandra-k-kiemer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Alexandra K Kiemera</title>
       <link>https://biomedical-big-data.de/authors/alexandra-k-kiemera/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
@@ -2633,11 +2633,29 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
+      <title>Kyoung Min Kim</title>
+      <link>https://biomedical-big-data.de/authors/kyoung-min-kim/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kyoung-min-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kyoung Min Kimb</title>
       <link>https://biomedical-big-data.de/authors/kyoung-min-kimb/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/kyoung-min-kimb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyu Yun Jan</title>
+      <link>https://biomedical-big-data.de/authors/kyu-yun-jan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kyu-yun-jan/</guid>
       <description></description>
     </item>
     
@@ -2723,6 +2741,15 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
+      <title>Sonja M Kessler</title>
+      <link>https://biomedical-big-data.de/authors/sonja-m-kessler/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sonja-m-kessler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sonja M Kesslera</title>
       <link>https://biomedical-big-data.de/authors/sonja-m-kesslera/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
@@ -2773,6 +2800,15 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/tasiana-aneichyk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usama Khamis Hussein</title>
+      <link>https://biomedical-big-data.de/authors/usama-khamis-hussein/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/usama-khamis-hussein/</guid>
       <description></description>
     </item>
     
@@ -2849,56 +2885,11 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
-      <title>Alexandra K Kiemer</title>
-      <link>https://biomedical-big-data.de/authors/alexandra-k-kiemer/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/alexandra-k-kiemer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Christina S Schultheiss</title>
       <link>https://biomedical-big-data.de/authors/christina-s-schultheiss/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/christina-s-schultheiss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kyoung Min Kim</title>
-      <link>https://biomedical-big-data.de/authors/kyoung-min-kim/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/kyoung-min-kim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kyu Yun Jan</title>
-      <link>https://biomedical-big-data.de/authors/kyu-yun-jan/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/kyu-yun-jan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sonja M Kessler</title>
-      <link>https://biomedical-big-data.de/authors/sonja-m-kessler/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/sonja-m-kessler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Usama Khamis Hussein</title>
-      <link>https://biomedical-big-data.de/authors/usama-khamis-hussein/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/usama-khamis-hussein/</guid>
       <description></description>
     </item>
     
@@ -3182,11 +3173,11 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
-      <title>kusagra_agarwal</title>
-      <link>https://biomedical-big-data.de/authors/kusagra_agarwal/</link>
+      <title>J/&amp;uumlrgen Ruland</title>
+      <link>https://biomedical-big-data.de/authors/j/uumlrgen-ruland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://biomedical-big-data.de/authors/kusagra_agarwal/</guid>
+      <guid>https://biomedical-big-data.de/authors/j/uumlrgen-ruland/</guid>
       <description></description>
     </item>
     

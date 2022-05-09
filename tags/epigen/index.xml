@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EpiGEN on Big Data in Biomedicine</title>
@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/epigen/index.xml" rel="self" type="application/rss+xml" />
     

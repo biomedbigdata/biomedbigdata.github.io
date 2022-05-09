@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Big Data in Biomedicine</title>
@@ -11,15 +11,6 @@
     
 	<atom:link href="https://biomedical-big-data.de/authors/quirin_manz/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://biomedical-big-data.de/authors/quirin_manz/</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/quirin_manz/</guid>
-      <description>Since 2016 I am studying Bioinformatics at the LMU and TUM. For my bachelor thesis I joined to ListLab in 2019 to look into histone modifications&amp;rsquo; impact on alternative splicing. Since August 2019 I&amp;rsquo;m working as a hiwi.</description>
-    </item>
     
     <item>
       <title>A Systematic Comparison of Novel and Existing Differential Analysis Methods for CyTOF Data</title>
