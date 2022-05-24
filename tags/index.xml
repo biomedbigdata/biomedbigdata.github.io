@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>bulk RNA-seq</title>
+      <link>https://biomedical-big-data.de/tags/bulk-rna-seq/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/bulk-rna-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cell-type deconvolution</title>
+      <link>https://biomedical-big-data.de/tags/cell-type-deconvolution/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/cell-type-deconvolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulation</title>
+      <link>https://biomedical-big-data.de/tags/simulation/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/simulation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>microbiome</title>
@@ -238,15 +265,6 @@
     </item>
     
     <item>
-      <title>cell-type deconvolution</title>
-      <link>https://biomedical-big-data.de/tags/cell-type-deconvolution/</link>
-      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/cell-type-deconvolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DNA methylation</title>
       <link>https://biomedical-big-data.de/tags/dna-methylation/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
@@ -270,15 +288,6 @@
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>simulation</title>
-      <link>https://biomedical-big-data.de/tags/simulation/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/simulation/</guid>
       <description></description>
     </item>
     

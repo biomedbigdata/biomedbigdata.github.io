@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/francesca-finotello/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SimBu: Bias-aware simulation of bulk RNA-seq data with variable cell type composition</title>
+      <link>https://biomedical-big-data.de/publication/dietrich-2022-simbu/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/dietrich-2022-simbu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Immunedeconv: An R Package for Unified Access to Computational Methods for Estimating Immune Cell Fractions from Bulk RNA-Sequencing Data</title>

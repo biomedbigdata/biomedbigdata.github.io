@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bulk RNA-seq on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/tags/bulk-rna-seq/</link>
+    <description>Recent content in bulk RNA-seq on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/tags/bulk-rna-seq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SimBu: Bias-aware simulation of bulk RNA-seq data with variable cell type composition</title>
+      <link>https://biomedical-big-data.de/publication/dietrich-2022-simbu/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/dietrich-2022-simbu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

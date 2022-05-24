@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -339,7 +339,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/markus_list/</link>
-      <pubDate>Mon, 31 Jan 2022 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_list/</guid>
       <description>Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.
@@ -511,7 +511,7 @@ We develop machine learning models and user-friendly software tools that integra
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/gregor_sturm/</link>
-      <pubDate>Thu, 02 Sep 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/gregor_sturm/</guid>
       <description>Gregor did his Master with us in immuno-oncology. In collaboration with Pieris Pharmaceuticals in Freising and Prof. Zlatko Trajanoski&amp;rsquo;s Lab in Innsbruck he aimed to better understand the functional orientation of immune cells in the tumor micro-environment. He continued as a PhD student in the Trajanoski lab in Innsbruck.</description>
@@ -538,10 +538,10 @@ We develop machine learning models and user-friendly software tools that integra
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/alexander_dietrich/</link>
-      <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/alexander_dietrich/</guid>
-      <description>I am studying Bioinformatics at the TUM and LMU as my master since 2019. I am joining the ListLab as a HIWI to continue the project of my group from the SystemsBiomedicine practical course, where we introduced a new shiny-application to explore the microbiome, including co-occurrence analysis and clustering by functional topics.</description>
+      <description>I am a PhD student in the Big Data in Biomedicine group at TUM. I joined this group first in 2020 as a student research assistant, where I developed the R shiny app Namco, which offers multiple analysis workflows for micobiome data. I then finished my Masters thesis in 2021, where I implemented an R package called SimBu, which can be used to simulate bulk RNA sequencing datasets with variable cell type composition.</description>
     </item>
     
     <item>
@@ -569,6 +569,33 @@ We develop machine learning models and user-friendly software tools that integra
       
       <guid>https://biomedical-big-data.de/authors/norman_roggendorf/</guid>
       <description>Norman joined our group as a student research assistant in 2021 and is responsible for maintaining our wiki. He is also involved in our research on competing endogenous RNAs where is is supervised by Markus Hoffmann.</description>
+    </item>
+    
+    <item>
+      <title>Federico Marini</title>
+      <link>https://biomedical-big-data.de/authors/federico-marini/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/federico-marini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francesca Finotello</title>
+      <link>https://biomedical-big-data.de/authors/francesca-finotello/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/francesca-finotello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorenzo Merotto</title>
+      <link>https://biomedical-big-data.de/authors/lorenzo-merotto/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/lorenzo-merotto/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -2305,15 +2332,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/fabian-m%C3%BCller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Francesca Finotello</title>
-      <link>https://biomedical-big-data.de/authors/francesca-finotello/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/francesca-finotello/</guid>
       <description></description>
     </item>
     

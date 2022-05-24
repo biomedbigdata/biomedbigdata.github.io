@@ -160,7 +160,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/markus_list/</loc>
-    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
+    <lastmod>2022-05-06T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -241,7 +241,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/gregor_sturm/</loc>
-    <lastmod>2021-09-02T00:00:00+02:00</lastmod>
+    <lastmod>2022-05-06T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -256,7 +256,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/alexander_dietrich/</loc>
-    <lastmod>2022-01-06T00:00:00+01:00</lastmod>
+    <lastmod>2022-05-06T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -274,17 +274,67 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/publication_types/2/</loc>
-    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
+    <loc>https://biomedical-big-data.de/publication_types/3/</loc>
+    <lastmod>2022-05-06T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/authors/</loc>
-    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
+    <lastmod>2022-05-06T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/</loc>
+    <lastmod>2022-05-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/bulk-rna-seq/</loc>
+    <lastmod>2022-05-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/cell-type-deconvolution/</loc>
+    <lastmod>2022-05-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/federico-marini/</loc>
+    <lastmod>2022-05-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/francesca-finotello/</loc>
+    <lastmod>2022-05-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/lorenzo-merotto/</loc>
+    <lastmod>2022-05-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/</loc>
+    <lastmod>2022-05-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication/dietrich-2022-simbu/</loc>
+    <lastmod>2022-05-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/simulation/</loc>
+    <lastmod>2022-05-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/</loc>
+    <lastmod>2022-05-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/2/</loc>
     <lastmod>2022-01-31T00:00:00+01:00</lastmod>
   </url>
   
@@ -305,16 +355,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/tags/microbiome/</loc>
-    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication_types/</loc>
-    <lastmod>2022-01-31T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/</loc>
     <lastmod>2022-01-31T00:00:00+01:00</lastmod>
   </url>
   
@@ -386,11 +426,6 @@
   <url>
     <loc>https://biomedical-big-data.de/authors/uwe-v%C3%B6lker/</loc>
     <lastmod>2022-01-24T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/publication_types/3/</loc>
-    <lastmod>2022-01-06T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -1589,11 +1624,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/tags/cell-type-deconvolution/</loc>
-    <lastmod>2020-03-11T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/tags/dna-methylation/</loc>
     <lastmod>2020-03-11T00:00:00+01:00</lastmod>
   </url>
@@ -1659,11 +1689,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/tags/simulation/</loc>
-    <lastmod>2020-02-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/tags/software/</loc>
     <lastmod>2020-02-05T00:00:00+01:00</lastmod>
   </url>
@@ -1710,11 +1735,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/fabian-m%C3%BCller/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/francesca-finotello/</loc>
     <lastmod>2020-01-01T00:00:00+01:00</lastmod>
   </url>
   
