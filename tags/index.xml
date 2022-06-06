@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 17 May 2022 19:39:58 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>drug repurposing</title>
+      <link>https://biomedical-big-data.de/tags/drug-repurposing/</link>
+      <pubDate>Tue, 17 May 2022 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/drug-repurposing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network analysis</title>
+      <link>https://biomedical-big-data.de/tags/network-analysis/</link>
+      <pubDate>Tue, 17 May 2022 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/network-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>systems medicine</title>
+      <link>https://biomedical-big-data.de/tags/systems-medicine/</link>
+      <pubDate>Tue, 17 May 2022 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/systems-medicine/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>bulk RNA-seq</title>
@@ -40,6 +67,42 @@
     </item>
     
     <item>
+      <title>ceRNA</title>
+      <link>https://biomedical-big-data.de/tags/cerna/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/cerna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://biomedical-big-data.de/tags/machine-learning/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miRNA</title>
+      <link>https://biomedical-big-data.de/tags/mirna/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/mirna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miRNA regulation</title>
+      <link>https://biomedical-big-data.de/tags/mirna-regulation/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/mirna-regulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>microbiome</title>
       <link>https://biomedical-big-data.de/tags/microbiome/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0100</pubDate>
@@ -58,20 +121,29 @@
     </item>
     
     <item>
-      <title>drug repurposing</title>
-      <link>https://biomedical-big-data.de/tags/drug-repurposing/</link>
+      <title>computational life sciences</title>
+      <link>https://biomedical-big-data.de/tags/computational-life-sciences/</link>
       <pubDate>Tue, 28 Sep 2021 19:39:58 +0200</pubDate>
       
-      <guid>https://biomedical-big-data.de/tags/drug-repurposing/</guid>
+      <guid>https://biomedical-big-data.de/tags/computational-life-sciences/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>systems medicine</title>
-      <link>https://biomedical-big-data.de/tags/systems-medicine/</link>
+      <title>infectious diseases</title>
+      <link>https://biomedical-big-data.de/tags/infectious-diseases/</link>
       <pubDate>Tue, 28 Sep 2021 19:39:58 +0200</pubDate>
       
-      <guid>https://biomedical-big-data.de/tags/systems-medicine/</guid>
+      <guid>https://biomedical-big-data.de/tags/infectious-diseases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network medicine</title>
+      <link>https://biomedical-big-data.de/tags/network-medicine/</link>
+      <pubDate>Tue, 28 Sep 2021 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/network-medicine/</guid>
       <description></description>
     </item>
     
@@ -81,15 +153,6 @@
       <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine learning</title>
-      <link>https://biomedical-big-data.de/tags/machine-learning/</link>
-      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -175,15 +238,6 @@
     </item>
     
     <item>
-      <title>network analysis</title>
-      <link>https://biomedical-big-data.de/tags/network-analysis/</link>
-      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/network-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>16S rRNA amplicon sequencing</title>
       <link>https://biomedical-big-data.de/tags/16s-rrna-amplicon-sequencing/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
@@ -252,15 +306,6 @@
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/hackathon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>network medicine</title>
-      <link>https://biomedical-big-data.de/tags/network-medicine/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/network-medicine/</guid>
       <description></description>
     </item>
     
@@ -378,33 +423,6 @@
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ceRNA</title>
-      <link>https://biomedical-big-data.de/tags/cerna/</link>
-      <pubDate>Mon, 28 Jan 2019 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/cerna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>miRNA</title>
-      <link>https://biomedical-big-data.de/tags/mirna/</link>
-      <pubDate>Mon, 28 Jan 2019 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/mirna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>miRNA regulation</title>
-      <link>https://biomedical-big-data.de/tags/mirna-regulation/</link>
-      <pubDate>Mon, 28 Jan 2019 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/mirna-regulation/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 16 May 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/manuela_lautizi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Limits of Molecular Signatures for Pancreatic Ductal Adenocarcinoma Subtyping</title>
+      <link>https://biomedical-big-data.de/publication/lautizi-2022-pdac-subtypes/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lautizi-2022-pdac-subtypes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-Omics Analysis in a Network Context (in &#34;Reference Module in Biomedical Sciences&#34;)</title>

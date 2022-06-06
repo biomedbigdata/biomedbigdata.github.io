@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 16 May 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Limits of Molecular Signatures for Pancreatic Ductal Adenocarcinoma Subtyping</title>
+      <link>https://biomedical-big-data.de/publication/lautizi-2022-pdac-subtypes/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lautizi-2022-pdac-subtypes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SimBu: Bias-aware simulation of bulk RNA-seq data with variable cell type composition</title>
@@ -18,6 +27,42 @@
       <pubDate>Fri, 06 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/dietrich-2022-simbu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DysRegNet: Patient-specific and confounder-aware dysregulated network inference</title>
+      <link>https://biomedical-big-data.de/publication/lazareva-2022-dysregnet/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lazareva-2022-dysregnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic analysis of alternative splicing in time course data using Spycone</title>
+      <link>https://biomedical-big-data.de/publication/lio-2022-spycone/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lio-2022-spycone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Regulatory Network Inference in the Presence of Missing Data</title>
+      <link>https://biomedical-big-data.de/publication/henao-2022-kimono/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/henao-2022-kimono/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spongEffects: ceRNA modules offer patient-specific insights into the miRNA regulatory landscape</title>
+      <link>https://biomedical-big-data.de/publication/boniolo-2022-spongeffects/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/boniolo-2022-spongeffects/</guid>
       <description></description>
     </item>
     

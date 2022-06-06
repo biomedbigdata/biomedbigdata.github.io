@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan D. Henao on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/juan-d.-henao/</link>
+    <description>Recent content in Juan D. Henao on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/juan-d.-henao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-Omics Regulatory Network Inference in the Presence of Missing Data</title>
+      <link>https://biomedical-big-data.de/publication/henao-2022-kimono/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/henao-2022-kimono/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
