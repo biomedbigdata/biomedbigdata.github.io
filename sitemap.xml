@@ -48,10 +48,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/sylvie_baier/</loc>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/vivienne_nahrstedt/</loc>
   </url>
   
@@ -213,6 +209,10 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/julian_poschenrieder/</loc>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/sylvie_baier/</loc>
   </url>
   
   <url>
@@ -444,6 +444,31 @@
   </url>
   
   <url>
+    <loc>https://biomedical-big-data.de/tags/cerna/</loc>
+    <lastmod>2022-04-15T19:39:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/machine-learning/</loc>
+    <lastmod>2022-04-15T19:39:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/mirna/</loc>
+    <lastmod>2022-04-15T19:39:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/mirna-regulation/</loc>
+    <lastmod>2022-04-15T19:39:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tool/spongeffects/</loc>
+    <lastmod>2022-04-15T19:39:58+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://biomedical-big-data.de/authors/a.-gordon-robertson/</loc>
     <lastmod>2022-04-15T00:00:00+02:00</lastmod>
   </url>
@@ -464,11 +489,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/tags/cerna/</loc>
-    <lastmod>2022-04-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/christoph-ogris/</loc>
     <lastmod>2022-04-15T00:00:00+02:00</lastmod>
   </url>
@@ -484,27 +504,12 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/tags/machine-learning/</loc>
-    <lastmod>2022-04-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/manuel-azevedo/</loc>
     <lastmod>2022-04-15T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/authors/mauro-castro/</loc>
-    <lastmod>2022-04-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/mirna/</loc>
-    <lastmod>2022-04-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/mirna-regulation/</loc>
     <lastmod>2022-04-15T00:00:00+02:00</lastmod>
   </url>
   

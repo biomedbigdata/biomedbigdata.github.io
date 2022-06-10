@@ -18,7 +18,16 @@
       <pubDate>Tue, 17 May 2022 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tool/caddie/</guid>
-      <description>Cancer driver drug interaction explorer .</description>
+      <description>Cancer driver drug interaction explorer for drug repurposing in oncology.</description>
+    </item>
+    
+    <item>
+      <title>spongEffects</title>
+      <link>https://biomedical-big-data.de/tool/spongeffects/</link>
+      <pubDate>Fri, 15 Apr 2022 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/spongeffects/</guid>
+      <description>ceRNA modules offer patient-specific insights into miRNA regulation.</description>
     </item>
     
     <item>
@@ -103,7 +112,7 @@
     </item>
     
     <item>
-      <title>SPONGE</title>
+      <title>SPONGEdb</title>
       <link>https://biomedical-big-data.de/tool/spongedb/</link>
       <pubDate>Mon, 28 Jan 2019 19:39:58 +0200</pubDate>
       

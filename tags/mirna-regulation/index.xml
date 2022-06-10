@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 15 Apr 2022 19:39:58 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/mirna-regulation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>spongEffects</title>
+      <link>https://biomedical-big-data.de/tool/spongeffects/</link>
+      <pubDate>Fri, 15 Apr 2022 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/spongeffects/</guid>
+      <description>ceRNA modules offer patient-specific insights into miRNA regulation.</description>
+    </item>
     
     <item>
       <title>spongEffects: ceRNA modules offer patient-specific insights into the miRNA regulatory landscape</title>
@@ -31,7 +40,7 @@
     </item>
     
     <item>
-      <title>SPONGE</title>
+      <title>SPONGEdb</title>
       <link>https://biomedical-big-data.de/tool/spongedb/</link>
       <pubDate>Mon, 28 Jan 2019 19:39:58 +0200</pubDate>
       
