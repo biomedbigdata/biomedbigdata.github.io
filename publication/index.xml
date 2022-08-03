@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>Namco: A microbiome explorer</title>
+      <link>https://biomedical-big-data.de/publication/matchado-2021-namco/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matchado-2021-namco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un-biased housekeeping gene panel selection for high-validity gene expression analysis</title>
+      <link>https://biomedical-big-data.de/publication/casas-2022-housekeepr/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/casas-2022-housekeepr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cancer driver drug interaction explorer</title>
       <link>https://biomedical-big-data.de/publication/hartung-2022-caddie/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0200</pubDate>
@@ -117,15 +135,6 @@
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/klug-2021-trap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Namco: A microbiome explorer</title>
-      <link>https://biomedical-big-data.de/publication/matchado-2021-namco/</link>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/matchado-2021-namco/</guid>
       <description></description>
     </item>
     

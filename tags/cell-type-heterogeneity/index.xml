@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cell-type heterogeneity on Big Data in Biomedicine</title>
+    <title>cell type heterogeneity on Big Data in Biomedicine</title>
     <link>https://biomedical-big-data.de/tags/cell-type-heterogeneity/</link>
-    <description>Recent content in cell-type heterogeneity on Big Data in Biomedicine</description>
+    <description>Recent content in cell type heterogeneity on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/cell-type-heterogeneity/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Un-biased housekeeping gene panel selection for high-validity gene expression analysis</title>
+      <link>https://biomedical-big-data.de/publication/casas-2022-housekeepr/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/casas-2022-housekeepr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BiCoN: Network-constrained biclustering of patients and omics data</title>

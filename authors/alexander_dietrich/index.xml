@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/alexander_dietrich/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Namco: A microbiome explorer</title>
+      <link>https://biomedical-big-data.de/publication/matchado-2021-namco/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matchado-2021-namco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimBu</title>
+      <link>https://biomedical-big-data.de/tool/simbu/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/simbu/</guid>
+      <description>A simulator for bulk RNA-seq datasets with variable cell-type fractions written in R</description>
+    </item>
     
     <item>
       <title>SimBu: Bias-aware simulation of bulk RNA-seq data with variable cell type composition</title>
@@ -27,15 +45,6 @@
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/fenn-2022-alternative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Namco: A microbiome explorer</title>
-      <link>https://biomedical-big-data.de/publication/matchado-2021-namco/</link>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/matchado-2021-namco/</guid>
       <description></description>
     </item>
     
