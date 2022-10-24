@@ -16,6 +16,21 @@
   </url>
   
   <url>
+    <loc>https://biomedical-big-data.de/authors/lina_willruth/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/nico_trummer/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/norman_roggendorf/</loc>
+    <lastmod>2022-04-15T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://biomedical-big-data.de/authors/franc_hysenaj/</loc>
   </url>
   
@@ -40,11 +55,15 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/lina_willruth/</loc>
+    <loc>https://biomedical-big-data.de/authors/maximilian_harl/</loc>
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/nico_trummer/</loc>
+    <loc>https://biomedical-big-data.de/authors/mira_kreuzer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/paul_wissenberg/</loc>
   </url>
   
   <url>
@@ -62,7 +81,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/david_blumenthal/</loc>
-    <lastmod>2022-05-01T00:00:00+02:00</lastmod>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -127,7 +146,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/markus_hoffmann/</loc>
-    <lastmod>2022-04-15T00:00:00+02:00</lastmod>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -155,7 +174,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/olga_lazareva/</loc>
-    <lastmod>2022-05-01T00:00:00+02:00</lastmod>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -165,7 +184,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/markus_list/</loc>
-    <lastmod>2022-08-02T00:00:00+02:00</lastmod>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -232,16 +251,18 @@
   </url>
   
   <url>
+    <loc>https://biomedical-big-data.de/authors/laura_hernandez_lorenzo/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://biomedical-big-data.de/authors/fanny_roessler/</loc>
     <lastmod>2022-01-06T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/laura_hernandez_lorenzo/</loc>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/evelyn_scheibling/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -260,7 +281,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/kevin_yuan/</loc>
-    <lastmod>2020-12-26T00:00:00+01:00</lastmod>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -274,23 +295,143 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/norman_roggendorf/</loc>
-    <lastmod>2022-04-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/tim_faro/</loc>
     <lastmod>2022-01-06T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/publication_types/2/</loc>
-    <lastmod>2022-08-02T00:00:00+02:00</lastmod>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/3/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/authors/</loc>
-    <lastmod>2022-08-02T00:00:00+02:00</lastmod>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/deep-learning/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/epigen/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/epigenetics/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/florian-schmidt/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/genetics/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/gwas/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/hye-kyung-lee/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/jakub-jankowski/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/java/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/jordi-a.-mat%C3%ADas-guiu/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/jose-l.-ayala/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/lothar-hennighausen/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/machine-learning/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/marcel-h.-schulz/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/nina-baumgarten/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication/hernandez-2022-graphneuralnetworks_alzheimers_gwas/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/pipeline/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication/hoffmann-2022-tfprioritizer/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/tfs/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/transcription-factors/</loc>
+    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -300,11 +441,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/benjamin-%C3%B6lke/</loc>
-    <lastmod>2022-08-02T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/</loc>
     <lastmod>2022-08-02T00:00:00+02:00</lastmod>
   </url>
   
@@ -324,11 +460,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
-    <lastmod>2022-08-02T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/maximilian-zwiebel/</loc>
     <lastmod>2022-08-02T00:00:00+02:00</lastmod>
   </url>
@@ -344,17 +475,7 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/publication_types/</loc>
-    <lastmod>2022-08-02T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/sandra-reitmeier/</loc>
-    <lastmod>2022-08-02T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/</loc>
     <lastmod>2022-08-02T00:00:00+02:00</lastmod>
   </url>
   
@@ -469,11 +590,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/publication_types/3/</loc>
-    <lastmod>2022-05-16T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/katja-steiger/</loc>
     <lastmod>2022-05-16T00:00:00+02:00</lastmod>
   </url>
@@ -550,11 +666,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/tags/cerna/</loc>
-    <lastmod>2022-04-15T19:39:58+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/machine-learning/</loc>
     <lastmod>2022-04-15T19:39:58+02:00</lastmod>
   </url>
   
@@ -1239,11 +1350,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/authors/florian-schmidt/</loc>
-    <lastmod>2021-03-15T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/authors/j%C3%B6rn-walter/</loc>
     <lastmod>2021-03-15T00:00:00+01:00</lastmod>
   </url>
@@ -1420,11 +1526,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/tags/epistasis/</loc>
-    <lastmod>2020-11-30T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/gwas/</loc>
     <lastmod>2020-11-30T00:00:00+01:00</lastmod>
   </url>
   
@@ -1724,22 +1825,12 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/tags/epigen/</loc>
-    <lastmod>2020-05-27T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/tags/epigenomics/</loc>
     <lastmod>2020-05-27T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://biomedical-big-data.de/publication/baumgarten-2020-epiregio/</loc>
-    <lastmod>2020-05-27T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/nina-baumgarten/</loc>
     <lastmod>2020-05-27T00:00:00+02:00</lastmod>
   </url>
   
@@ -2025,11 +2116,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/kevan-hosseini/</loc>
-    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/marcel-h.-schulz/</loc>
     <lastmod>2019-11-01T00:00:00+01:00</lastmod>
   </url>
   
@@ -2550,11 +2636,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/publication/hornakova-2018-jami/</loc>
-    <lastmod>2018-04-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/java/</loc>
     <lastmod>2018-04-01T00:00:00+02:00</lastmod>
   </url>
   

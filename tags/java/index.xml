@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Java on Big Data in Biomedicine</title>
+    <title>java on Big Data in Biomedicine</title>
     <link>https://biomedical-big-data.de/tags/java/</link>
-    <description>Recent content in Java on Big Data in Biomedicine</description>
+    <description>Recent content in java on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TF-Prioritizer: a java pipeline to prioritize condition-specific transcription factors</title>
+      <link>https://biomedical-big-data.de/publication/hoffmann-2022-tfprioritizer/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hoffmann-2022-tfprioritizer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>JAMI - Fast computation of Conditional Mutual Information for ceRNA network analysis</title>
