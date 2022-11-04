@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>TF-Prioritizer</title>
+      <link>https://biomedical-big-data.de/tool/tf-prioritizer/</link>
+      <pubDate>Mon, 24 Oct 2022 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/tf-prioritizer/</guid>
+      <description>a java pipeline to prioritize condition-specific transcription factors</description>
+    </item>
+    
+    <item>
       <title>SimBu</title>
       <link>https://biomedical-big-data.de/tool/simbu/</link>
       <pubDate>Tue, 07 Jun 2022 00:00:00 +0200</pubDate>

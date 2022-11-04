@@ -300,6 +300,51 @@
   </url>
   
   <url>
+    <loc>https://biomedical-big-data.de/</loc>
+    <lastmod>2022-10-24T19:39:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/epigen/</loc>
+    <lastmod>2022-10-24T19:39:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/epigenetics/</loc>
+    <lastmod>2022-10-24T19:39:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/java/</loc>
+    <lastmod>2022-10-24T19:39:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/pipeline/</loc>
+    <lastmod>2022-10-24T19:39:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/</loc>
+    <lastmod>2022-10-24T19:39:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tool/tf-prioritizer/</loc>
+    <lastmod>2022-10-24T19:39:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/tfs/</loc>
+    <lastmod>2022-10-24T19:39:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/tags/transcription-factors/</loc>
+    <lastmod>2022-10-24T19:39:58+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://biomedical-big-data.de/publication_types/2/</loc>
     <lastmod>2022-10-21T00:00:00+02:00</lastmod>
   </url>
@@ -315,22 +360,7 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/</loc>
-    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/tags/deep-learning/</loc>
-    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/epigen/</loc>
-    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/epigenetics/</loc>
     <lastmod>2022-10-21T00:00:00+02:00</lastmod>
   </url>
   
@@ -361,11 +391,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/jan-baumbach/</loc>
-    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/java/</loc>
     <lastmod>2022-10-21T00:00:00+02:00</lastmod>
   </url>
   
@@ -405,32 +430,12 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/tags/pipeline/</loc>
-    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/publication_types/</loc>
     <lastmod>2022-10-21T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/tags/</loc>
-    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/publication/hoffmann-2022-tfprioritizer/</loc>
-    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/tfs/</loc>
-    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/tags/transcription-factors/</loc>
     <lastmod>2022-10-21T00:00:00+02:00</lastmod>
   </url>
   

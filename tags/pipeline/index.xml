@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Oct 2022 19:39:58 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/pipeline/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TF-Prioritizer</title>
+      <link>https://biomedical-big-data.de/tool/tf-prioritizer/</link>
+      <pubDate>Mon, 24 Oct 2022 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/tf-prioritizer/</guid>
+      <description>a java pipeline to prioritize condition-specific transcription factors</description>
+    </item>
     
     <item>
       <title>TF-Prioritizer: a java pipeline to prioritize condition-specific transcription factors</title>
