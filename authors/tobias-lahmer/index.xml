@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tobias Lahmer on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/tobias-lahmer/</link>
+    <description>Recent content in Tobias Lahmer on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/tobias-lahmer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gut Microbial Disruption in Critically Ill Patients with COVID-19-Associated Pulmonary Aspergillosis</title>
+      <link>https://biomedical-big-data.de/publication/maurer-2022-gut-microbiome-covid-aspergillosis/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/maurer-2022-gut-microbiome-covid-aspergillosis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

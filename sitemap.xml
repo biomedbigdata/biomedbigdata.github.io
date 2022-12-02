@@ -184,7 +184,7 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/markus_list/</loc>
-    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -300,8 +300,98 @@
   </url>
   
   <url>
+    <loc>https://biomedical-big-data.de/publication_types/2/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://biomedical-big-data.de/</loc>
-    <lastmod>2022-10-24T19:39:58+02:00</lastmod>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/carlo-maurer/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/david-schult/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/dirk-haller/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication/maurer-2022-gut-microbiome-covid-aspergillosis/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/katja-steiger/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/klaus-neuhaus/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/klaus-peter-janssen/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/michael-quante/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/moritz-middelhoff/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/plamena-koyumdzhieva/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/publication_types/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/roland-m.-schmid/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/sandra-reitmeier/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/sebastian-rasch/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/tobias-lahmer/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biomedical-big-data.de/authors/ulrike-protzer/</loc>
+    <lastmod>2022-11-30T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -345,17 +435,7 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/publication_types/2/</loc>
-    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/publication_types/3/</loc>
-    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/</loc>
     <lastmod>2022-10-21T00:00:00+02:00</lastmod>
   </url>
   
@@ -430,11 +510,6 @@
   </url>
   
   <url>
-    <loc>https://biomedical-big-data.de/publication_types/</loc>
-    <lastmod>2022-10-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://biomedical-big-data.de/publication/hoffmann-2022-tfprioritizer/</loc>
     <lastmod>2022-10-21T00:00:00+02:00</lastmod>
   </url>
@@ -446,11 +521,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/benjamin-%C3%B6lke/</loc>
-    <lastmod>2022-08-02T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/dirk-haller/</loc>
     <lastmod>2022-08-02T00:00:00+02:00</lastmod>
   </url>
   
@@ -476,11 +546,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/publication/matchado-2021-namco/</loc>
-    <lastmod>2022-08-02T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/sandra-reitmeier/</loc>
     <lastmod>2022-08-02T00:00:00+02:00</lastmod>
   </url>
   
@@ -592,11 +657,6 @@
   <url>
     <loc>https://biomedical-big-data.de/authors/zeinab-m.-mamdouh/</loc>
     <lastmod>2022-05-17T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/katja-steiger/</loc>
-    <lastmod>2022-05-16T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1431,11 +1491,6 @@
   
   <url>
     <loc>https://biomedical-big-data.de/authors/isabel-abellan-schneyder/</loc>
-    <lastmod>2021-02-25T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biomedical-big-data.de/authors/klaus-neuhaus/</loc>
     <lastmod>2021-02-25T00:00:00+01:00</lastmod>
   </url>
   

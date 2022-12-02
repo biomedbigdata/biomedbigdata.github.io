@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -384,7 +384,7 @@
     <item>
       <title></title>
       <link>https://biomedical-big-data.de/authors/markus_list/</link>
-      <pubDate>Fri, 21 Oct 2022 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_list/</guid>
       <description>Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.
@@ -617,6 +617,132 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
+      <title>Carlo Maurer</title>
+      <link>https://biomedical-big-data.de/authors/carlo-maurer/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/carlo-maurer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Schult</title>
+      <link>https://biomedical-big-data.de/authors/david-schult/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/david-schult/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dirk Haller</title>
+      <link>https://biomedical-big-data.de/authors/dirk-haller/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/dirk-haller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katja Steiger</title>
+      <link>https://biomedical-big-data.de/authors/katja-steiger/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/katja-steiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klaus Neuhaus</title>
+      <link>https://biomedical-big-data.de/authors/klaus-neuhaus/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/klaus-neuhaus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klaus-Peter Janssen</title>
+      <link>https://biomedical-big-data.de/authors/klaus-peter-janssen/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/klaus-peter-janssen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Quante</title>
+      <link>https://biomedical-big-data.de/authors/michael-quante/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/michael-quante/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moritz Middelhoff</title>
+      <link>https://biomedical-big-data.de/authors/moritz-middelhoff/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/moritz-middelhoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plamena Koyumdzhieva</title>
+      <link>https://biomedical-big-data.de/authors/plamena-koyumdzhieva/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/plamena-koyumdzhieva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roland M. Schmid</title>
+      <link>https://biomedical-big-data.de/authors/roland-m.-schmid/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/roland-m.-schmid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandra Reitmeier</title>
+      <link>https://biomedical-big-data.de/authors/sandra-reitmeier/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sandra-reitmeier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Rasch</title>
+      <link>https://biomedical-big-data.de/authors/sebastian-rasch/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/sebastian-rasch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tobias Lahmer</title>
+      <link>https://biomedical-big-data.de/authors/tobias-lahmer/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/tobias-lahmer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ulrike Protzer</title>
+      <link>https://biomedical-big-data.de/authors/ulrike-protzer/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/ulrike-protzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Florian Schmidt</title>
       <link>https://biomedical-big-data.de/authors/florian-schmidt/</link>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0200</pubDate>
@@ -716,15 +842,6 @@ We develop machine learning models and user-friendly software tools that integra
     </item>
     
     <item>
-      <title>Dirk Haller</title>
-      <link>https://biomedical-big-data.de/authors/dirk-haller/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/dirk-haller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hans Hauner</title>
       <link>https://biomedical-big-data.de/authors/hans-hauner/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0200</pubDate>
@@ -748,15 +865,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/maximilian-zwiebel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sandra Reitmeier</title>
-      <link>https://biomedical-big-data.de/authors/sandra-reitmeier/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/sandra-reitmeier/</guid>
       <description></description>
     </item>
     
@@ -874,15 +982,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Tue, 17 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/zeinab-m.-mamdouh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Katja Steiger</title>
-      <link>https://biomedical-big-data.de/authors/katja-steiger/</link>
-      <pubDate>Mon, 16 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/katja-steiger/</guid>
       <description></description>
     </item>
     
@@ -1954,15 +2053,6 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/isabel-abellan-schneyder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Klaus Neuhaus</title>
-      <link>https://biomedical-big-data.de/authors/klaus-neuhaus/</link>
-      <pubDate>Thu, 25 Feb 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/authors/klaus-neuhaus/</guid>
       <description></description>
     </item>
     
