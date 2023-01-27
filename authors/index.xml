@@ -36,7 +36,7 @@
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/markus_hoffmann/</guid>
-      <description>In March 2019, I joined the group, biomedical big data as part of my master’s degree internship. During this time, I contributed to implementing SPONGEdb: A pan-cancer resource for competing endogenous RNA interactions. After my internship, I extended my work at the group as a HIWI working for Dr. David Blumenthal on C++ programming tasks, which helped to implement a framework for modeling epistatic interaction. As the framework results were promising, I chose to intensify my work in this field as part of my Master’s Thesis.</description>
+      <description>In March 2019, I joined the group, biomedical big data as part of my master’s degree internship. During this time, I contributed to implementing SPONGEdb: A pan-cancer resource for competing endogenous RNA interactions. After my internship, I extended my work at the group as a HIWI working for Dr. David Blumenthal on C++ programming tasks, which helped to implement a framework for modeling epistatic interaction. As the framework results were promising, I chose to intensify my work in this field as part of my master’s thesis.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/alexander_dietrich/</guid>
-      <description>I am a PhD student in the Big Data in Biomedicine group at TUM. I joined this group first in 2020 as a student research assistant, where I developed the R shiny app Namco, which offers multiple analysis workflows for micobiome data. I then finished my Masters thesis in 2021, where I implemented an R package called SimBu, which can be used to simulate bulk RNA sequencing datasets with variable cell type composition.</description>
+      <description>I am a PhD student in the Big Data in Biomedicine group at TUM. I joined this group first in 2020 as a student research assistant, where I developed the R shiny app Namco, which offers multiple analysis workflows for micobiome data. I then finished my master&amp;rsquo;s thesis in 2021, where I implemented an R package called SimBu, which can be used to simulate bulk RNA sequencing datasets with variable cell type composition.</description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/michael_lauber/</guid>
-      <description>In June 2019 I started my PhD at the Chair of Experimental Bioinformatics. I have received a bachelor&amp;rsquo;s and master&amp;rsquo;s degree in Biochemistry from TUM. During my masters, I also started to study computer science at LMU. For my master thesis, I joined the lab of Alex Marson at UC San Francisco and established a CRISPR screen to study transcriptional regulation in human regulatory T cells. After finishing my studies I continued to apply CRISPR in T cells at TUM for another year.</description>
+      <description>In June 2019 I started my Ph.D. at the Chair of Experimental Bioinformatics. I have received a bachelor&amp;rsquo;s and master&amp;rsquo;s degree in Biochemistry from TUM. During my masters, I also started to study computer science at LMU. For my master&amp;rsquo;s thesis, I joined the lab of Alex Marson at UC San Francisco and established a CRISPR screen to study transcriptional regulation in human regulatory T cells. After finishing my studies I continued to apply CRISPR in T cells at TUM for another year.</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/quirin_manz/</guid>
-      <description>From 2016 to 2022, I studied Bioinformatics as B.Sc. and M.Sc. in a joint program at the LMU and TUM. For my Bachelor&amp;rsquo;s Thesis, I joined the ListLab in 2019 to look into histone modifications&amp;rsquo; impact on alternative splicing. From August 2019 until the end of 2022, I worked as a student research assistant in the group. My Master&amp;rsquo;s Thesis in the scope of the IHEC Integrative Analysis project expanded the idea of the Bachelor&amp;rsquo;s Thesis and added DNA methylation to the epigenetic marks that were associated with alternative splicing.</description>
+      <description>From 2016 to 2022, I studied Bioinformatics as B.Sc. and M.Sc. in a joint program at the LMU and TUM. For my bachelor&amp;rsquo;s thesis, I joined the ListLab in 2019 to look into histone modifications&amp;rsquo; impact on alternative splicing. From August 2019 until the end of 2022, I worked as a student research assistant in the group. My master&amp;rsquo;s thesis within the scope of the IHEC Integrative Analysis project expanded the idea of the bachelor&amp;rsquo;s thesis and added DNA methylation to the epigenetic marks that were associated with alternative splicing.</description>
     </item>
     
     <item>
@@ -81,7 +81,7 @@
       <pubDate>Sun, 01 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/johannes_kersting/</guid>
-      <description>I have been working as a student research assistant at the Chair of Experimental Bioinformatics since 2020. During this time, I mainly worked with and further developed the methylation analysis tool Dimmer. After completing my Master&amp;rsquo;s degree in Bioinformatics in July 2022, I decided to stay in the group as a PhD student. During my PhD, I will explore the field of drug repurposing as part of the REPO4EU project and in collaboration with the company GeneSurge GmbH.</description>
+      <description>I have been working as a student research assistant at the Chair of Experimental Bioinformatics since 2020. During this time, I mainly worked with and further developed the methylation analysis tool Dimmer. After completing my master&amp;rsquo;s degree in Bioinformatics in July 2022, I decided to stay in the group as a Ph.D. student. During my Ph.D., I will explore the field of drug repurposing as part of the REPO4EU project and in collaboration with the company GeneSurge GmbH.</description>
     </item>
     
     <item>
@@ -90,7 +90,7 @@
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/leon_schwartz/</guid>
-      <description>Leon is working on the implementation of a circRNA detection pipeline in his Bachelor&amp;rsquo;s Thesis. He is supervised by Markus Hoffmann. He is also working on namco and is jointly supervised by Alexander Dietrich and Monica Matchado</description>
+      <description>I am working on the implementation of a circRNA detection pipeline within the scope of my bachelor&amp;rsquo;s thesis, supervised by Markus Hoffmann. I am also working on Namco, where I am jointly supervised by Alexander Dietrich and Monica Matchado.</description>
     </item>
     
     <item>
@@ -108,7 +108,7 @@
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/nico_trummer/</guid>
-      <description>I joined the group as a HiWi in November 2021 during my first semester of studying bioinformatics. My first tasks included building a web application based on AngularJS and performance optimization for a TF-Prioritizer pipeline in collaboration with Markus Hoffmann. Currently I am also assisting with server administration tasks and the frontend development for the epistasis disease atlas project with Markus Hoffmann.</description>
+      <description>I joined the group as a HiWi in November 2021 during my first semester of studying Bioinformatics. My first tasks included building a web application based on AngularJS and performance optimization for a TF-Prioritizer pipeline in collaboration with Markus Hoffmann. Currently I am also assisting with server administration tasks and the frontend development for the epistasis disease atlas project with Markus Hoffmann.</description>
     </item>
     
     <item>
@@ -262,7 +262,7 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/julian_poschenrieder/</guid>
-      <description>While studying bioinformatics in the bachelor programme at TUM and LMU I joined the group biomedical big data within the scope of an internship to gain more practical experience in the fields of Bioinformatics. As I work for Markus Hoffmann , I assist with c++ programming tasks for the development of an epistasis detection tool called NeEDL.</description>
+      <description>While studying Bioinformatics in the bachelor program at TUM and LMU, I joined the group Biomedical Big Data within the scope of an internship to gain more practical experience in the field of Bioinformatics. Working for Markus Hoffmann, I assist with C++ programming tasks for the development of an epistasis detection tool called NeEDL.</description>
     </item>
     
     <item>
@@ -271,7 +271,7 @@ We develop machine learning models and user-friendly software tools that integra
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://biomedical-big-data.de/authors/sylvie_baier/</guid>
-      <description>I am a bioinformatics bachelor student at the Technical University of Munich and the Ludwig-Maximilians-University. Since October 2020, I am an intern at the Chair of Experimental Bioinformatics to gain more practical experience in bioinformatics. Currently I am working for Markus Hoffmann on the development of GenEpiSeeker, a tool for generic epistasis detection via local search.</description>
+      <description>I am a Bioinformatics bachelor student at the Technical University of Munich and the Ludwig-Maximilians-University. Since October 2020, I am an intern at the Chair of Experimental Bioinformatics to gain more practical experience in Bioinformatics. Currently, I am working for Markus Hoffmann on the development of GenEpiSeeker, a tool for generic epistasis detection via local search.</description>
     </item>
     
     <item>
