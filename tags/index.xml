@@ -7,15 +7,78 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Mon, 24 Oct 2022 19:39:58 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2023 19:39:58 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>ceRNA</title>
+      <link>https://biomedical-big-data.de/tags/cerna/</link>
+      <pubDate>Fri, 20 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/cerna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>circRNA</title>
+      <link>https://biomedical-big-data.de/tags/circrna/</link>
+      <pubDate>Fri, 20 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/circrna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microRNA</title>
+      <link>https://biomedical-big-data.de/tags/microrna/</link>
+      <pubDate>Fri, 20 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/microrna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nextflow</title>
+      <link>https://biomedical-big-data.de/tags/nextflow/</link>
+      <pubDate>Fri, 20 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/nextflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>non-coding RNA</title>
+      <link>https://biomedical-big-data.de/tags/non-coding-rna/</link>
+      <pubDate>Fri, 20 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/non-coding-rna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pipeline</title>
+      <link>https://biomedical-big-data.de/tags/pipeline/</link>
+      <pubDate>Fri, 20 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/pipeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sponging</title>
+      <link>https://biomedical-big-data.de/tags/sponging/</link>
+      <pubDate>Fri, 20 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/sponging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EpiGEN</title>
       <link>https://biomedical-big-data.de/tags/epigen/</link>
-      <pubDate>Mon, 24 Oct 2022 19:39:58 +0200</pubDate>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/epigen/</guid>
       <description></description>
@@ -24,7 +87,7 @@
     <item>
       <title>epigenetics</title>
       <link>https://biomedical-big-data.de/tags/epigenetics/</link>
-      <pubDate>Mon, 24 Oct 2022 19:39:58 +0200</pubDate>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/epigenetics/</guid>
       <description></description>
@@ -33,25 +96,25 @@
     <item>
       <title>java</title>
       <link>https://biomedical-big-data.de/tags/java/</link>
-      <pubDate>Mon, 24 Oct 2022 19:39:58 +0200</pubDate>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>pipeline</title>
-      <link>https://biomedical-big-data.de/tags/pipeline/</link>
-      <pubDate>Mon, 24 Oct 2022 19:39:58 +0200</pubDate>
+      <title>microbiome</title>
+      <link>https://biomedical-big-data.de/tags/microbiome/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0100</pubDate>
       
-      <guid>https://biomedical-big-data.de/tags/pipeline/</guid>
+      <guid>https://biomedical-big-data.de/tags/microbiome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TFs</title>
       <link>https://biomedical-big-data.de/tags/tfs/</link>
-      <pubDate>Mon, 24 Oct 2022 19:39:58 +0200</pubDate>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/tfs/</guid>
       <description></description>
@@ -60,9 +123,81 @@
     <item>
       <title>transcription factors</title>
       <link>https://biomedical-big-data.de/tags/transcription-factors/</link>
-      <pubDate>Mon, 24 Oct 2022 19:39:58 +0200</pubDate>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/transcription-factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computational life sciences</title>
+      <link>https://biomedical-big-data.de/tags/computational-life-sciences/</link>
+      <pubDate>Sun, 01 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/computational-life-sciences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drug target prediction</title>
+      <link>https://biomedical-big-data.de/tags/drug-target-prediction/</link>
+      <pubDate>Sun, 01 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/drug-target-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>epigenomics</title>
+      <link>https://biomedical-big-data.de/tags/epigenomics/</link>
+      <pubDate>Sun, 01 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/epigenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-omics</title>
+      <link>https://biomedical-big-data.de/tags/multi-omics/</link>
+      <pubDate>Sun, 01 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/multi-omics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network medicine</title>
+      <link>https://biomedical-big-data.de/tags/network-medicine/</link>
+      <pubDate>Sun, 01 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/network-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>single cell</title>
+      <link>https://biomedical-big-data.de/tags/single-cell/</link>
+      <pubDate>Sun, 01 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/single-cell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatial transcriptomics</title>
+      <link>https://biomedical-big-data.de/tags/spatial-transcriptomics/</link>
+      <pubDate>Sun, 01 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/spatial-transcriptomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>systems medicine</title>
+      <link>https://biomedical-big-data.de/tags/systems-medicine/</link>
+      <pubDate>Sun, 01 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/systems-medicine/</guid>
       <description></description>
     </item>
     
@@ -103,15 +238,6 @@
     </item>
     
     <item>
-      <title>microbiome</title>
-      <link>https://biomedical-big-data.de/tags/microbiome/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/microbiome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cell type heterogeneity</title>
       <link>https://biomedical-big-data.de/tags/cell-type-heterogeneity/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0200</pubDate>
@@ -148,15 +274,6 @@
     </item>
     
     <item>
-      <title>systems medicine</title>
-      <link>https://biomedical-big-data.de/tags/systems-medicine/</link>
-      <pubDate>Tue, 17 May 2022 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/systems-medicine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>bulk RNA-seq</title>
       <link>https://biomedical-big-data.de/tags/bulk-rna-seq/</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0200</pubDate>
@@ -180,15 +297,6 @@
       <pubDate>Fri, 06 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/simulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ceRNA</title>
-      <link>https://biomedical-big-data.de/tags/cerna/</link>
-      <pubDate>Fri, 15 Apr 2022 19:39:58 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/cerna/</guid>
       <description></description>
     </item>
     
@@ -220,11 +328,11 @@
     </item>
     
     <item>
-      <title>computational life sciences</title>
-      <link>https://biomedical-big-data.de/tags/computational-life-sciences/</link>
+      <title>genomics</title>
+      <link>https://biomedical-big-data.de/tags/genomics/</link>
       <pubDate>Tue, 28 Sep 2021 19:39:58 +0200</pubDate>
       
-      <guid>https://biomedical-big-data.de/tags/computational-life-sciences/</guid>
+      <guid>https://biomedical-big-data.de/tags/genomics/</guid>
       <description></description>
     </item>
     
@@ -238,11 +346,20 @@
     </item>
     
     <item>
-      <title>network medicine</title>
-      <link>https://biomedical-big-data.de/tags/network-medicine/</link>
+      <title>metabolomics</title>
+      <link>https://biomedical-big-data.de/tags/metabolomics/</link>
       <pubDate>Tue, 28 Sep 2021 19:39:58 +0200</pubDate>
       
-      <guid>https://biomedical-big-data.de/tags/network-medicine/</guid>
+      <guid>https://biomedical-big-data.de/tags/metabolomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>population cohort</title>
+      <link>https://biomedical-big-data.de/tags/population-cohort/</link>
+      <pubDate>Tue, 28 Sep 2021 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tags/population-cohort/</guid>
       <description></description>
     </item>
     
@@ -351,15 +468,6 @@
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/alternative-splicing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>epigenomics</title>
-      <link>https://biomedical-big-data.de/tags/epigenomics/</link>
-      <pubDate>Wed, 27 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/epigenomics/</guid>
       <description></description>
     </item>
     
@@ -535,15 +643,6 @@
     </item>
     
     <item>
-      <title>single-cell</title>
-      <link>https://biomedical-big-data.de/tags/single-cell/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/single-cell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>systems biology</title>
       <link>https://biomedical-big-data.de/tags/systems-biology/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
@@ -634,15 +733,6 @@
     </item>
     
     <item>
-      <title>microRNA</title>
-      <link>https://biomedical-big-data.de/tags/microrna/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/microrna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>competing endogenous RNAs</title>
       <link>https://biomedical-big-data.de/tags/competing-endogenous-rnas/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
@@ -657,15 +747,6 @@
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/tags/conditional-mutual-information/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sponging</title>
-      <link>https://biomedical-big-data.de/tags/sponging/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/tags/sponging/</guid>
       <description></description>
     </item>
     

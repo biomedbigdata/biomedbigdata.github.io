@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/lothar-hennighausen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>circRNA-sponging: a pipeline for extensive analysis of circRNA expression and their role in miRNA sponging</title>
+      <link>https://biomedical-big-data.de/publication/hoffmann-2023-circrna/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hoffmann-2023-circrna/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TF-Prioritizer: a java pipeline to prioritize condition-specific transcription factors</title>

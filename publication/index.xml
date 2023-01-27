@@ -13,6 +13,33 @@
     
     
     <item>
+      <title>circRNA-sponging: a pipeline for extensive analysis of circRNA expression and their role in miRNA sponging</title>
+      <link>https://biomedical-big-data.de/publication/hoffmann-2023-circrna/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hoffmann-2023-circrna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cracking the black box of deep sequence-based protein-protein interaction prediction</title>
+      <link>https://biomedical-big-data.de/publication/bernett-2023-ppi-leakage/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/bernett-2023-ppi-leakage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic analysis of alternative splicing in time course data using Spycone</title>
+      <link>https://biomedical-big-data.de/publication/lio-2022-spycone/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lio-2022-spycone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gut Microbial Disruption in Critically Ill Patients with COVID-19-Associated Pulmonary Aspergillosis</title>
       <link>https://biomedical-big-data.de/publication/maurer-2022-gut-microbiome-covid-aspergillosis/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
@@ -90,15 +117,6 @@
       <pubDate>Sun, 01 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/lazareva-2022-dysregnet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Systematic analysis of alternative splicing in time course data using Spycone</title>
-      <link>https://biomedical-big-data.de/publication/lio-2022-spycone/</link>
-      <pubDate>Fri, 29 Apr 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/lio-2022-spycone/</guid>
       <description></description>
     </item>
     

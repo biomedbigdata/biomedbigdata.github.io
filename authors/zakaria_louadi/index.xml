@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/zakaria_louadi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Systematic analysis of alternative splicing in time course data using Spycone</title>
+      <link>https://biomedical-big-data.de/publication/lio-2022-spycone/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lio-2022-spycone/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DysRegNet: Patient-specific and confounder-aware dysregulated network inference</title>
@@ -18,15 +27,6 @@
       <pubDate>Sun, 01 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/lazareva-2022-dysregnet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Systematic analysis of alternative splicing in time course data using Spycone</title>
-      <link>https://biomedical-big-data.de/publication/lio-2022-spycone/</link>
-      <pubDate>Fri, 29 Apr 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/lio-2022-spycone/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>multi-omics on Big Data in Biomedicine</title>
@@ -6,19 +6,19 @@
     <description>Recent content in multi-omics on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 28 Sep 2018 19:39:58 +0200</lastBuildDate>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Sun, 01 Jan 2023 19:39:58 +0200</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/tags/multi-omics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Large-scale epigenomics data analysis</title>
-      <link>https://biomedical-big-data.de/project/deepblue/</link>
-      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      <title>MOPITAS</title>
+      <link>https://biomedical-big-data.de/project/mopitas/</link>
+      <pubDate>Sun, 01 Jan 2023 19:39:58 +0200</pubDate>
       
-      <guid>https://biomedical-big-data.de/project/deepblue/</guid>
-      <description></description>
+      <guid>https://biomedical-big-data.de/project/mopitas/</guid>
+      <description>The Novo Nordisk Foundation support the project MOPITAS where we seek to develop computational methods for integrating spatial and single-cell omics data.</description>
     </item>
     
   </channel>

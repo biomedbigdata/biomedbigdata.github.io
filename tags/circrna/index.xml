@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>circRNA on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/tags/circrna/</link>
+    <description>Recent content in circRNA on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Fri, 20 Jan 2023 19:39:58 +0200</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/tags/circrna/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>circRNA-sponging</title>
+      <link>https://biomedical-big-data.de/tool/circrna-sponging/</link>
+      <pubDate>Fri, 20 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/circrna-sponging/</guid>
+      <description>a nextflow pipeline to identify circRNAs involved in miRNA sponging.</description>
+    </item>
+    
+  </channel>
+</rss>

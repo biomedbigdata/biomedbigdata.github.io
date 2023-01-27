@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2023 09:30:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/markus_list/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Genetoberfest</title>
+      <link>https://biomedical-big-data.de/talk/genetoberfest2023/</link>
+      <pubDate>Mon, 16 Oct 2023 09:30:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/genetoberfest2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>circRNA-sponging: a pipeline for extensive analysis of circRNA expression and their role in miRNA sponging</title>
+      <link>https://biomedical-big-data.de/publication/hoffmann-2023-circrna/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hoffmann-2023-circrna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cracking the black box of deep sequence-based protein-protein interaction prediction</title>
+      <link>https://biomedical-big-data.de/publication/bernett-2023-ppi-leakage/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/bernett-2023-ppi-leakage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic analysis of alternative splicing in time course data using Spycone</title>
+      <link>https://biomedical-big-data.de/publication/lio-2022-spycone/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lio-2022-spycone/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gut Microbial Disruption in Critically Ill Patients with COVID-19-Associated Pulmonary Aspergillosis</title>
@@ -36,6 +72,15 @@
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/hoffmann-2022-tfprioritizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1st Weihenstephan Bioinformatics Symposium</title>
+      <link>https://biomedical-big-data.de/talk/weihenstephan_1st_symposium/</link>
+      <pubDate>Thu, 20 Oct 2022 09:30:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/weihenstephan_1st_symposium/</guid>
       <description></description>
     </item>
     
@@ -94,15 +139,6 @@
     </item>
     
     <item>
-      <title>Systematic analysis of alternative splicing in time course data using Spycone</title>
-      <link>https://biomedical-big-data.de/publication/lio-2022-spycone/</link>
-      <pubDate>Fri, 29 Apr 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/lio-2022-spycone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multi-Omics Regulatory Network Inference in the Presence of Missing Data</title>
       <link>https://biomedical-big-data.de/publication/henao-2022-kimono/</link>
       <pubDate>Fri, 15 Apr 2022 00:00:00 +0200</pubDate>
@@ -144,6 +180,15 @@
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/fenn-2022-alternative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust disease module mining via enumeration of diverse prize-collecting Steiner trees</title>
+      <link>https://biomedical-big-data.de/publication/bernett-2022-robust/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/bernett-2022-robust/</guid>
       <description></description>
     </item>
     

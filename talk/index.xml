@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Big Data in Biomedicine</title>
+    <title>Events on Big Data in Biomedicine</title>
     <link>https://biomedical-big-data.de/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Big Data in Biomedicine</description>
+    <description>Recent content in Events on Big Data in Biomedicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 02 Nov 2021 09:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2023 09:30:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Genetoberfest</title>
+      <link>https://biomedical-big-data.de/talk/genetoberfest2023/</link>
+      <pubDate>Mon, 16 Oct 2023 09:30:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/genetoberfest2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1st Weihenstephan Bioinformatics Symposium</title>
+      <link>https://biomedical-big-data.de/talk/weihenstephan_1st_symposium/</link>
+      <pubDate>Thu, 20 Oct 2022 09:30:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/weihenstephan_1st_symposium/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Network tools for de novo endophenotyping and detecting disease mechanisms</title>

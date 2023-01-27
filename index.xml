@@ -7,15 +7,15 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2023 09:30:00 +0100</lastBuildDate>
     
 	    <atom:link href="https://biomedical-big-data.de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Events</title>
       <link>https://biomedical-big-data.de/talk/</link>
-      <pubDate>Tue, 02 Nov 2021 09:30:00 +0100</pubDate>
+      <pubDate>Mon, 16 Oct 2023 09:30:00 +0100</pubDate>
       
       <guid>https://biomedical-big-data.de/talk/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Projects</title>
       <link>https://biomedical-big-data.de/project/</link>
-      <pubDate>Tue, 28 Sep 2021 19:39:58 +0200</pubDate>
+      <pubDate>Sun, 01 Jan 2023 19:39:58 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/project/</guid>
       <description></description>

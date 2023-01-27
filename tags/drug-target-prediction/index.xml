@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drug target prediction on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/tags/drug-target-prediction/</link>
+    <description>Recent content in drug target prediction on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Sun, 01 Jan 2023 19:39:58 +0200</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/tags/drug-target-prediction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DROP2AI</title>
+      <link>https://biomedical-big-data.de/project/drop2ai/</link>
+      <pubDate>Sun, 01 Jan 2023 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/project/drop2ai/</guid>
+      <description>The BMBF-funded DROP2AI project aims to predict drug response from transcriptomics and proteomics drug screens using state of the art AI methods.</description>
+    </item>
+    
+  </channel>
+</rss>
