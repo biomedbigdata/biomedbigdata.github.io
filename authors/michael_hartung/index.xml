@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 17 May 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://biomedical-big-data.de/authors/michael_hartung/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Cancer driver drug interaction explorer</title>
-      <link>https://biomedical-big-data.de/publication/hartung-2022-caddie/</link>
-      <pubDate>Tue, 17 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://biomedical-big-data.de/publication/hartung-2022-caddie/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>SPONGEdb: a pan-cancer resource for competing endogenous RNA interactions</title>

@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>Network-based approaches for modeling disease regulation and progression</title>
+      <link>https://biomedical-big-data.de/publication/galindez-2023-grn-review/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/galindez-2023-grn-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gut Microbial Disruption in Critically Ill Patients with COVID-19-Associated Pulmonary Aspergillosis</title>
       <link>https://biomedical-big-data.de/publication/maurer-2022-gut-microbiome-covid-aspergillosis/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0100</pubDate>
@@ -63,6 +72,15 @@
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0200</pubDate>
       
       <guid>https://biomedical-big-data.de/publication/hoffmann-2022-tfprioritizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference of differential gene regulatory networks from gene expression data using boosted differential trees</title>
+      <link>https://biomedical-big-data.de/publication/galindez-2022-boostdiff/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/galindez-2022-boostdiff/</guid>
       <description></description>
     </item>
     

@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>Inference of differential gene regulatory networks from gene expression data using boosted differential trees</title>
+      <link>https://biomedical-big-data.de/publication/galindez-2022-boostdiff/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/galindez-2022-boostdiff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SimBu: Bias-aware simulation of bulk RNA-seq data with variable cell type composition</title>
       <link>https://biomedical-big-data.de/publication/dietrich-2022-simbu/</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0200</pubDate>
